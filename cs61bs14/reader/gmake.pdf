@@ -1,0 +1,9505 @@
+%PDF-1.1
+%«Ïè¢
+4 0 obj
+<< /Length 5 0 R >>
+stream
+q
+endstream
+endobj
+5 0 obj
+2
+endobj
+6 0 obj
+<< /Type /Font /Name /R6 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+7 0 obj
+<< /Length 8 0 R >>
+stream
+BT
+/R6 11 Tf
+1 0 0 1 234.72 647.28 Tm
+(UNIVERSITY) Tj
+1 0 0 1 303.12 647.28 Tm
+(OF) Tj
+1 0 0 1 319.92 647.28 Tm
+(CALIFORNIA) Tj
+1 0 0 1 228 633.6 Tm
+(Department) Tj
+1 0 0 1 282.48 633.6 Tm
+(of) Tj
+1 0 0 1 294.48 633.6 Tm
+(Electrical) Tj
+1 0 0 1 339.12 633.6 Tm
+(Engineering) Tj
+1 0 0 1 258.72 620.16 Tm
+(and) Tj
+1 0 0 1 277.2 620.16 Tm
+(Computer) Tj
+1 0 0 1 323.76 620.16 Tm
+(Sciences) Tj
+1 0 0 1 250.08 606.48 Tm
+(Computer) Tj
+1 0 0 1 296.64 606.48 Tm
+(Science) Tj
+1 0 0 1 333.36 606.48 Tm
+(Di) Tj
+1 0 0 1 344.16 606.48 Tm
+(vision) Tj
+ET
+endstream
+endobj
+8 0 obj
+539
+endobj
+9 0 obj
+<< /Type /Font /Name /R9 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+10 0 obj
+<< /Length 11 0 R >>
+stream
+BT
+/R9 11 Tf
+1 0 0 1 90 559.2 Tm
+(CS61B) Tj
+1 0 0 1 464.64 559.2 Tm
+(P) Tj
+1 0 0 1 470.16 559.2 Tm
+(.) Tj
+1 0 0 1 475.44 559.2 Tm
+(N.) Tj
+1 0 0 1 488.88 559.2 Tm
+(Hil\256nger) Tj
+1 0 0 1 90 545.76 Tm
+(Spring) Tj
+1 0 0 1 124.32 545.76 Tm
+(1998) Tj
+1 0 0 1 218.4 504 Tm
+(Basic) Tj
+1 0 0 1 246 504 Tm
+(Compilation) Tj
+1 0 0 1 307.2 504 Tm
+(Contr) Tj
+1 0 0 1 334.8 504 Tm
+(ol) Tj
+1 0 0 1 346.32 504 Tm
+(with) Tj
+ET
+endstream
+endobj
+11 0 obj
+411
+endobj
+12 0 obj
+<< /Type /Font /Name /R12 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+13 0 obj
+<< /Length 14 0 R >>
+stream
+BT
+/R12 11 Tf
+1 0 0 1 369.6 504 Tm
+(Gmake) Tj
+/R6 11 Tf
+1 0 0 1 106.8 479.04 Tm
+(Ev) Tj
+1 0 0 1 118.8 479.04 Tm
+(en) Tj
+1 0 0 1 132 479.04 Tm
+(relati) Tj
+1 0 0 1 154.32 479.04 Tm
+(v) Tj
+1 0 0 1 159.6 479.04 Tm
+(ely) Tj
+1 0 0 1 175.92 479.04 Tm
+(small) Tj
+1 0 0 1 202.32 479.04 Tm
+(software) Tj
+1 0 0 1 242.88 479.04 Tm
+(systems) Tj
+1 0 0 1 280.32 479.04 Tm
+(can) Tj
+1 0 0 1 298.32 479.04 Tm
+(require) Tj
+1 0 0 1 332.159 479.04 Tm
+(rather) Tj
+1 0 0 1 360.479 479.04 Tm
+(in) Tj
+1 0 0 1 368.639 479.04 Tm
+(v) Tj
+1 0 0 1 373.919 479.04 Tm
+(olv) Tj
+1 0 0 1 387.839 479.04 Tm
+(ed,) Tj
+1 0 0 1 403.679 479.04 Tm
+(or) Tj
+1 0 0 1 415.679 479.04 Tm
+(at) Tj
+1 0 0 1 426.479 479.04 Tm
+(least) Tj
+1 0 0 1 449.279 479.04 Tm
+(tedious,) Tj
+1 0 0 1 486.479 479.04 Tm
+(sequences) Tj
+1 0 0 1 90 465.36 Tm
+(of) Tj
+1 0 0 1 101.28 465.36 Tm
+(instructions) Tj
+1 0 0 1 154.8 465.36 Tm
+(to) Tj
+1 0 0 1 165.6 465.36 Tm
+(translate) Tj
+1 0 0 1 204.96 465.36 Tm
+(them) Tj
+1 0 0 1 229.2 465.36 Tm
+(from) Tj
+1 0 0 1 252.72 465.36 Tm
+(source) Tj
+1 0 0 1 283.679 465.36 Tm
+(to) Tj
+1 0 0 1 294.479 465.36 Tm
+(e) Tj
+1 0 0 1 299.039 465.36 Tm
+(x) Tj
+1 0 0 1 304.319 465.36 Tm
+(ecutable) Tj
+1 0 0 1 343.199 465.36 Tm
+(forms.) Tj
+1 0 0 1 375.359 465.36 Tm
+(Furthermore,) Tj
+1 0 0 1 435.119 465.36 Tm
+(since) Tj
+1 0 0 1 460.079 465.36 Tm
+(translation) Tj
+1 0 0 1 508.559 465.36 Tm
+(takes) Tj
+1 0 0 1 90 451.92 Tm
+(time) Tj
+1 0 0 1 112.08 451.92 Tm
+(\(more) Tj
+1 0 0 1 141.12 451.92 Tm
+(than) Tj
+1 0 0 1 162.72 451.92 Tm
+(it) Tj
+1 0 0 1 171.6 451.92 Tm
+(should\)) Tj
+1 0 0 1 207.12 451.92 Tm
+(and) Tj
+1 0 0 1 225.6 451.92 Tm
+(systems) Tj
+1 0 0 1 263.04 451.92 Tm
+(generally) Tj
+1 0 0 1 306.719 451.92 Tm
+(come) Tj
+1 0 0 1 333.119 451.92 Tm
+(in) Tj
+1 0 0 1 344.399 451.92 Tm
+(separately-translatable) Tj
+1 0 0 1 445.679 451.92 Tm
+(parts,) Tj
+1 0 0 1 472.559 451.92 Tm
+(it) Tj
+1 0 0 1 481.439 451.92 Tm
+(is) Tj
+1 0 0 1 491.279 451.92 Tm
+(desirable) Tj
+1 0 0 1 90 438.24 Tm
+(to) Tj
+1 0 0 1 102 438.24 Tm
+(sa) Tj
+1 0 0 1 110.88 438.24 Tm
+(v) Tj
+1 0 0 1 116.16 438.24 Tm
+(e) Tj
+1 0 0 1 124.56 438.24 Tm
+(time) Tj
+1 0 0 1 147.36 438.24 Tm
+(by) Tj
+1 0 0 1 162 438.24 Tm
+(updating) Tj
+1 0 0 1 203.76 438.24 Tm
+(only) Tj
+1 0 0 1 226.56 438.24 Tm
+(those) Tj
+1 0 0 1 253.2 438.24 Tm
+(portions) Tj
+1 0 0 1 292.56 438.24 Tm
+(whose) Tj
+1 0 0 1 324.24 438.24 Tm
+(source) Tj
+1 0 0 1 356.159 438.24 Tm
+(has) Tj
+1 0 0 1 374.399 438.24 Tm
+(changed) Tj
+1 0 0 1 414.239 438.24 Tm
+(since) Tj
+1 0 0 1 440.159 438.24 Tm
+(the) Tj
+1 0 0 1 457.199 438.24 Tm
+(last) Tj
+1 0 0 1 475.919 438.24 Tm
+(compilation.) Tj
+1 0 0 1 90 424.8 Tm
+(Ho) Tj
+1 0 0 1 103.2 424.8 Tm
+(we) Tj
+1 0 0 1 115.68 424.8 Tm
+(v) Tj
+1 0 0 1 120.96 424.8 Tm
+(er) Tj
+1 0 0 1 128.88 424.8 Tm
+(,) Tj
+1 0 0 1 134.4 424.8 Tm
+(keeping) Tj
+1 0 0 1 171.6 424.8 Tm
+(track) Tj
+1 0 0 1 196.08 424.8 Tm
+(of) Tj
+1 0 0 1 207.84 424.8 Tm
+(and) Tj
+1 0 0 1 226.56 424.8 Tm
+(using) Tj
+1 0 0 1 252.96 424.8 Tm
+(such) Tj
+1 0 0 1 275.52 424.8 Tm
+(information) Tj
+1 0 0 1 329.999 424.8 Tm
+(is) Tj
+1 0 0 1 340.079 424.8 Tm
+(itself) Tj
+1 0 0 1 364.559 424.8 Tm
+(a) Tj
+1 0 0 1 371.999 424.8 Tm
+(tedious) Tj
+1 0 0 1 406.319 424.8 Tm
+(and) Tj
+1 0 0 1 424.799 424.8 Tm
+(error) Tj
+1 0 0 1 445.679 424.8 Tm
+(-prone) Tj
+1 0 0 1 477.119 424.8 Tm
+(task,) Tj
+1 0 0 1 500.159 424.8 Tm
+(if) Tj
+1 0 0 1 509.519 424.8 Tm
+(done) Tj
+1 0 0 1 90 411.12 Tm
+(by) Tj
+1 0 0 1 103.68 411.12 Tm
+(hand.) Tj
+1 0 0 1 106.8 397.68 Tm
+(The) Tj
+1 0 0 1 128.4 397.68 Tm
+(UNIX) Tj
+/R12 11 Tf
+1 0 0 1 160.08 397.68 Tm
+(make) Tj
+/R6 11 Tf
+1 0 0 1 190.8 397.68 Tm
+(utility) Tj
+1 0 0 1 221.28 397.68 Tm
+(is) Tj
+1 0 0 1 233.04 397.68 Tm
+(a) Tj
+1 0 0 1 242.16 397.68 Tm
+(conceptually-simple) Tj
+1 0 0 1 335.52 397.68 Tm
+(and) Tj
+1 0 0 1 355.68 397.68 Tm
+(general) Tj
+1 0 0 1 392.4 397.68 Tm
+(solution) Tj
+1 0 0 1 431.999 397.68 Tm
+(to) Tj
+1 0 0 1 444.959 397.68 Tm
+(these) Tj
+1 0 0 1 471.839 397.68 Tm
+(problems.) Tj
+1 0 0 1 524.159 397.68 Tm
+(It) Tj
+1 0 0 1 90 384.24 Tm
+(accepts) Tj
+1 0 0 1 126.24 384.24 Tm
+(as) Tj
+1 0 0 1 139.2 384.24 Tm
+(input) Tj
+1 0 0 1 165.6 384.24 Tm
+(a) Tj
+1 0 0 1 174.48 384.24 Tm
+(description) Tj
+1 0 0 1 227.04 384.24 Tm
+(of) Tj
+1 0 0 1 240.24 384.24 Tm
+(the) Tj
+1 0 0 1 257.52 384.24 Tm
+(interdependencies) Tj
+1 0 0 1 340.56 384.24 Tm
+(of) Tj
+1 0 0 1 353.519 384.24 Tm
+(a) Tj
+1 0 0 1 362.399 384.24 Tm
+(set) Tj
+1 0 0 1 378.479 384.24 Tm
+(of) Tj
+1 0 0 1 391.679 384.24 Tm
+(source) Tj
+1 0 0 1 424.079 384.24 Tm
+(\256les) Tj
+1 0 0 1 446.399 384.24 Tm
+(and) Tj
+1 0 0 1 466.079 384.24 Tm
+(the) Tj
+1 0 0 1 483.359 384.24 Tm
+(commands) Tj
+1 0 0 1 90 370.56 Tm
+(necessary) Tj
+1 0 0 1 135.6 370.56 Tm
+(to) Tj
+1 0 0 1 147.12 370.56 Tm
+(compile) Tj
+1 0 0 1 185.28 370.56 Tm
+(them,) Tj
+1 0 0 1 213.12 370.56 Tm
+(kno) Tj
+1 0 0 1 229.44 370.56 Tm
+(wn) Tj
+1 0 0 1 245.52 370.56 Tm
+(as) Tj
+1 0 0 1 257.76 370.56 Tm
+(a) Tj
+ET
+endstream
+endobj
+14 0 obj
+4779
+endobj
+15 0 obj
+<< /Type /Font /Name /R15 /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+16 0 obj
+<< /Length 17 0 R >>
+stream
+BT
+/R15 11 Tf
+1 0 0 1 265.44 370.56 Tm
+(make\256le) Tj
+/R6 11 Tf
+1 0 0 1 301.92 370.56 Tm
+(;) Tj
+1 0 0 1 308.16 370.56 Tm
+(it) Tj
+1 0 0 1 317.28 370.56 Tm
+(e) Tj
+1 0 0 1 321.84 370.56 Tm
+(xamines) Tj
+1 0 0 1 361.44 370.56 Tm
+(the) Tj
+1 0 0 1 377.759 370.56 Tm
+(ages) Tj
+1 0 0 1 400.319 370.56 Tm
+(of) Tj
+1 0 0 1 412.319 370.56 Tm
+(the) Tj
+1 0 0 1 428.639 370.56 Tm
+(appropriate) Tj
+1 0 0 1 481.679 370.56 Tm
+(\256les;) Tj
+1 0 0 1 505.919 370.56 Tm
+(and) Tj
+1 0 0 1 524.879 370.56 Tm
+(it) Tj
+1 0 0 1 90 357.12 Tm
+(e) Tj
+1 0 0 1 94.56 357.12 Tm
+(x) Tj
+1 0 0 1 99.84 357.12 Tm
+(ecutes) Tj
+1 0 0 1 130.08 357.12 Tm
+(whate) Tj
+1 0 0 1 156 357.12 Tm
+(v) Tj
+1 0 0 1 161.28 357.12 Tm
+(er) Tj
+1 0 0 1 172.56 357.12 Tm
+(commands) Tj
+1 0 0 1 222.72 357.12 Tm
+(are) Tj
+1 0 0 1 238.8 357.12 Tm
+(necessary) Tj
+1 0 0 1 280.56 357.12 Tm
+(,) Tj
+1 0 0 1 286.08 357.12 Tm
+(according) Tj
+1 0 0 1 332.16 357.12 Tm
+(to) Tj
+1 0 0 1 343.44 357.12 Tm
+(the) Tj
+1 0 0 1 359.52 357.12 Tm
+(description.) Tj
+1 0 0 1 414.959 357.12 Tm
+(F) Tj
+1 0 0 1 420.719 357.12 Tm
+(or) Tj
+1 0 0 1 432.719 357.12 Tm
+(further) Tj
+1 0 0 1 465.119 357.12 Tm
+(con) Tj
+1 0 0 1 480.479 357.12 Tm
+(v) Tj
+1 0 0 1 485.759 357.12 Tm
+(enience,) Tj
+1 0 0 1 524.879 357.12 Tm
+(it) Tj
+1 0 0 1 90 343.44 Tm
+(will) Tj
+1 0 0 1 109.44 343.44 Tm
+(supply) Tj
+1 0 0 1 141.12 343.44 Tm
+(certain) Tj
+1 0 0 1 173.52 343.44 Tm
+(standard) Tj
+1 0 0 1 213.12 343.44 Tm
+(actions) Tj
+1 0 0 1 246.72 343.44 Tm
+(and) Tj
+1 0 0 1 264.96 343.44 Tm
+(dependencies) Tj
+1 0 0 1 326.4 343.44 Tm
+(by) Tj
+1 0 0 1 339.839 343.44 Tm
+(default,) Tj
+1 0 0 1 375.359 343.44 Tm
+(making) Tj
+1 0 0 1 410.879 343.44 Tm
+(it) Tj
+1 0 0 1 419.519 343.44 Tm
+(unnecessary) Tj
+1 0 0 1 475.439 343.44 Tm
+(to) Tj
+1 0 0 1 486.479 343.44 Tm
+(state) Tj
+1 0 0 1 509.039 343.44 Tm
+(them) Tj
+1 0 0 1 90 330 Tm
+(e) Tj
+1 0 0 1 94.56 330 Tm
+(xplicitly) Tj
+1 0 0 1 130.8 330 Tm
+(.) Tj
+1 0 0 1 106.8 316.32 Tm
+(There) Tj
+1 0 0 1 135.6 316.32 Tm
+(are) Tj
+1 0 0 1 152.16 316.32 Tm
+(numerous) Tj
+1 0 0 1 198.72 316.32 Tm
+(dialects) Tj
+1 0 0 1 235.44 316.32 Tm
+(of) Tj
+/R12 11 Tf
+1 0 0 1 247.68 316.32 Tm
+(make) Tj
+/R6 11 Tf
+1 0 0 1 273.6 316.32 Tm
+(,) Tj
+1 0 0 1 280.08 316.32 Tm
+(both) Tj
+1 0 0 1 302.88 316.32 Tm
+(among) Tj
+1 0 0 1 335.759 316.32 Tm
+(UNIX) Tj
+1 0 0 1 366.479 316.32 Tm
+(installations) Tj
+1 0 0 1 422.639 316.32 Tm
+(and) Tj
+1 0 0 1 441.599 316.32 Tm
+(\(under) Tj
+1 0 0 1 473.519 316.32 Tm
+(other) Tj
+1 0 0 1 499.199 316.32 Tm
+(names\)) Tj
+1 0 0 1 90 302.88 Tm
+(in) Tj
+1 0 0 1 101.04 302.88 Tm
+(programming) Tj
+1 0 0 1 163.2 302.88 Tm
+(en) Tj
+1 0 0 1 173.04 302.88 Tm
+(vironments) Tj
+1 0 0 1 224.88 302.88 Tm
+(for) Tj
+1 0 0 1 240 302.88 Tm
+(personal) Tj
+1 0 0 1 279.84 302.88 Tm
+(computers.) Tj
+1 0 0 1 331.919 302.88 Tm
+(In) Tj
+1 0 0 1 343.679 302.88 Tm
+(this) Tj
+1 0 0 1 361.919 302.88 Tm
+(course,) Tj
+1 0 0 1 395.759 302.88 Tm
+(we) Tj
+1 0 0 1 411.119 302.88 Tm
+(will) Tj
+1 0 0 1 430.799 302.88 Tm
+(use) Tj
+1 0 0 1 447.839 302.88 Tm
+(a) Tj
+1 0 0 1 455.039 302.88 Tm
+(v) Tj
+1 0 0 1 460.319 302.88 Tm
+(ersion) Tj
+1 0 0 1 489.839 302.88 Tm
+(kno) Tj
+1 0 0 1 506.159 302.88 Tm
+(wn) Tj
+1 0 0 1 521.759 302.88 Tm
+(as) Tj
+/R12 11 Tf
+1 0 0 1 90 289.2 Tm
+(gmake) Tj
+/R6 8 Tf
+1 0 0 1 122.4 293.28 Tm
+(1) Tj
+/R6 11 Tf
+1 0 0 1 127.2 289.2 Tm
+(.) Tj
+1 0 0 1 134.64 289.2 Tm
+(Though) Tj
+1 0 0 1 171.84 289.2 Tm
+(conceptually) Tj
+1 0 0 1 230.64 289.2 Tm
+(simple,) Tj
+1 0 0 1 265.68 289.2 Tm
+(the) Tj
+/R12 11 Tf
+1 0 0 1 282 289.2 Tm
+(make) Tj
+/R6 11 Tf
+1 0 0 1 311.28 289.2 Tm
+(utility) Tj
+1 0 0 1 340.56 289.2 Tm
+(has) Tj
+1 0 0 1 358.08 289.2 Tm
+(accreted) Tj
+1 0 0 1 397.679 289.2 Tm
+(features) Tj
+1 0 0 1 435.359 289.2 Tm
+(with) Tj
+1 0 0 1 457.679 289.2 Tm
+(age) Tj
+1 0 0 1 475.919 289.2 Tm
+(and) Tj
+1 0 0 1 494.639 289.2 Tm
+(use,) Tj
+1 0 0 1 515.039 289.2 Tm
+(and) Tj
+1 0 0 1 90 275.76 Tm
+(is) Tj
+1 0 0 1 100.32 275.76 Tm
+(rather) Tj
+1 0 0 1 128.88 275.76 Tm
+(imposing) Tj
+1 0 0 1 172.8 275.76 Tm
+(in) Tj
+1 0 0 1 184.32 275.76 Tm
+(the) Tj
+1 0 0 1 200.64 275.76 Tm
+(glory) Tj
+1 0 0 1 226.8 275.76 Tm
+(of) Tj
+1 0 0 1 239.04 275.76 Tm
+(its) Tj
+1 0 0 1 252.48 275.76 Tm
+(full) Tj
+1 0 0 1 270.719 275.76 Tm
+(de\256nition.) Tj
+1 0 0 1 320.399 275.76 Tm
+(This) Tj
+1 0 0 1 342.959 275.76 Tm
+(document) Tj
+1 0 0 1 389.039 275.76 Tm
+(describes) Tj
+1 0 0 1 432.959 275.76 Tm
+(only) Tj
+1 0 0 1 455.519 275.76 Tm
+(the) Tj
+1 0 0 1 471.839 275.76 Tm
+(simple) Tj
+1 0 0 1 504.239 275.76 Tm
+(use) Tj
+1 0 0 1 521.759 275.76 Tm
+(of) Tj
+/R12 11 Tf
+1 0 0 1 90 262.08 Tm
+(gmake) Tj
+/R6 11 Tf
+1 0 0 1 122.4 262.08 Tm
+(.) Tj
+/R9 12 Tf
+1 0 0 1 90 232.32 Tm
+(1) Tj
+1 0 0 1 107.76 232.32 Tm
+(Basic) Tj
+1 0 0 1 138 232.32 Tm
+(Operation) Tj
+1 0 0 1 193.44 232.32 Tm
+(and) Tj
+1 0 0 1 215.76 232.32 Tm
+(Syntax) Tj
+/R6 11 Tf
+1 0 0 1 90 211.44 Tm
+(The) Tj
+1 0 0 1 110.16 211.44 Tm
+(follo) Tj
+1 0 0 1 130.8 211.44 Tm
+(wing) Tj
+1 0 0 1 155.52 211.44 Tm
+(is) Tj
+1 0 0 1 166.08 211.44 Tm
+(a) Tj
+1 0 0 1 174 211.44 Tm
+(sample) Tj
+1 0 0 1 208.32 211.44 Tm
+(make\256le) Tj
+/R6 8 Tf
+1 0 0 1 246 215.28 Tm
+(2) Tj
+/R6 11 Tf
+1 0 0 1 253.68 211.44 Tm
+(for) Tj
+1 0 0 1 269.52 211.44 Tm
+(compiling) Tj
+1 0 0 1 317.04 211.44 Tm
+(a) Tj
+1 0 0 1 325.2 211.44 Tm
+(simple) Tj
+1 0 0 1 357.6 211.44 Tm
+(editor) Tj
+1 0 0 1 386.16 211.44 Tm
+(program,) Tj
+/R12 11 Tf
+1 0 0 1 429.36 211.44 Tm
+(edit) Tj
+/R6 11 Tf
+1 0 0 1 455.279 211.44 Tm
+(,) Tj
+1 0 0 1 461.759 211.44 Tm
+(from) Tj
+1 0 0 1 486.239 211.44 Tm
+(eight) Tj
+/R12 11 Tf
+1 0 0 1 511.199 211.44 Tm
+(.cc) Tj
+/R6 11 Tf
+1 0 0 1 90 197.76 Tm
+(\256les) Tj
+1 0 0 1 110.88 197.76 Tm
+(and) Tj
+1 0 0 1 129.6 197.76 Tm
+(three) Tj
+1 0 0 1 154.08 197.76 Tm
+(header) Tj
+1 0 0 1 186 197.76 Tm
+(\() Tj
+/R12 11 Tf
+1 0 0 1 189.6 197.76 Tm
+(.h) Tj
+/R6 11 Tf
+1 0 0 1 202.56 197.76 Tm
+(\)) Tj
+1 0 0 1 209.28 197.76 Tm
+(\256les.) Tj
+/R12 11 Tf
+1 0 0 1 116.16 175.68 Tm
+(#) Tj
+1 0 0 1 129.36 175.68 Tm
+(Makefile) Tj
+1 0 0 1 188.64 175.68 Tm
+(for) Tj
+1 0 0 1 214.8 175.68 Tm
+(simple) Tj
+1 0 0 1 260.88 175.68 Tm
+(editor) Tj
+1 0 0 1 116.16 148.56 Tm
+(edit) Tj
+1 0 0 1 149.04 148.56 Tm
+(:) Tj
+1 0 0 1 162.24 148.56 Tm
+(edit.o) Tj
+1 0 0 1 208.32 148.56 Tm
+(kbd.o) Tj
+1 0 0 1 247.68 148.56 Tm
+(commands.) Tj
+1 0 0 1 306.239 148.56 Tm
+(o) Tj
+1 0 0 1 320.159 148.56 Tm
+(display.o) Tj
+1 0 0 1 385.919 148.56 Tm
+(\\) Tj
+ET
+q
+176.4 0 0 -0.48 89.976 140.136 cm
+BI
+/IM true /W 1 /H 1 /BPC 1
+ID  
+EI
+Q
+BT
+/R6 6 Tf
+1 0 0 1 102.48 132.96 Tm
+(1) Tj
+/R6 9 Tf
+1 0 0 1 106.08 129.12 Tm
+(F) Tj
+1 0 0 1 110.88 129.12 Tm
+(or) Tj
+1 0 0 1 120.24 129.12 Tm
+(\252GNU) Tj
+/R12 9 Tf
+1 0 0 1 145.44 129.12 Tm
+(make) Tj
+/R6 9 Tf
+1 0 0 1 166.56 129.12 Tm
+(,) Tj
+1 0 0 1 168 129.12 Tm
+(\272) Tj
+1 0 0 1 174.48 129.12 Tm
+(GNU) Tj
+1 0 0 1 195.84 129.12 Tm
+(being) Tj
+1 0 0 1 217.439 129.12 Tm
+(an) Tj
+1 0 0 1 227.759 129.12 Tm
+(acron) Tj
+1 0 0 1 247.679 129.12 Tm
+(ym) Tj
+1 0 0 1 260.879 129.12 Tm
+(for) Tj
+1 0 0 1 273.119 129.12 Tm
+(\252GNU') Tj
+1 0 0 1 299.039 129.12 Tm
+(s) Tj
+1 0 0 1 304.319 129.12 Tm
+(Not) Tj
+1 0 0 1 319.679 129.12 Tm
+(Unix.) Tj
+1 0 0 1 339.119 129.12 Tm
+(\272) Tj
+/R12 9 Tf
+1 0 0 1 346.319 129.12 Tm
+(gmake) Tj
+/R6 9 Tf
+1 0 0 1 374.879 129.12 Tm
+(is) Tj
+1 0 0 1 382.799 129.12 Tm
+(\252copylefted\272) Tj
+1 0 0 1 430.318 129.12 Tm
+(\(it) Tj
+1 0 0 1 440.158 129.12 Tm
+(has) Tj
+1 0 0 1 453.838 129.12 Tm
+(a) Tj
+1 0 0 1 459.598 129.12 Tm
+(license) Tj
+1 0 0 1 486.478 129.12 Tm
+(that) Tj
+/R15 9 Tf
+1 0 0 1 501.598 129.12 Tm
+(r) Tj
+1 0 0 1 504.958 129.12 Tm
+(equir) Tj
+1 0 0 1 523.918 129.12 Tm
+(es) Tj
+/R6 9 Tf
+1 0 0 1 90 118.32 Tm
+(free) Tj
+1 0 0 1 106.08 118.32 Tm
+(use) Tj
+1 0 0 1 120.24 118.32 Tm
+(of) Tj
+1 0 0 1 130.08 118.32 Tm
+(an) Tj
+1 0 0 1 138.48 118.32 Tm
+(y) Tj
+1 0 0 1 144.96 118.32 Tm
+(product) Tj
+1 0 0 1 174.72 118.32 Tm
+(containing) Tj
+1 0 0 1 214.799 118.32 Tm
+(it\).) Tj
+1 0 0 1 228.239 118.32 Tm
+(It) Tj
+1 0 0 1 235.919 118.32 Tm
+(is) Tj
+1 0 0 1 244.079 118.32 Tm
+(also) Tj
+1 0 0 1 260.879 118.32 Tm
+(more) Tj
+1 0 0 1 281.519 118.32 Tm
+(po) Tj
+1 0 0 1 290.399 118.32 Tm
+(werful) Tj
+1 0 0 1 315.839 118.32 Tm
+(than) Tj
+1 0 0 1 333.599 118.32 Tm
+(the) Tj
+1 0 0 1 346.799 118.32 Tm
+(standard) Tj
+/R12 9 Tf
+1 0 0 1 379.438 118.32 Tm
+(make) Tj
+/R6 9 Tf
+1 0 0 1 403.198 118.32 Tm
+(utility) Tj
+1 0 0 1 423.838 118.32 Tm
+(.) Tj
+/R6 6 Tf
+1 0 0 1 102.48 110.88 Tm
+(2) Tj
+/R6 9 Tf
+1 0 0 1 106.08 107.04 Tm
+(Adapted) Tj
+1 0 0 1 138.24 107.04 Tm
+(from) Tj
+1 0 0 1 157.68 107.04 Tm
+(\252GNU) Tj
+1 0 0 1 182.88 107.04 Tm
+(Make:) Tj
+1 0 0 1 208.8 107.04 Tm
+(A) Tj
+1 0 0 1 217.199 107.04 Tm
+(Program) Tj
+1 0 0 1 249.839 107.04 Tm
+(for) Tj
+1 0 0 1 262.319 107.04 Tm
+(Directing) Tj
+1 0 0 1 298.079 107.04 Tm
+(Recompilation\272) Tj
+1 0 0 1 356.639 107.04 Tm
+(by) Tj
+1 0 0 1 367.439 107.04 Tm
+(Richard) Tj
+1 0 0 1 397.919 107.04 Tm
+(Stallman) Tj
+1 0 0 1 431.518 107.04 Tm
+(and) Tj
+1 0 0 1 446.398 107.04 Tm
+(Roland) Tj
+1 0 0 1 474.238 107.04 Tm
+(McGrath,) Tj
+1 0 0 1 510.718 107.04 Tm
+(1988.) Tj
+/R6 11 Tf
+1 0 0 1 305.04 77.28 Tm
+(39) Tj
+ET
+Q
+endstream
+endobj
+17 0 obj
+8789
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /ImageB /Text]
+/Font <<
+/R15 15 0 R
+/R12 12 0 R
+/R9 9 0 R
+/R6 6 0 R
+>>
+>>
+/Contents [
+4 0 R
+7 0 R
+10 0 R
+13 0 R
+16 0 R
+]
+>>
+endobj
+19 0 obj
+<< /Length 20 0 R >>
+stream
+q
+endstream
+endobj
+20 0 obj
+2
+endobj
+21 0 obj
+<< /Type /Font /Name /R21 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+22 0 obj
+<< /Length 23 0 R >>
+stream
+BT
+/R21 11 Tf
+1 0 0 1 84 708 Tm
+(40) Tj
+1 0 0.167 1 461.52 708 Tm
+(P) Tj
+1 0 0.167 1 466.32 708 Tm
+(.) Tj
+1 0 0.167 1 472.08 708 Tm
+(N.) Tj
+1 0 0.167 1 485.28 708 Tm
+(Hil\256nger) Tj
+ET
+endstream
+endobj
+23 0 obj
+186
+endobj
+24 0 obj
+<< /Type /Font /Name /R24 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+25 0 obj
+<< /Length 26 0 R >>
+stream
+BT
+/R24 11 Tf
+1 0 0 1 156.24 672.24 Tm
+(insert.o) Tj
+1 0 0 1 215.52 672.24 Tm
+(search.o) Tj
+1 0 0 1 274.56 672.24 Tm
+(files.o) Tj
+1 0 0 1 327.359 672.24 Tm
+(utils.o) Tj
+1 0 0 1 162.96 658.56 Tm
+(g++) Tj
+1 0 0 1 189.12 658.56 Tm
+(-g) Tj
+1 0 0 1 208.8 658.56 Tm
+(-o) Tj
+1 0 0 1 228.72 658.56 Tm
+(edit) Tj
+1 0 0 1 261.6 658.56 Tm
+(edit.o) Tj
+1 0 0 1 307.44 658.56 Tm
+(kbd.o) Tj
+1 0 0 1 347.039 658.56 Tm
+(commands.o) Tj
+1 0 0 1 419.279 658.56 Tm
+(display.o) Tj
+1 0 0 1 485.039 658.56 Tm
+(\\) Tj
+1 0 0 1 235.2 645.12 Tm
+(insert.o) Tj
+1 0 0 1 294.48 645.12 Tm
+(search.o) Tj
+1 0 0 1 353.52 645.12 Tm
+(files.o) Tj
+1 0 0 1 406.079 645.12 Tm
+(utils.o) Tj
+1 0 0 1 458.639 645.12 Tm
+(-lg++) Tj
+1 0 0 1 110.16 618 Tm
+(edit.o) Tj
+1 0 0 1 156.24 618 Tm
+(:) Tj
+1 0 0 1 169.44 618 Tm
+(edit.cc) Tj
+1 0 0 1 222 618 Tm
+(defs.h) Tj
+1 0 0 1 162.96 604.32 Tm
+(g++) Tj
+1 0 0 1 189.12 604.32 Tm
+(-g) Tj
+1 0 0 1 208.8 604.32 Tm
+(-c) Tj
+1 0 0 1 228.72 604.32 Tm
+(-Wall) Tj
+1 0 0 1 268.08 604.32 Tm
+(edit.cc) Tj
+1 0 0 1 110.16 590.88 Tm
+(kbd.o) Tj
+1 0 0 1 149.76 590.88 Tm
+(:) Tj
+1 0 0 1 162.96 590.88 Tm
+(kbd.cc) Tj
+1 0 0 1 208.8 590.88 Tm
+(defs.h) Tj
+1 0 0 1 254.879 590.88 Tm
+(command.h) Tj
+1 0 0 1 162.96 577.44 Tm
+(g++) Tj
+1 0 0 1 189.12 577.44 Tm
+(-g) Tj
+1 0 0 1 208.8 577.44 Tm
+(-c) Tj
+1 0 0 1 228.72 577.44 Tm
+(-Wall) Tj
+1 0 0 1 268.08 577.44 Tm
+(kbd.cc) Tj
+1 0 0 1 110.16 563.76 Tm
+(commands) Tj
+1 0 0 1 162.24 563.76 Tm
+(.o) Tj
+1 0 0 1 182.64 563.76 Tm
+(:) Tj
+1 0 0 1 195.84 563.76 Tm
+(command.cc) Tj
+1 0 0 1 268.079 563.76 Tm
+(defs.h) Tj
+1 0 0 1 314.159 563.76 Tm
+(command.h) Tj
+1 0 0 1 162.96 550.32 Tm
+(g++) Tj
+1 0 0 1 189.12 550.32 Tm
+(-g) Tj
+1 0 0 1 208.8 550.32 Tm
+(-c) Tj
+1 0 0 1 228.72 550.32 Tm
+(-Wall) Tj
+1 0 0 1 268.08 550.32 Tm
+(commands.) Tj
+1 0 0 1 326.64 550.32 Tm
+(cc) Tj
+1 0 0 1 110.16 536.64 Tm
+(display.) Tj
+1 0 0 1 162.24 536.64 Tm
+(o) Tj
+1 0 0 1 175.92 536.64 Tm
+(:) Tj
+1 0 0 1 189.12 536.64 Tm
+(display.c) Tj
+1 0 0 1 247.679 536.64 Tm
+(c) Tj
+1 0 0 1 261.599 536.64 Tm
+(defs.h) Tj
+1 0 0 1 307.439 536.64 Tm
+(buffer.h) Tj
+1 0 0 1 162.96 523.2 Tm
+(g++) Tj
+1 0 0 1 189.12 523.2 Tm
+(-g) Tj
+1 0 0 1 208.8 523.2 Tm
+(-c) Tj
+1 0 0 1 228.72 523.2 Tm
+(-Wall) Tj
+1 0 0 1 268.08 523.2 Tm
+(display.c) Tj
+1 0 0 1 326.64 523.2 Tm
+(c) Tj
+1 0 0 1 110.16 509.52 Tm
+(insert.o) Tj
+1 0 0 1 169.44 509.52 Tm
+(:) Tj
+1 0 0 1 182.64 509.52 Tm
+(insert.cc) Tj
+1 0 0 1 248.4 509.52 Tm
+(defs.h) Tj
+1 0 0 1 294.479 509.52 Tm
+(buffer.h) Tj
+1 0 0 1 162.96 496.08 Tm
+(g++) Tj
+1 0 0 1 189.12 496.08 Tm
+(-g) Tj
+1 0 0 1 208.8 496.08 Tm
+(-c) Tj
+1 0 0 1 228.72 496.08 Tm
+(-Wall) Tj
+1 0 0 1 268.08 496.08 Tm
+(insert.cc) Tj
+1 0 0 1 110.16 482.4 Tm
+(search.o) Tj
+1 0 0 1 169.44 482.4 Tm
+(:) Tj
+1 0 0 1 182.64 482.4 Tm
+(search.cc) Tj
+1 0 0 1 248.4 482.4 Tm
+(defs.h) Tj
+1 0 0 1 294.479 482.4 Tm
+(buffer.h) Tj
+1 0 0 1 162.96 468.96 Tm
+(g++) Tj
+1 0 0 1 189.12 468.96 Tm
+(-g) Tj
+1 0 0 1 208.8 468.96 Tm
+(-c) Tj
+1 0 0 1 228.72 468.96 Tm
+(-Wall) Tj
+1 0 0 1 268.08 468.96 Tm
+(search.cc) Tj
+1 0 0 1 110.16 455.28 Tm
+(files.o) Tj
+1 0 0 1 162.96 455.28 Tm
+(:) Tj
+1 0 0 1 175.92 455.28 Tm
+(files.cc) Tj
+1 0 0 1 235.2 455.28 Tm
+(defs.h) Tj
+1 0 0 1 281.279 455.28 Tm
+(buffer.h) Tj
+1 0 0 1 340.319 455.28 Tm
+(command.h) Tj
+1 0 0 1 162.96 441.84 Tm
+(g++) Tj
+1 0 0 1 189.12 441.84 Tm
+(-g) Tj
+1 0 0 1 208.8 441.84 Tm
+(-c) Tj
+1 0 0 1 228.72 441.84 Tm
+(-Wall) Tj
+1 0 0 1 268.08 441.84 Tm
+(files.cc) Tj
+1 0 0 1 110.16 428.4 Tm
+(utils.o) Tj
+1 0 0 1 162.96 428.4 Tm
+(:) Tj
+1 0 0 1 175.92 428.4 Tm
+(utils.cc) Tj
+1 0 0 1 235.2 428.4 Tm
+(defs.h) Tj
+1 0 0 1 162.96 414.72 Tm
+(g++) Tj
+1 0 0 1 189.12 414.72 Tm
+(-g) Tj
+1 0 0 1 208.8 414.72 Tm
+(-c) Tj
+1 0 0 1 228.72 414.72 Tm
+(-Wall) Tj
+1 0 0 1 268.08 414.72 Tm
+(utils.cc) Tj
+/R21 11 Tf
+1 0 0 1 84 391.92 Tm
+(This) Tj
+1 0 0 1 105.6 391.92 Tm
+(\256le) Tj
+1 0 0 1 121.92 391.92 Tm
+(consists) Tj
+1 0 0 1 158.88 391.92 Tm
+(of) Tj
+1 0 0 1 170.4 391.92 Tm
+(a) Tj
+1 0 0 1 177.36 391.92 Tm
+(sequence) Tj
+1 0 0 1 219.84 391.92 Tm
+(of) Tj
+1 0 0 1 231.36 391.92 Tm
+(nine) Tj
+ET
+endstream
+endobj
+26 0 obj
+3951
+endobj
+27 0 obj
+<< /Type /Font /Name /R27 /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+28 0 obj
+<< /Length 29 0 R >>
+stream
+BT
+/R27 11 Tf
+1 0 0 1 252.48 391.92 Tm
+(rules) Tj
+/R21 11 Tf
+1 0 0 1 274.56 391.92 Tm
+(.) Tj
+1 0 0 1 280.799 391.92 Tm
+(Each) Tj
+1 0 0 1 305.039 391.92 Tm
+(rule) Tj
+1 0 0 1 324.239 391.92 Tm
+(consists) Tj
+1 0 0 1 361.199 391.92 Tm
+(of) Tj
+1 0 0 1 372.719 391.92 Tm
+(a) Tj
+1 0 0 1 379.919 391.92 Tm
+(line) Tj
+1 0 0 1 398.399 391.92 Tm
+(containing) Tj
+1 0 0 1 447.119 391.92 Tm
+(two) Tj
+1 0 0 1 465.599 391.92 Tm
+(lists) Tj
+1 0 0 1 485.519 391.92 Tm
+(of) Tj
+1 0 0 1 497.039 391.92 Tm
+(names) Tj
+1 0 0 1 84 378.48 Tm
+(separated) Tj
+1 0 0 1 128.16 378.48 Tm
+(by) Tj
+1 0 0 1 142.08 378.48 Tm
+(a) Tj
+1 0 0 1 149.76 378.48 Tm
+(colon,) Tj
+1 0 0 1 179.76 378.48 Tm
+(follo) Tj
+1 0 0 1 200.4 378.48 Tm
+(wed) Tj
+1 0 0 1 221.52 378.48 Tm
+(by) Tj
+1 0 0 1 235.2 378.48 Tm
+(one) Tj
+1 0 0 1 253.92 378.48 Tm
+(or) Tj
+1 0 0 1 266.16 378.48 Tm
+(more) Tj
+1 0 0 1 291.6 378.48 Tm
+(lines) Tj
+1 0 0 1 315.119 378.48 Tm
+(be) Tj
+1 0 0 1 325.199 378.48 Tm
+(ginning) Tj
+1 0 0 1 361.679 378.48 Tm
+(with) Tj
+1 0 0 1 383.999 378.48 Tm
+(tab) Tj
+1 0 0 1 400.319 378.48 Tm
+(characters.) Tj
+1 0 0 1 451.919 378.48 Tm
+(An) Tj
+1 0 0 1 465.119 378.48 Tm
+(y) Tj
+1 0 0 1 473.519 378.48 Tm
+(line) Tj
+1 0 0 1 492.959 378.48 Tm
+(may) Tj
+1 0 0 1 514.559 378.48 Tm
+(be) Tj
+1 0 0 1 84 364.8 Tm
+(continued,) Tj
+1 0 0 1 133.44 364.8 Tm
+(as) Tj
+1 0 0 1 145.68 364.8 Tm
+(illustrated,) Tj
+1 0 0 1 195.84 364.8 Tm
+(by) Tj
+1 0 0 1 210 364.8 Tm
+(ending) Tj
+1 0 0 1 243.12 364.8 Tm
+(it) Tj
+1 0 0 1 252.48 364.8 Tm
+(with) Tj
+1 0 0 1 275.28 364.8 Tm
+(a) Tj
+1 0 0 1 283.44 364.8 Tm
+(backslash-ne) Tj
+1 0 0 1 339.84 364.8 Tm
+(wline) Tj
+1 0 0 1 367.44 364.8 Tm
+(combination,) Tj
+1 0 0 1 428.399 364.8 Tm
+(which) Tj
+1 0 0 1 458.399 364.8 Tm
+(essentially) Tj
+1 0 0 1 507.839 364.8 Tm
+(acts) Tj
+1 0 0 1 84 351.36 Tm
+(like) Tj
+1 0 0 1 102.96 351.36 Tm
+(a) Tj
+1 0 0 1 110.4 351.36 Tm
+(space,) Tj
+1 0 0 1 140.16 351.36 Tm
+(combining) Tj
+1 0 0 1 189.6 351.36 Tm
+(the) Tj
+1 0 0 1 205.68 351.36 Tm
+(line) Tj
+1 0 0 1 224.64 351.36 Tm
+(with) Tj
+1 0 0 1 246.96 351.36 Tm
+(its) Tj
+1 0 0 1 259.92 351.36 Tm
+(successor) Tj
+1 0 0 1 301.2 351.36 Tm
+(.) Tj
+1 0 0 1 307.919 351.36 Tm
+(The) Tj
+1 0 0 1 327.599 351.36 Tm
+(`#') Tj
+1 0 0 1 342.959 351.36 Tm
+(character) Tj
+1 0 0 1 385.679 351.36 Tm
+(indicates) Tj
+1 0 0 1 427.439 351.36 Tm
+(the) Tj
+1 0 0 1 443.519 351.36 Tm
+(start) Tj
+1 0 0 1 464.879 351.36 Tm
+(of) Tj
+1 0 0 1 476.639 351.36 Tm
+(a) Tj
+1 0 0 1 484.079 351.36 Tm
+(comment) Tj
+1 0 0 1 84 337.68 Tm
+(that) Tj
+1 0 0 1 103.2 337.68 Tm
+(goes) Tj
+1 0 0 1 126 337.68 Tm
+(to) Tj
+1 0 0 1 137.28 337.68 Tm
+(the) Tj
+1 0 0 1 153.36 337.68 Tm
+(end) Tj
+1 0 0 1 171.84 337.68 Tm
+(of) Tj
+1 0 0 1 183.84 337.68 Tm
+(the) Tj
+1 0 0 1 199.92 337.68 Tm
+(line.) Tj
+1 0 0 1 100.8 324 Tm
+(The) Tj
+1 0 0 1 121.92 324 Tm
+(names) Tj
+1 0 0 1 153.84 324 Tm
+(preceding) Tj
+1 0 0 1 201.12 324 Tm
+(the) Tj
+1 0 0 1 218.4 324 Tm
+(colons) Tj
+1 0 0 1 251.04 324 Tm
+(are) Tj
+1 0 0 1 268.32 324 Tm
+(kno) Tj
+1 0 0 1 284.64 324 Tm
+(wn) Tj
+1 0 0 1 301.92 324 Tm
+(as) Tj
+/R27 11 Tf
+1 0 0 1 314.88 324 Tm
+(tar) Tj
+1 0 0 1 327.36 324 Tm
+(gets) Tj
+/R21 11 Tf
+1 0 0 1 345.12 324 Tm
+(;) Tj
+1 0 0 1 352.56 324 Tm
+(the) Tj
+1 0 0 1 365.759 324 Tm
+(y) Tj
+1 0 0 1 375.119 324 Tm
+(are) Tj
+1 0 0 1 392.399 324 Tm
+(most) Tj
+1 0 0 1 417.839 324 Tm
+(often) Tj
+1 0 0 1 444.239 324 Tm
+(the) Tj
+1 0 0 1 461.519 324 Tm
+(names) Tj
+1 0 0 1 493.679 324 Tm
+(of) Tj
+1 0 0 1 506.639 324 Tm
+(\256les) Tj
+1 0 0 1 84 310.56 Tm
+(that) Tj
+1 0 0 1 103.68 310.56 Tm
+(are) Tj
+1 0 0 1 120.24 310.56 Tm
+(to) Tj
+1 0 0 1 132 310.56 Tm
+(be) Tj
+1 0 0 1 145.68 310.56 Tm
+(produced.) Tj
+1 0 0 1 194.64 310.56 Tm
+(The) Tj
+1 0 0 1 214.8 310.56 Tm
+(names) Tj
+1 0 0 1 246 310.56 Tm
+(follo) Tj
+1 0 0 1 266.64 310.56 Tm
+(wing) Tj
+1 0 0 1 291.6 310.56 Tm
+(the) Tj
+1 0 0 1 308.4 310.56 Tm
+(colons) Tj
+1 0 0 1 340.08 310.56 Tm
+(are) Tj
+1 0 0 1 356.879 310.56 Tm
+(kno) Tj
+1 0 0 1 373.199 310.56 Tm
+(wn) Tj
+1 0 0 1 389.519 310.56 Tm
+(as) Tj
+/R27 11 Tf
+1 0 0 1 401.999 310.56 Tm
+(dependencies) Tj
+/R21 11 Tf
+1 0 0 1 464.159 310.56 Tm
+(of) Tj
+1 0 0 1 476.639 310.56 Tm
+(the) Tj
+1 0 0 1 493.199 310.56 Tm
+(tar) Tj
+1 0 0 1 504.479 310.56 Tm
+(gets.) Tj
+1 0 0 1 84 296.88 Tm
+(The) Tj
+1 0 0 1 100.8 296.88 Tm
+(y) Tj
+1 0 0 1 109.68 296.88 Tm
+(usually) Tj
+1 0 0 1 144.72 296.88 Tm
+(denote) Tj
+1 0 0 1 177.12 296.88 Tm
+(other) Tj
+1 0 0 1 203.04 296.88 Tm
+(\256les) Tj
+1 0 0 1 224.64 296.88 Tm
+(\(generally) Tj
+1 0 0 1 268.32 296.88 Tm
+(,) Tj
+1 0 0 1 274.56 296.88 Tm
+(other) Tj
+1 0 0 1 300.48 296.88 Tm
+(tar) Tj
+1 0 0 1 311.76 296.88 Tm
+(gets\)) Tj
+1 0 0 1 336.479 296.88 Tm
+(that) Tj
+1 0 0 1 356.159 296.88 Tm
+(must) Tj
+1 0 0 1 380.879 296.88 Tm
+(be) Tj
+1 0 0 1 394.559 296.88 Tm
+(present) Tj
+1 0 0 1 429.359 296.88 Tm
+(and) Tj
+1 0 0 1 448.559 296.88 Tm
+(up-to-date) Tj
+1 0 0 1 497.039 296.88 Tm
+(before) Tj
+1 0 0 1 84 283.44 Tm
+(the) Tj
+1 0 0 1 100.08 283.44 Tm
+(tar) Tj
+1 0 0 1 111.36 283.44 Tm
+(get) Tj
+1 0 0 1 127.44 283.44 Tm
+(can) Tj
+1 0 0 1 145.44 283.44 Tm
+(be) Tj
+1 0 0 1 158.4 283.44 Tm
+(processed.) Tj
+1 0 0 1 208.32 283.44 Tm
+(The) Tj
+1 0 0 1 228 283.44 Tm
+(lines) Tj
+1 0 0 1 251.52 283.44 Tm
+(starting) Tj
+1 0 0 1 287.04 283.44 Tm
+(with) Tj
+1 0 0 1 309.36 283.44 Tm
+(tabs) Tj
+1 0 0 1 329.52 283.44 Tm
+(that) Tj
+1 0 0 1 348.719 283.44 Tm
+(follo) Tj
+1 0 0 1 369.359 283.44 Tm
+(w) Tj
+1 0 0 1 379.679 283.44 Tm
+(the) Tj
+1 0 0 1 395.759 283.44 Tm
+(\256rst) Tj
+1 0 0 1 415.679 283.44 Tm
+(line) Tj
+1 0 0 1 434.879 283.44 Tm
+(of) Tj
+1 0 0 1 446.639 283.44 Tm
+(a) Tj
+1 0 0 1 454.079 283.44 Tm
+(rule) Tj
+1 0 0 1 473.999 283.44 Tm
+(we) Tj
+1 0 0 1 489.359 283.44 Tm
+(will) Tj
+1 0 0 1 509.039 283.44 Tm
+(call) Tj
+/R27 11 Tf
+1 0 0 1 84 270 Tm
+(actions) Tj
+/R21 11 Tf
+1 0 0 1 115.92 270 Tm
+(.) Tj
+1 0 0 1 124.56 270 Tm
+(The) Tj
+1 0 0 1 141.36 270 Tm
+(y) Tj
+1 0 0 1 150.24 270 Tm
+(are) Tj
+1 0 0 1 167.04 270 Tm
+(shell) Tj
+1 0 0 1 191.28 270 Tm
+(commands) Tj
+1 0 0 1 242.16 270 Tm
+(\(that) Tj
+1 0 0 1 265.92 270 Tm
+(is,) Tj
+1 0 0 1 279.6 270 Tm
+(commands) Tj
+1 0 0 1 330.479 270 Tm
+(that) Tj
+1 0 0 1 350.399 270 Tm
+(you) Tj
+1 0 0 1 370.319 270 Tm
+(could) Tj
+1 0 0 1 398.159 270 Tm
+(type) Tj
+1 0 0 1 420.479 270 Tm
+(in) Tj
+1 0 0 1 432.479 270 Tm
+(response) Tj
+1 0 0 1 474.239 270 Tm
+(to) Tj
+1 0 0 1 486.239 270 Tm
+(the) Tj
+1 0 0 1 503.039 270 Tm
+(Unix) Tj
+1 0 0 1 84 256.32 Tm
+(prompt\)) Tj
+1 0 0 1 121.92 256.32 Tm
+(that) Tj
+1 0 0 1 140.88 256.32 Tm
+(get) Tj
+1 0 0 1 156.72 256.32 Tm
+(e) Tj
+1 0 0 1 161.28 256.32 Tm
+(x) Tj
+1 0 0 1 166.56 256.32 Tm
+(ecuted) Tj
+1 0 0 1 198 256.32 Tm
+(in) Tj
+1 0 0 1 209.04 256.32 Tm
+(order) Tj
+1 0 0 1 234.72 256.32 Tm
+(to) Tj
+1 0 0 1 245.76 256.32 Tm
+(create) Tj
+1 0 0 1 274.559 256.32 Tm
+(or) Tj
+1 0 0 1 286.079 256.32 Tm
+(update) Tj
+1 0 0 1 317.999 256.32 Tm
+(the) Tj
+1 0 0 1 333.839 256.32 Tm
+(tar) Tj
+1 0 0 1 345.119 256.32 Tm
+(get) Tj
+1 0 0 1 361.199 256.32 Tm
+(of) Tj
+1 0 0 1 372.719 256.32 Tm
+(the) Tj
+1 0 0 1 388.799 256.32 Tm
+(rule) Tj
+1 0 0 1 408.239 256.32 Tm
+(\(we'll) Tj
+1 0 0 1 437.039 256.32 Tm
+(use) Tj
+1 0 0 1 454.079 256.32 Tm
+(the) Tj
+1 0 0 1 470.159 256.32 Tm
+(generic) Tj
+1 0 0 1 504.959 256.32 Tm
+(term) Tj
+/R27 11 Tf
+1 0 0 1 84 242.88 Tm
+(update) Tj
+/R21 11 Tf
+1 0 0 1 116.64 242.88 Tm
+(for) Tj
+1 0 0 1 132 242.88 Tm
+(both\).) Tj
+1 0 0 1 100.8 229.2 Tm
+(Each) Tj
+1 0 0 1 125.28 229.2 Tm
+(rule) Tj
+1 0 0 1 144.96 229.2 Tm
+(says,) Tj
+1 0 0 1 169.2 229.2 Tm
+(in) Tj
+1 0 0 1 180.24 229.2 Tm
+(ef) Tj
+1 0 0 1 188.4 229.2 Tm
+(fect,) Tj
+1 0 0 1 210.24 229.2 Tm
+(that) Tj
+1 0 0 1 229.2 229.2 Tm
+(to) Tj
+1 0 0 1 240.24 229.2 Tm
+(update) Tj
+1 0 0 1 271.919 229.2 Tm
+(the) Tj
+1 0 0 1 287.759 229.2 Tm
+(tar) Tj
+1 0 0 1 299.039 229.2 Tm
+(gets,) Tj
+1 0 0 1 322.079 229.2 Tm
+(each) Tj
+1 0 0 1 344.879 229.2 Tm
+(of) Tj
+1 0 0 1 356.399 229.2 Tm
+(the) Tj
+1 0 0 1 372.479 229.2 Tm
+(dependencies) Tj
+1 0 0 1 433.919 229.2 Tm
+(must) Tj
+1 0 0 1 457.679 229.2 Tm
+(\256rst) Tj
+1 0 0 1 477.359 229.2 Tm
+(be) Tj
+1 0 0 1 490.319 229.2 Tm
+(updated) Tj
+1 0 0 1 84 215.52 Tm
+(\(recursi) Tj
+1 0 0 1 117.12 215.52 Tm
+(v) Tj
+1 0 0 1 122.4 215.52 Tm
+(ely\).) Tj
+1 0 0 1 146.88 215.52 Tm
+(Ne) Tj
+1 0 0 1 159.36 215.52 Tm
+(xt,) Tj
+1 0 0 1 173.76 215.52 Tm
+(if) Tj
+1 0 0 1 183.36 215.52 Tm
+(a) Tj
+1 0 0 1 191.28 215.52 Tm
+(tar) Tj
+1 0 0 1 202.56 215.52 Tm
+(get) Tj
+1 0 0 1 218.88 215.52 Tm
+(does) Tj
+1 0 0 1 241.92 215.52 Tm
+(not) Tj
+1 0 0 1 258.96 215.52 Tm
+(e) Tj
+1 0 0 1 263.519 215.52 Tm
+(xist) Tj
+1 0 0 1 282.479 215.52 Tm
+(\(that) Tj
+1 0 0 1 305.519 215.52 Tm
+(is,) Tj
+1 0 0 1 318.479 215.52 Tm
+(if) Tj
+1 0 0 1 328.319 215.52 Tm
+(no) Tj
+1 0 0 1 342.239 215.52 Tm
+(\256le) Tj
+1 0 0 1 359.039 215.52 Tm
+(by) Tj
+1 0 0 1 372.959 215.52 Tm
+(that) Tj
+1 0 0 1 392.399 215.52 Tm
+(name) Tj
+1 0 0 1 419.039 215.52 Tm
+(e) Tj
+1 0 0 1 423.599 215.52 Tm
+(xists\)) Tj
+1 0 0 1 450.479 215.52 Tm
+(or) Tj
+1 0 0 1 462.719 215.52 Tm
+(if) Tj
+1 0 0 1 472.319 215.52 Tm
+(it) Tj
+1 0 0 1 481.439 215.52 Tm
+(does) Tj
+1 0 0 1 504.479 215.52 Tm
+(e) Tj
+1 0 0 1 509.039 215.52 Tm
+(xist) Tj
+1 0 0 1 84 202.08 Tm
+(b) Tj
+1 0 0 1 89.28 202.08 Tm
+(ut) Tj
+1 0 0 1 101.28 202.08 Tm
+(is) Tj
+1 0 0 1 112.08 202.08 Tm
+(older) Tj
+1 0 0 1 138.24 202.08 Tm
+(than) Tj
+1 0 0 1 160.56 202.08 Tm
+(one) Tj
+1 0 0 1 180 202.08 Tm
+(of) Tj
+1 0 0 1 192.48 202.08 Tm
+(its) Tj
+1 0 0 1 206.4 202.08 Tm
+(dependencies) Tj
+1 0 0 1 269.04 202.08 Tm
+(\(so) Tj
+1 0 0 1 285.84 202.08 Tm
+(that) Tj
+1 0 0 1 305.76 202.08 Tm
+(one) Tj
+1 0 0 1 325.2 202.08 Tm
+(of) Tj
+1 0 0 1 337.919 202.08 Tm
+(its) Tj
+1 0 0 1 351.839 202.08 Tm
+(dependencies) Tj
+1 0 0 1 414.239 202.08 Tm
+(was) Tj
+1 0 0 1 434.879 202.08 Tm
+(changed) Tj
+1 0 0 1 474.719 202.08 Tm
+(after) Tj
+1 0 0 1 498.479 202.08 Tm
+(it) Tj
+1 0 0 1 508.079 202.08 Tm
+(was) Tj
+1 0 0 1 84 188.4 Tm
+(last) Tj
+1 0 0 1 102.48 188.4 Tm
+(updated\),) Tj
+1 0 0 1 147.12 188.4 Tm
+(the) Tj
+1 0 0 1 163.92 188.4 Tm
+(actions) Tj
+1 0 0 1 198.48 188.4 Tm
+(of) Tj
+1 0 0 1 210.96 188.4 Tm
+(the) Tj
+1 0 0 1 227.76 188.4 Tm
+(rule) Tj
+1 0 0 1 248.16 188.4 Tm
+(are) Tj
+1 0 0 1 264.96 188.4 Tm
+(e) Tj
+1 0 0 1 269.52 188.4 Tm
+(x) Tj
+1 0 0 1 274.8 188.4 Tm
+(ecuted) Tj
+1 0 0 1 306.959 188.4 Tm
+(to) Tj
+1 0 0 1 318.959 188.4 Tm
+(create) Tj
+1 0 0 1 348.479 188.4 Tm
+(or) Tj
+1 0 0 1 360.959 188.4 Tm
+(update) Tj
+1 0 0 1 393.599 188.4 Tm
+(that) Tj
+1 0 0 1 413.519 188.4 Tm
+(tar) Tj
+1 0 0 1 424.799 188.4 Tm
+(get.) Tj
+1 0 0 1 446.879 188.4 Tm
+(The) Tj
+1 0 0 1 467.279 188.4 Tm
+(program) Tj
+1 0 0 1 507.839 188.4 Tm
+(will) Tj
+1 0 0 1 84 174.96 Tm
+(complain) Tj
+1 0 0 1 127.2 174.96 Tm
+(if) Tj
+1 0 0 1 136.56 174.96 Tm
+(an) Tj
+1 0 0 1 146.64 174.96 Tm
+(y) Tj
+1 0 0 1 154.8 174.96 Tm
+(dependenc) Tj
+1 0 0 1 201.36 174.96 Tm
+(y) Tj
+1 0 0 1 209.28 174.96 Tm
+(does) Tj
+1 0 0 1 232.08 174.96 Tm
+(not) Tj
+1 0 0 1 248.64 174.96 Tm
+(e) Tj
+1 0 0 1 253.2 174.96 Tm
+(xist) Tj
+1 0 0 1 271.68 174.96 Tm
+(and) Tj
+1 0 0 1 289.92 174.96 Tm
+(there) Tj
+1 0 0 1 314.4 174.96 Tm
+(is) Tj
+1 0 0 1 324.24 174.96 Tm
+(no) Tj
+1 0 0 1 337.679 174.96 Tm
+(rule) Tj
+1 0 0 1 357.359 174.96 Tm
+(for) Tj
+1 0 0 1 372.719 174.96 Tm
+(creating) Tj
+1 0 0 1 410.399 174.96 Tm
+(it.) Tj
+1 0 0 1 423.119 174.96 Tm
+(T) Tj
+1 0 0 1 428.879 174.96 Tm
+(o) Tj
+1 0 0 1 437.039 174.96 Tm
+(start) Tj
+1 0 0 1 458.399 174.96 Tm
+(the) Tj
+1 0 0 1 474.239 174.96 Tm
+(process) Tj
+1 0 0 1 509.759 174.96 Tm
+(of) Tj
+1 0 0 1 518.639 174.96 Tm
+(f,) Tj
+1 0 0 1 84 161.52 Tm
+(the) Tj
+1 0 0 1 100.32 161.52 Tm
+(user) Tj
+1 0 0 1 121.44 161.52 Tm
+(who) Tj
+1 0 0 1 143.28 161.52 Tm
+(e) Tj
+1 0 0 1 147.84 161.52 Tm
+(x) Tj
+1 0 0 1 153.12 161.52 Tm
+(ecutes) Tj
+1 0 0 1 183.6 161.52 Tm
+(the) Tj
+/R24 11 Tf
+1 0 0 1 199.92 161.52 Tm
+(gmake) Tj
+/R21 11 Tf
+1 0 0 1 235.68 161.52 Tm
+(utility) Tj
+1 0 0 1 264.72 161.52 Tm
+(speci\256es) Tj
+1 0 0 1 305.519 161.52 Tm
+(one) Tj
+1 0 0 1 324.239 161.52 Tm
+(or) Tj
+1 0 0 1 336.239 161.52 Tm
+(more) Tj
+1 0 0 1 361.679 161.52 Tm
+(tar) Tj
+1 0 0 1 372.959 161.52 Tm
+(gets) Tj
+1 0 0 1 393.599 161.52 Tm
+(to) Tj
+1 0 0 1 405.119 161.52 Tm
+(be) Tj
+1 0 0 1 418.319 161.52 Tm
+(updated.) Tj
+1 0 0 1 460.319 161.52 Tm
+(The) Tj
+1 0 0 1 480.239 161.52 Tm
+(\256rst) Tj
+1 0 0 1 500.159 161.52 Tm
+(tar) Tj
+1 0 0 1 511.439 161.52 Tm
+(get) Tj
+1 0 0 1 84 147.84 Tm
+(of) Tj
+1 0 0 1 95.7599 147.84 Tm
+(the) Tj
+1 0 0 1 111.84 147.84 Tm
+(\256rst) Tj
+1 0 0 1 131.76 147.84 Tm
+(rule) Tj
+1 0 0 1 151.44 147.84 Tm
+(in) Tj
+1 0 0 1 162.72 147.84 Tm
+(the) Tj
+1 0 0 1 179.04 147.84 Tm
+(\256le) Tj
+1 0 0 1 195.6 147.84 Tm
+(is) Tj
+1 0 0 1 205.68 147.84 Tm
+(the) Tj
+1 0 0 1 221.76 147.84 Tm
+(default.) Tj
+1 0 0 1 100.8 134.16 Tm
+(In) Tj
+1 0 0 1 113.04 134.16 Tm
+(the) Tj
+1 0 0 1 129.36 134.16 Tm
+(e) Tj
+1 0 0 1 133.92 134.16 Tm
+(xample) Tj
+1 0 0 1 169.2 134.16 Tm
+(abo) Tj
+1 0 0 1 184.8 134.16 Tm
+(v) Tj
+1 0 0 1 190.08 134.16 Tm
+(e,) Tj
+/R24 11 Tf
+1 0 0 1 200.64 134.16 Tm
+(edit) Tj
+/R21 11 Tf
+1 0 0 1 229.92 134.16 Tm
+(is) Tj
+1 0 0 1 240 134.16 Tm
+(the) Tj
+1 0 0 1 256.32 134.16 Tm
+(default) Tj
+1 0 0 1 289.68 134.16 Tm
+(tar) Tj
+1 0 0 1 300.959 134.16 Tm
+(get.) Tj
+1 0 0 1 321.599 134.16 Tm
+(The) Tj
+1 0 0 1 341.519 134.16 Tm
+(\256rst) Tj
+1 0 0 1 361.679 134.16 Tm
+(step) Tj
+1 0 0 1 382.079 134.16 Tm
+(in) Tj
+1 0 0 1 393.599 134.16 Tm
+(updating) Tj
+1 0 0 1 434.879 134.16 Tm
+(it) Tj
+1 0 0 1 443.999 134.16 Tm
+(is) Tj
+1 0 0 1 454.079 134.16 Tm
+(to) Tj
+1 0 0 1 465.599 134.16 Tm
+(update) Tj
+1 0 0 1 497.759 134.16 Tm
+(all) Tj
+1 0 0 1 511.679 134.16 Tm
+(the) Tj
+1 0 0 1 84 120.72 Tm
+(object) Tj
+1 0 0 1 113.28 120.72 Tm
+(\() Tj
+/R24 11 Tf
+1 0 0 1 116.88 120.72 Tm
+(.o) Tj
+/R21 11 Tf
+1 0 0 1 129.84 120.72 Tm
+(\)) Tj
+1 0 0 1 136.08 120.72 Tm
+(\256les) Tj
+1 0 0 1 156.96 120.72 Tm
+(listed) Tj
+1 0 0 1 183.12 120.72 Tm
+(as) Tj
+1 0 0 1 194.64 120.72 Tm
+(dependencies.) Tj
+1 0 0 1 260.4 120.72 Tm
+(T) Tj
+1 0 0 1 266.16 120.72 Tm
+(o) Tj
+1 0 0 1 274.079 120.72 Tm
+(update) Tj
+/R24 11 Tf
+1 0 0 1 305.759 120.72 Tm
+(edit.o) Tj
+/R21 11 Tf
+1 0 0 1 344.639 120.72 Tm
+(,) Tj
+1 0 0 1 350.399 120.72 Tm
+(in) Tj
+1 0 0 1 361.439 120.72 Tm
+(turn,) Tj
+1 0 0 1 384.479 120.72 Tm
+(requires) Tj
+1 0 0 1 422.159 120.72 Tm
+(\256rst) Tj
+1 0 0 1 441.839 120.72 Tm
+(that) Tj
+/R24 11 Tf
+1 0 0 1 460.559 120.72 Tm
+(edit.cc) Tj
+/R21 11 Tf
+1 0 0 1 509.039 120.72 Tm
+(and) Tj
+/R24 11 Tf
+1 0 0 1 84 107.04 Tm
+(defs.h) Tj
+/R21 11 Tf
+1 0 0 1 126.24 107.04 Tm
+(be) Tj
+1 0 0 1 139.68 107.04 Tm
+(updated.) Tj
+1 0 0 1 181.68 107.04 Tm
+(Presumably) Tj
+1 0 0 1 232.8 107.04 Tm
+(,) Tj
+/R24 11 Tf
+1 0 0 1 238.32 107.04 Tm
+(edit.cc) Tj
+/R21 11 Tf
+1 0 0 1 287.279 107.04 Tm
+(is) Tj
+1 0 0 1 297.599 107.04 Tm
+(the) Tj
+1 0 0 1 313.919 107.04 Tm
+(source) Tj
+1 0 0 1 345.599 107.04 Tm
+(\256le) Tj
+1 0 0 1 362.399 107.04 Tm
+(that) Tj
+1 0 0 1 381.839 107.04 Tm
+(produces) Tj
+/R24 11 Tf
+1 0 0 1 424.319 107.04 Tm
+(edit.o) Tj
+/R21 11 Tf
+1 0 0 1 466.799 107.04 Tm
+(and) Tj
+/R24 11 Tf
+1 0 0 1 485.519 107.04 Tm
+(defs.h) Tj
+ET
+Q
+endstream
+endobj
+29 0 obj
+14503
+endobj
+18 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R27 27 0 R
+/R24 24 0 R
+/R21 21 0 R
+>>
+>>
+/Contents [
+19 0 R
+22 0 R
+25 0 R
+28 0 R
+]
+>>
+endobj
+31 0 obj
+<< /Length 32 0 R >>
+stream
+q
+endstream
+endobj
+32 0 obj
+2
+endobj
+33 0 obj
+<< /Type /Font /Name /R33 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+34 0 obj
+<< /Length 35 0 R >>
+stream
+BT
+/R33 11 Tf
+1 0 0.167 1 90 708 Tm
+(Basic) Tj
+1 0 0.167 1 117.12 708 Tm
+(Compilation) Tj
+1 0 0.167 1 174.48 708 Tm
+(Control) Tj
+1 0 0.167 1 210.72 708 Tm
+(with) Tj
+ET
+endstream
+endobj
+35 0 obj
+168
+endobj
+36 0 obj
+<< /Type /Font /Name /R36 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+37 0 obj
+<< /Length 38 0 R >>
+stream
+BT
+/R36 11 Tf
+1 0 0 1 233.04 708 Tm
+(Gmake) Tj
+/R33 11 Tf
+1 0 0 1 520.08 708 Tm
+(41) Tj
+1 0 0 1 90 672.24 Tm
+(is) Tj
+1 0 0 1 99.5999 672.24 Tm
+(a) Tj
+1 0 0 1 106.8 672.24 Tm
+(header) Tj
+1 0 0 1 138.24 672.24 Tm
+(\256le) Tj
+1 0 0 1 154.56 672.24 Tm
+(that) Tj
+/R36 11 Tf
+1 0 0 1 173.28 672.24 Tm
+(edit.cc) Tj
+/R33 11 Tf
+1 0 0 1 221.52 672.24 Tm
+(includes.) Tj
+1 0 0 1 264.72 672.24 Tm
+(There) Tj
+1 0 0 1 292.559 672.24 Tm
+(are) Tj
+1 0 0 1 308.159 672.24 Tm
+(no) Tj
+1 0 0 1 321.599 672.24 Tm
+(rules) Tj
+1 0 0 1 345.119 672.24 Tm
+(tar) Tj
+1 0 0 1 356.399 672.24 Tm
+(geting) Tj
+1 0 0 1 386.159 672.24 Tm
+(these) Tj
+1 0 0 1 411.119 672.24 Tm
+(\256les;) Tj
+1 0 0 1 434.879 672.24 Tm
+(therefore,) Tj
+1 0 0 1 479.519 672.24 Tm
+(the) Tj
+1 0 0 1 492.719 672.24 Tm
+(y) Tj
+1 0 0 1 500.399 672.24 Tm
+(merely) Tj
+1 0 0 1 90 658.56 Tm
+(need) Tj
+1 0 0 1 114.48 658.56 Tm
+(to) Tj
+1 0 0 1 126.96 658.56 Tm
+(e) Tj
+1 0 0 1 131.52 658.56 Tm
+(xist) Tj
+1 0 0 1 151.44 658.56 Tm
+(to) Tj
+1 0 0 1 163.92 658.56 Tm
+(be) Tj
+1 0 0 1 178.08 658.56 Tm
+(up-to-date.) Tj
+1 0 0 1 233.28 658.56 Tm
+(No) Tj
+1 0 0 1 246.48 658.56 Tm
+(w) Tj
+/R36 11 Tf
+1 0 0 1 258.24 658.56 Tm
+(edit.o) Tj
+/R33 11 Tf
+1 0 0 1 301.44 658.56 Tm
+(is) Tj
+1 0 0 1 312.72 658.56 Tm
+(up-to-date) Tj
+1 0 0 1 361.679 658.56 Tm
+(if) Tj
+1 0 0 1 372.239 658.56 Tm
+(it) Tj
+1 0 0 1 382.319 658.56 Tm
+(is) Tj
+1 0 0 1 393.359 658.56 Tm
+(younger) Tj
+1 0 0 1 433.199 658.56 Tm
+(than) Tj
+1 0 0 1 455.999 658.56 Tm
+(either) Tj
+/R36 11 Tf
+1 0 0 1 484.799 658.56 Tm
+(edit.cc) Tj
+/R33 11 Tf
+1 0 0 1 90 645.12 Tm
+(or) Tj
+/R36 11 Tf
+1 0 0 1 102.48 645.12 Tm
+(defs.h) Tj
+/R33 11 Tf
+1 0 0 1 145.44 645.12 Tm
+(\(if) Tj
+1 0 0 1 159.12 645.12 Tm
+(it) Tj
+1 0 0 1 168.72 645.12 Tm
+(were) Tj
+1 0 0 1 193.44 645.12 Tm
+(older) Tj
+1 0 0 1 215.52 645.12 Tm
+(,) Tj
+1 0 0 1 221.999 645.12 Tm
+(it) Tj
+1 0 0 1 231.599 645.12 Tm
+(would) Tj
+1 0 0 1 262.319 645.12 Tm
+(mean) Tj
+1 0 0 1 289.439 645.12 Tm
+(that) Tj
+1 0 0 1 309.359 645.12 Tm
+(one) Tj
+1 0 0 1 328.559 645.12 Tm
+(of) Tj
+1 0 0 1 341.279 645.12 Tm
+(those) Tj
+1 0 0 1 367.679 645.12 Tm
+(\256les) Tj
+1 0 0 1 389.519 645.12 Tm
+(had) Tj
+1 0 0 1 408.719 645.12 Tm
+(been) Tj
+1 0 0 1 432.959 645.12 Tm
+(changed) Tj
+1 0 0 1 472.799 645.12 Tm
+(since) Tj
+1 0 0 1 498.959 645.12 Tm
+(the) Tj
+1 0 0 1 515.759 645.12 Tm
+(last) Tj
+1 0 0 1 90 631.44 Tm
+(compilation) Tj
+1 0 0 1 144.72 631.44 Tm
+(that) Tj
+1 0 0 1 163.68 631.44 Tm
+(produced) Tj
+/R36 11 Tf
+1 0 0 1 207.12 631.44 Tm
+(edit.o) Tj
+/R33 11 Tf
+1 0 0 1 246 631.44 Tm
+(\).) Tj
+1 0 0 1 256.8 631.44 Tm
+(If) Tj
+/R36 11 Tf
+1 0 0 1 266.639 631.44 Tm
+(edit.o) Tj
+/R33 11 Tf
+1 0 0 1 308.639 631.44 Tm
+(is) Tj
+1 0 0 1 318.479 631.44 Tm
+(older) Tj
+1 0 0 1 343.439 631.44 Tm
+(than) Tj
+1 0 0 1 365.039 631.44 Tm
+(its) Tj
+1 0 0 1 377.759 631.44 Tm
+(dependencies,) Tj
+/R36 11 Tf
+1 0 0 1 442.079 631.44 Tm
+(gmake) Tj
+/R33 11 Tf
+1 0 0 1 477.599 631.44 Tm
+(e) Tj
+1 0 0 1 482.159 631.44 Tm
+(x) Tj
+1 0 0 1 487.439 631.44 Tm
+(ecutes) Tj
+1 0 0 1 517.439 631.44 Tm
+(the) Tj
+1 0 0 1 90 618 Tm
+(action) Tj
+1 0 0 1 120.24 618 Tm
+(\252) Tj
+/R36 11 Tf
+1 0 0 1 125.04 618 Tm
+(g++) Tj
+1 0 0 1 151.44 618 Tm
+(-g) Tj
+1 0 0 1 171.12 618 Tm
+(-c) Tj
+1 0 0 1 190.8 618 Tm
+(-Wall) Tj
+1 0 0 1 230.4 618 Tm
+(edit.cc) Tj
+/R33 11 Tf
+1 0 0 1 275.759 618 Tm
+(\272,) Tj
+1 0 0 1 287.759 618 Tm
+(producing) Tj
+1 0 0 1 335.759 618 Tm
+(a) Tj
+1 0 0 1 343.919 618 Tm
+(ne) Tj
+1 0 0 1 353.999 618 Tm
+(w) Tj
+/R36 11 Tf
+1 0 0 1 365.519 618 Tm
+(edit.o) Tj
+/R33 11 Tf
+1 0 0 1 404.399 618 Tm
+(.) Tj
+1 0 0 1 413.999 618 Tm
+(Once) Tj
+/R36 11 Tf
+1 0 0 1 440.639 618 Tm
+(edit.o) Tj
+/R33 11 Tf
+1 0 0 1 483.599 618 Tm
+(and) Tj
+1 0 0 1 503.039 618 Tm
+(all) Tj
+1 0 0 1 517.439 618 Tm
+(the) Tj
+1 0 0 1 90 604.32 Tm
+(other) Tj
+/R36 11 Tf
+1 0 0 1 115.92 604.32 Tm
+(.o) Tj
+/R33 11 Tf
+1 0 0 1 132.48 604.32 Tm
+(\256les) Tj
+1 0 0 1 154.08 604.32 Tm
+(are) Tj
+1 0 0 1 171.12 604.32 Tm
+(updated,) Tj
+1 0 0 1 212.16 604.32 Tm
+(the) Tj
+1 0 0 1 225.36 604.32 Tm
+(y) Tj
+1 0 0 1 234.24 604.32 Tm
+(are) Tj
+1 0 0 1 251.04 604.32 Tm
+(combined) Tj
+1 0 0 1 297.6 604.32 Tm
+(by) Tj
+1 0 0 1 311.999 604.32 Tm
+(the) Tj
+1 0 0 1 328.799 604.32 Tm
+(action) Tj
+1 0 0 1 359.039 604.32 Tm
+(\252) Tj
+/R36 11 Tf
+1 0 0 1 363.839 604.32 Tm
+(g++) Tj
+1 0 0 1 390.239 604.32 Tm
+(-g) Tj
+1 0 0 1 409.919 604.32 Tm
+(-o) Tj
+1 0 0 1 429.839 604.32 Tm
+(edit) Tj
+ET
+endstream
+endobj
+38 0 obj
+4263
+endobj
+39 0 obj
+<< /Type /XObject /Name /R39 /Subtype /Image /Length 40 0 R
+/ImageMask true /Width 13 /Height 13 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 13 /BlackIs1 true >>]
+>>
+stream
+0/Éˇ¬˛  
+endstream
+endobj
+40 0 obj
+12
+endobj
+41 0 obj
+<< /Length 42 0 R >>
+stream
+q
+1.3 0 0 -1.3 463.6 607.7 cm
+/R39 Do
+Q
+q
+1.3 0 0 -1.3 468.7 607.7 cm
+/R39 Do
+Q
+q
+1.3 0 0 -1.3 473.7 607.7 cm
+/R39 Do
+Q
+BT
+/R33 11 Tf
+1 0 0 1 475.439 604.32 Tm
+(\272) Tj
+1 0 0 1 483.599 604.32 Tm
+(to) Tj
+1 0 0 1 495.599 604.32 Tm
+(produce) Tj
+1 0 0 1 90 590.88 Tm
+(the) Tj
+1 0 0 1 105.84 590.88 Tm
+(program) Tj
+/R36 11 Tf
+1 0 0 1 145.44 590.88 Tm
+(edit) Tj
+/R33 11 Tf
+1 0 0 1 171.36 590.88 Tm
+(,) Tj
+1 0 0 1 176.88 590.88 Tm
+(if) Tj
+1 0 0 1 186.24 590.88 Tm
+(either) Tj
+/R36 11 Tf
+1 0 0 1 213.6 590.88 Tm
+(edit) Tj
+/R33 11 Tf
+1 0 0 1 242.399 590.88 Tm
+(does) Tj
+1 0 0 1 264.959 590.88 Tm
+(not) Tj
+1 0 0 1 281.519 590.88 Tm
+(already) Tj
+1 0 0 1 316.079 590.88 Tm
+(e) Tj
+1 0 0 1 320.639 590.88 Tm
+(xist) Tj
+1 0 0 1 339.119 590.88 Tm
+(or) Tj
+1 0 0 1 350.879 590.88 Tm
+(if) Tj
+1 0 0 1 359.999 590.88 Tm
+(an) Tj
+1 0 0 1 370.079 590.88 Tm
+(y) Tj
+1 0 0 1 377.999 590.88 Tm
+(of) Tj
+1 0 0 1 389.759 590.88 Tm
+(the) Tj
+/R36 11 Tf
+1 0 0 1 405.599 590.88 Tm
+(.o) Tj
+/R33 11 Tf
+1 0 0 1 421.199 590.88 Tm
+(\256les) Tj
+1 0 0 1 441.839 590.88 Tm
+(are) Tj
+1 0 0 1 457.919 590.88 Tm
+(younger) Tj
+1 0 0 1 496.079 590.88 Tm
+(than) Tj
+1 0 0 1 517.439 590.88 Tm
+(the) Tj
+1 0 0 1 90 577.44 Tm
+(e) Tj
+1 0 0 1 94.56 577.44 Tm
+(xisting) Tj
+/R36 11 Tf
+1 0 0 1 127.2 577.44 Tm
+(edit) Tj
+/R33 11 Tf
+1 0 0 1 156.24 577.44 Tm
+(\256le.) Tj
+1 0 0 1 106.8 563.76 Tm
+(T) Tj
+1 0 0 1 112.56 563.76 Tm
+(o) Tj
+1 0 0 1 120.96 563.76 Tm
+(in) Tj
+1 0 0 1 129.12 563.76 Tm
+(v) Tj
+1 0 0 1 134.4 563.76 Tm
+(oke) Tj
+/R36 11 Tf
+1 0 0 1 152.64 563.76 Tm
+(gmake) Tj
+/R33 11 Tf
+1 0 0 1 188.4 563.76 Tm
+(for) Tj
+1 0 0 1 203.76 563.76 Tm
+(this) Tj
+1 0 0 1 222.48 563.76 Tm
+(e) Tj
+1 0 0 1 227.04 563.76 Tm
+(xample,) Tj
+1 0 0 1 264.96 563.76 Tm
+(one) Tj
+1 0 0 1 283.44 563.76 Tm
+(issues) Tj
+1 0 0 1 312.24 563.76 Tm
+(the) Tj
+1 0 0 1 328.559 563.76 Tm
+(command) Tj
+/R36 11 Tf
+1 0 0 1 133.68 542.64 Tm
+(gmake) Tj
+1 0 0 1 173.04 542.64 Tm
+(-f) Tj
+ET
+endstream
+endobj
+42 0 obj
+1892
+endobj
+43 0 obj
+<< /Type /Font /Name /R43 /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+44 0 obj
+<< /Length 45 0 R >>
+stream
+BT
+/R43 11 Tf
+1 0 0 1 192.72 542.64 Tm
+(make\256le-name) Tj
+1 0 0 1 263.28 542.64 Tm
+(tar) Tj
+1 0 0 1 275.76 542.64 Tm
+(get-names) Tj
+/R33 11 Tf
+1 0 0 1 90 521.28 Tm
+(where) Tj
+1 0 0 1 120.24 521.28 Tm
+(the) Tj
+/R43 11 Tf
+1 0 0 1 137.28 521.28 Tm
+(tar) Tj
+1 0 0 1 149.76 521.28 Tm
+(get-names) Tj
+/R33 11 Tf
+1 0 0 1 198.24 521.28 Tm
+(are) Tj
+1 0 0 1 215.28 521.28 Tm
+(the) Tj
+1 0 0 1 232.08 521.28 Tm
+(tar) Tj
+1 0 0 1 243.36 521.28 Tm
+(gets) Tj
+1 0 0 1 264.72 521.28 Tm
+(that) Tj
+1 0 0 1 284.88 521.28 Tm
+(you) Tj
+1 0 0 1 304.8 521.28 Tm
+(wish) Tj
+1 0 0 1 329.28 521.28 Tm
+(to) Tj
+1 0 0 1 341.279 521.28 Tm
+(update) Tj
+1 0 0 1 374.159 521.28 Tm
+(and) Tj
+1 0 0 1 393.599 521.28 Tm
+(the) Tj
+/R43 11 Tf
+1 0 0 1 410.399 521.28 Tm
+(make\256le-name) Tj
+/R33 11 Tf
+1 0 0 1 477.839 521.28 Tm
+(gi) Tj
+1 0 0 1 486.239 521.28 Tm
+(v) Tj
+1 0 0 1 491.519 521.28 Tm
+(en) Tj
+1 0 0 1 505.439 521.28 Tm
+(in) Tj
+1 0 0 1 517.439 521.28 Tm
+(the) Tj
+/R36 11 Tf
+1 0 0 1 90 507.84 Tm
+(-f) Tj
+/R33 11 Tf
+1 0 0 1 106.32 507.84 Tm
+(switch) Tj
+1 0 0 1 138 507.84 Tm
+(is) Tj
+1 0 0 1 148.56 507.84 Tm
+(the) Tj
+1 0 0 1 165.12 507.84 Tm
+(name) Tj
+1 0 0 1 192 507.84 Tm
+(of) Tj
+1 0 0 1 204.48 507.84 Tm
+(the) Tj
+1 0 0 1 221.04 507.84 Tm
+(make\256le.) Tj
+1 0 0 1 266.64 507.84 Tm
+(By) Tj
+1 0 0 1 282.479 507.84 Tm
+(default,) Tj
+1 0 0 1 318.959 507.84 Tm
+(the) Tj
+1 0 0 1 335.519 507.84 Tm
+(tar) Tj
+1 0 0 1 346.799 507.84 Tm
+(get) Tj
+1 0 0 1 363.359 507.84 Tm
+(is) Tj
+1 0 0 1 373.919 507.84 Tm
+(that) Tj
+1 0 0 1 393.599 507.84 Tm
+(of) Tj
+1 0 0 1 405.839 507.84 Tm
+(the) Tj
+1 0 0 1 422.399 507.84 Tm
+(\256rst) Tj
+1 0 0 1 442.799 507.84 Tm
+(rule) Tj
+1 0 0 1 462.959 507.84 Tm
+(in) Tj
+1 0 0 1 474.719 507.84 Tm
+(the) Tj
+1 0 0 1 491.279 507.84 Tm
+(\256le.) Tj
+1 0 0 1 513.359 507.84 Tm
+(Y) Tj
+1 0 0 1 520.079 507.84 Tm
+(ou) Tj
+1 0 0 1 90 494.16 Tm
+(may) Tj
+1 0 0 1 112.08 494.16 Tm
+(\(and) Tj
+1 0 0 1 134.64 494.16 Tm
+(usually) Tj
+1 0 0 1 169.44 494.16 Tm
+(do\)) Tj
+1 0 0 1 187.44 494.16 Tm
+(lea) Tj
+1 0 0 1 199.92 494.16 Tm
+(v) Tj
+1 0 0 1 205.2 494.16 Tm
+(e) Tj
+1 0 0 1 213.36 494.16 Tm
+(of) Tj
+1 0 0 1 222.24 494.16 Tm
+(f) Tj
+/R36 11 Tf
+1 0 0 1 228.96 494.16 Tm
+(-f) Tj
+/R43 11 Tf
+1 0 0 1 245.28 494.16 Tm
+(make\256le-name) Tj
+/R33 11 Tf
+1 0 0 1 309.12 494.16 Tm
+(,) Tj
+1 0 0 1 315.12 494.16 Tm
+(in) Tj
+1 0 0 1 326.88 494.16 Tm
+(which) Tj
+1 0 0 1 356.879 494.16 Tm
+(case) Tj
+1 0 0 1 378.959 494.16 Tm
+(it) Tj
+1 0 0 1 388.319 494.16 Tm
+(defaults) Tj
+1 0 0 1 425.999 494.16 Tm
+(to) Tj
+1 0 0 1 437.759 494.16 Tm
+(either) Tj
+/R36 11 Tf
+1 0 0 1 466.079 494.16 Tm
+(makefile) Tj
+/R33 11 Tf
+1 0 0 1 521.759 494.16 Tm
+(or) Tj
+/R36 11 Tf
+1 0 0 1 90 480.72 Tm
+(Makefile) Tj
+/R33 11 Tf
+1 0 0 1 141.84 480.72 Tm
+(,) Tj
+1 0 0 1 149.04 480.72 Tm
+(whiche) Tj
+1 0 0 1 180.48 480.72 Tm
+(v) Tj
+1 0 0 1 185.76 480.72 Tm
+(er) Tj
+1 0 0 1 197.76 480.72 Tm
+(e) Tj
+1 0 0 1 202.32 480.72 Tm
+(xists.) Tj
+1 0 0 1 231.6 480.72 Tm
+(It) Tj
+1 0 0 1 241.92 480.72 Tm
+(is) Tj
+1 0 0 1 252.72 480.72 Tm
+(typical) Tj
+1 0 0 1 286.079 480.72 Tm
+(to) Tj
+1 0 0 1 298.079 480.72 Tm
+(arrange) Tj
+1 0 0 1 334.559 480.72 Tm
+(that) Tj
+1 0 0 1 354.479 480.72 Tm
+(each) Tj
+1 0 0 1 377.999 480.72 Tm
+(directory) Tj
+1 0 0 1 421.199 480.72 Tm
+(contains) Tj
+1 0 0 1 461.279 480.72 Tm
+(the) Tj
+1 0 0 1 478.079 480.72 Tm
+(source) Tj
+1 0 0 1 510.239 480.72 Tm
+(code) Tj
+1 0 0 1 90 467.04 Tm
+(for) Tj
+1 0 0 1 106.56 467.04 Tm
+(a) Tj
+1 0 0 1 115.44 467.04 Tm
+(single) Tj
+1 0 0 1 145.44 467.04 Tm
+(principal) Tj
+1 0 0 1 188.4 467.04 Tm
+(program.) Tj
+1 0 0 1 235.68 467.04 Tm
+(By) Tj
+1 0 0 1 252.48 467.04 Tm
+(adopting) Tj
+1 0 0 1 294.72 467.04 Tm
+(the) Tj
+1 0 0 1 311.999 467.04 Tm
+(con) Tj
+1 0 0 1 327.359 467.04 Tm
+(v) Tj
+1 0 0 1 332.639 467.04 Tm
+(ention) Tj
+1 0 0 1 364.079 467.04 Tm
+(that) Tj
+1 0 0 1 384.479 467.04 Tm
+(the) Tj
+1 0 0 1 401.759 467.04 Tm
+(rule) Tj
+1 0 0 1 422.639 467.04 Tm
+(with) Tj
+1 0 0 1 446.159 467.04 Tm
+(that) Tj
+1 0 0 1 466.559 467.04 Tm
+(program) Tj
+1 0 0 1 507.599 467.04 Tm
+(as) Tj
+1 0 0 1 520.559 467.04 Tm
+(its) Tj
+1 0 0 1 90 453.6 Tm
+(tar) Tj
+1 0 0 1 101.28 453.6 Tm
+(get) Tj
+1 0 0 1 117.12 453.6 Tm
+(goes) Tj
+1 0 0 1 139.44 453.6 Tm
+(\256rst,) Tj
+1 0 0 1 161.76 453.6 Tm
+(and) Tj
+1 0 0 1 180 453.6 Tm
+(that) Tj
+1 0 0 1 198.96 453.6 Tm
+(the) Tj
+1 0 0 1 214.56 453.6 Tm
+(make\256le) Tj
+1 0 0 1 254.64 453.6 Tm
+(for) Tj
+1 0 0 1 269.759 453.6 Tm
+(the) Tj
+1 0 0 1 285.599 453.6 Tm
+(directory) Tj
+1 0 0 1 327.599 453.6 Tm
+(is) Tj
+1 0 0 1 337.199 453.6 Tm
+(named) Tj
+/R36 11 Tf
+1 0 0 1 368.879 453.6 Tm
+(makefile) Tj
+/R33 11 Tf
+1 0 0 1 420.719 453.6 Tm
+(,) Tj
+1 0 0 1 426.719 453.6 Tm
+(you) Tj
+1 0 0 1 445.439 453.6 Tm
+(can) Tj
+1 0 0 1 463.199 453.6 Tm
+(arrange) Tj
+1 0 0 1 498.239 453.6 Tm
+(that,) Tj
+1 0 0 1 520.079 453.6 Tm
+(by) Tj
+1 0 0 1 90 439.92 Tm
+(con) Tj
+1 0 0 1 105.36 439.92 Tm
+(v) Tj
+1 0 0 1 110.64 439.92 Tm
+(ention,) Tj
+1 0 0 1 143.04 439.92 Tm
+(issuing) Tj
+1 0 0 1 176.4 439.92 Tm
+(the) Tj
+1 0 0 1 192 439.92 Tm
+(command) Tj
+/R36 11 Tf
+1 0 0 1 237.36 439.92 Tm
+(gmake) Tj
+/R33 11 Tf
+1 0 0 1 272.64 439.92 Tm
+(with) Tj
+1 0 0 1 294.24 439.92 Tm
+(no) Tj
+1 0 0 1 307.44 439.92 Tm
+(ar) Tj
+1 0 0 1 315.6 439.92 Tm
+(guments) Tj
+1 0 0 1 355.2 439.92 Tm
+(in) Tj
+1 0 0 1 365.999 439.92 Tm
+(an) Tj
+1 0 0 1 376.079 439.92 Tm
+(y) Tj
+1 0 0 1 383.759 439.92 Tm
+(directory) Tj
+1 0 0 1 425.519 439.92 Tm
+(will) Tj
+1 0 0 1 444.959 439.92 Tm
+(update) Tj
+1 0 0 1 476.399 439.92 Tm
+(the) Tj
+1 0 0 1 491.999 439.92 Tm
+(principal) Tj
+1 0 0 1 90 426.48 Tm
+(program) Tj
+1 0 0 1 129.84 426.48 Tm
+(of) Tj
+1 0 0 1 141.6 426.48 Tm
+(that) Tj
+1 0 0 1 160.8 426.48 Tm
+(directory) Tj
+1 0 0 1 199.68 426.48 Tm
+(.) Tj
+1 0 0 1 106.8 412.8 Tm
+(It) Tj
+1 0 0 1 116.16 412.8 Tm
+(is) Tj
+1 0 0 1 125.76 412.8 Tm
+(possible) Tj
+1 0 0 1 164.16 412.8 Tm
+(to) Tj
+1 0 0 1 175.2 412.8 Tm
+(ha) Tj
+1 0 0 1 185.28 412.8 Tm
+(v) Tj
+1 0 0 1 190.56 412.8 Tm
+(e) Tj
+1 0 0 1 198 412.8 Tm
+(more) Tj
+1 0 0 1 223.2 412.8 Tm
+(than) Tj
+1 0 0 1 244.56 412.8 Tm
+(one) Tj
+1 0 0 1 262.8 412.8 Tm
+(rule) Tj
+1 0 0 1 282.24 412.8 Tm
+(with) Tj
+1 0 0 1 304.319 412.8 Tm
+(the) Tj
+1 0 0 1 320.159 412.8 Tm
+(same) Tj
+1 0 0 1 345.119 412.8 Tm
+(tar) Tj
+1 0 0 1 356.399 412.8 Tm
+(get,) Tj
+1 0 0 1 375.359 412.8 Tm
+(as) Tj
+1 0 0 1 386.879 412.8 Tm
+(long) Tj
+1 0 0 1 408.959 412.8 Tm
+(as) Tj
+1 0 0 1 420.479 412.8 Tm
+(no) Tj
+1 0 0 1 433.919 412.8 Tm
+(more) Tj
+1 0 0 1 458.879 412.8 Tm
+(than) Tj
+1 0 0 1 480.239 412.8 Tm
+(one) Tj
+1 0 0 1 498.719 412.8 Tm
+(rule) Tj
+1 0 0 1 518.159 412.8 Tm
+(for) Tj
+1 0 0 1 90 399.36 Tm
+(each) Tj
+1 0 0 1 112.8 399.36 Tm
+(tar) Tj
+1 0 0 1 124.08 399.36 Tm
+(get) Tj
+1 0 0 1 140.16 399.36 Tm
+(has) Tj
+1 0 0 1 157.68 399.36 Tm
+(an) Tj
+1 0 0 1 170.64 399.36 Tm
+(action.) Tj
+1 0 0 1 204.24 399.36 Tm
+(Thus,) Tj
+1 0 0 1 231.6 399.36 Tm
+(we) Tj
+1 0 0 1 246.96 399.36 Tm
+(can) Tj
+1 0 0 1 264.96 399.36 Tm
+(also) Tj
+1 0 0 1 285.36 399.36 Tm
+(write) Tj
+1 0 0 1 310.56 399.36 Tm
+(the) Tj
+1 0 0 1 326.88 399.36 Tm
+(latter) Tj
+1 0 0 1 352.079 399.36 Tm
+(part) Tj
+1 0 0 1 371.759 399.36 Tm
+(of) Tj
+1 0 0 1 383.759 399.36 Tm
+(the) Tj
+1 0 0 1 399.839 399.36 Tm
+(e) Tj
+1 0 0 1 404.399 399.36 Tm
+(xample) Tj
+1 0 0 1 439.439 399.36 Tm
+(abo) Tj
+1 0 0 1 455.039 399.36 Tm
+(v) Tj
+1 0 0 1 460.319 399.36 Tm
+(e) Tj
+1 0 0 1 468.239 399.36 Tm
+(as) Tj
+1 0 0 1 479.999 399.36 Tm
+(follo) Tj
+1 0 0 1 500.639 399.36 Tm
+(ws.) Tj
+/R36 11 Tf
+1 0 0 1 116.16 378.24 Tm
+(edit.o) Tj
+1 0 0 1 162.24 378.24 Tm
+(:) Tj
+1 0 0 1 175.44 378.24 Tm
+(edit.cc) Tj
+1 0 0 1 168.72 364.56 Tm
+(g++) Tj
+1 0 0 1 195.12 364.56 Tm
+(-g) Tj
+1 0 0 1 214.8 364.56 Tm
+(-c) Tj
+1 0 0 1 234.48 364.56 Tm
+(-Wall) Tj
+1 0 0 1 274.08 364.56 Tm
+(edit.cc) Tj
+1 0 0 1 116.16 351.12 Tm
+(kbd.o) Tj
+1 0 0 1 155.76 351.12 Tm
+(:) Tj
+1 0 0 1 168.72 351.12 Tm
+(kbd.cc) Tj
+1 0 0 1 168.72 337.44 Tm
+(g++) Tj
+1 0 0 1 195.12 337.44 Tm
+(-g) Tj
+1 0 0 1 214.8 337.44 Tm
+(-c) Tj
+1 0 0 1 234.48 337.44 Tm
+(-Wall) Tj
+1 0 0 1 274.08 337.44 Tm
+(kbd.cc) Tj
+1 0 0 1 116.16 324 Tm
+(commands.) Tj
+1 0 0 1 174.72 324 Tm
+(o) Tj
+1 0 0 1 188.64 324 Tm
+(:) Tj
+1 0 0 1 201.6 324 Tm
+(command.) Tj
+1 0 0 1 253.68 324 Tm
+(cc) Tj
+1 0 0 1 168.72 310.32 Tm
+(g++) Tj
+1 0 0 1 195.12 310.32 Tm
+(-g) Tj
+1 0 0 1 214.8 310.32 Tm
+(-c) Tj
+1 0 0 1 234.48 310.32 Tm
+(-Wall) Tj
+1 0 0 1 274.08 310.32 Tm
+(commands.c) Tj
+1 0 0 1 339.119 310.32 Tm
+(c) Tj
+1 0 0 1 116.16 296.88 Tm
+(display.o) Tj
+1 0 0 1 181.92 296.88 Tm
+(:) Tj
+1 0 0 1 195.12 296.88 Tm
+(display.c) Tj
+1 0 0 1 253.68 296.88 Tm
+(c) Tj
+1 0 0 1 168.72 283.2 Tm
+(g++) Tj
+1 0 0 1 195.12 283.2 Tm
+(-g) Tj
+1 0 0 1 214.8 283.2 Tm
+(-c) Tj
+1 0 0 1 234.48 283.2 Tm
+(-Wall) Tj
+1 0 0 1 274.08 283.2 Tm
+(display.cc) Tj
+1 0 0 1 116.16 269.76 Tm
+(insert.o) Tj
+1 0 0 1 175.44 269.76 Tm
+(:) Tj
+1 0 0 1 188.64 269.76 Tm
+(insert.cc) Tj
+1 0 0 1 168.72 256.08 Tm
+(g++) Tj
+1 0 0 1 195.12 256.08 Tm
+(-g) Tj
+1 0 0 1 214.8 256.08 Tm
+(-c) Tj
+1 0 0 1 234.48 256.08 Tm
+(-Wall) Tj
+1 0 0 1 274.08 256.08 Tm
+(insert.cc) Tj
+1 0 0 1 116.16 242.64 Tm
+(search.o) Tj
+1 0 0 1 175.44 242.64 Tm
+(:) Tj
+1 0 0 1 188.64 242.64 Tm
+(search.cc) Tj
+1 0 0 1 168.72 229.2 Tm
+(g++) Tj
+1 0 0 1 195.12 229.2 Tm
+(-g) Tj
+1 0 0 1 214.8 229.2 Tm
+(-c) Tj
+1 0 0 1 234.48 229.2 Tm
+(-Wall) Tj
+1 0 0 1 274.08 229.2 Tm
+(search.cc) Tj
+1 0 0 1 116.16 215.52 Tm
+(files.o) Tj
+1 0 0 1 168.72 215.52 Tm
+(:) Tj
+1 0 0 1 181.92 215.52 Tm
+(files.cc) Tj
+1 0 0 1 168.72 202.08 Tm
+(g++) Tj
+1 0 0 1 195.12 202.08 Tm
+(-g) Tj
+1 0 0 1 214.8 202.08 Tm
+(-c) Tj
+1 0 0 1 234.48 202.08 Tm
+(-Wall) Tj
+1 0 0 1 274.08 202.08 Tm
+(files.cc) Tj
+1 0 0 1 116.16 188.4 Tm
+(utils.o) Tj
+1 0 0 1 168.72 188.4 Tm
+(:) Tj
+1 0 0 1 181.92 188.4 Tm
+(utils.cc) Tj
+1 0 0 1 168.72 174.96 Tm
+(g++) Tj
+1 0 0 1 195.12 174.96 Tm
+(-g) Tj
+1 0 0 1 214.8 174.96 Tm
+(-c) Tj
+1 0 0 1 234.48 174.96 Tm
+(-Wall) Tj
+1 0 0 1 274.08 174.96 Tm
+(utils.cc) Tj
+1 0 0 1 116.16 147.84 Tm
+(edit.o) Tj
+1 0 0 1 162.24 147.84 Tm
+(kbd.o) Tj
+1 0 0 1 201.6 147.84 Tm
+(commands) Tj
+1 0 0 1 253.68 147.84 Tm
+(.o) Tj
+1 0 0 1 274.079 147.84 Tm
+(display.o) Tj
+1 0 0 1 339.839 147.84 Tm
+(\\) Tj
+1 0 0 1 142.56 134.16 Tm
+(insert.o) Tj
+1 0 0 1 201.6 134.16 Tm
+(search.o) Tj
+1 0 0 1 260.88 134.16 Tm
+(files.o) Tj
+1 0 0 1 313.439 134.16 Tm
+(utils.o:) Tj
+1 0 0 1 372.719 134.16 Tm
+(defs.h) Tj
+1 0 0 1 116.16 120.72 Tm
+(kbd.o) Tj
+1 0 0 1 155.76 120.72 Tm
+(commands.o) Tj
+1 0 0 1 228 120.72 Tm
+(files.o) Tj
+1 0 0 1 280.559 120.72 Tm
+(:) Tj
+1 0 0 1 293.759 120.72 Tm
+(command.h) Tj
+1 0 0 1 116.16 107.04 Tm
+(display.o) Tj
+1 0 0 1 181.92 107.04 Tm
+(insert.o) Tj
+1 0 0 1 241.2 107.04 Tm
+(search.o) Tj
+1 0 0 1 300.239 107.04 Tm
+(files.o) Tj
+1 0 0 1 353.039 107.04 Tm
+(:) Tj
+1 0 0 1 365.999 107.04 Tm
+(buffer.h) Tj
+ET
+Q
+endstream
+endobj
+45 0 obj
+10411
+endobj
+30 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /ImageB /Text]
+/Font <<
+/R43 43 0 R
+/R36 36 0 R
+/R33 33 0 R
+>>
+/XObject <<
+/R39 39 0 R
+>>
+>>
+/Contents [
+31 0 R
+34 0 R
+37 0 R
+41 0 R
+44 0 R
+]
+>>
+endobj
+47 0 obj
+<< /Length 48 0 R >>
+stream
+q
+endstream
+endobj
+48 0 obj
+2
+endobj
+49 0 obj
+<< /Type /Font /Name /R49 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+50 0 obj
+<< /Length 51 0 R >>
+stream
+BT
+/R49 11 Tf
+1 0 0 1 84 708 Tm
+(42) Tj
+1 0 0.167 1 461.52 708 Tm
+(P) Tj
+1 0 0.167 1 466.32 708 Tm
+(.) Tj
+1 0 0.167 1 472.08 708 Tm
+(N.) Tj
+1 0 0.167 1 485.28 708 Tm
+(Hil\256nger) Tj
+1 0 0 1 84 672.24 Tm
+(The) Tj
+1 0 0 1 103.2 672.24 Tm
+(order) Tj
+1 0 0 1 128.64 672.24 Tm
+(in) Tj
+1 0 0 1 139.44 672.24 Tm
+(which) Tj
+1 0 0 1 168.48 672.24 Tm
+(these) Tj
+1 0 0 1 193.44 672.24 Tm
+(rules) Tj
+1 0 0 1 216.96 672.24 Tm
+(are) Tj
+1 0 0 1 232.56 672.24 Tm
+(written) Tj
+1 0 0 1 265.919 672.24 Tm
+(is) Tj
+1 0 0 1 275.519 672.24 Tm
+(irrele) Tj
+1 0 0 1 298.319 672.24 Tm
+(v) Tj
+1 0 0 1 303.599 672.24 Tm
+(ant.) Tj
+1 0 0 1 323.519 672.24 Tm
+(Which) Tj
+1 0 0 1 354.959 672.24 Tm
+(order) Tj
+1 0 0 1 380.399 672.24 Tm
+(or) Tj
+1 0 0 1 391.919 672.24 Tm
+(grouping) Tj
+1 0 0 1 433.679 672.24 Tm
+(you) Tj
+1 0 0 1 452.399 672.24 Tm
+(choose) Tj
+1 0 0 1 485.039 672.24 Tm
+(is) Tj
+1 0 0 1 494.639 672.24 Tm
+(lar) Tj
+1 0 0 1 505.919 672.24 Tm
+(gely) Tj
+1 0 0 1 84 658.56 Tm
+(a) Tj
+1 0 0 1 91.6799 658.56 Tm
+(matter) Tj
+1 0 0 1 122.4 658.56 Tm
+(of) Tj
+1 0 0 1 134.16 658.56 Tm
+(taste.) Tj
+1 0 0 1 100.8 644.64 Tm
+(The) Tj
+1 0 0 1 121.92 644.64 Tm
+(e) Tj
+1 0 0 1 126.48 644.64 Tm
+(xample) Tj
+1 0 0 1 162.72 644.64 Tm
+(of) Tj
+1 0 0 1 175.68 644.64 Tm
+(this) Tj
+1 0 0 1 195.6 644.64 Tm
+(section) Tj
+1 0 0 1 230.4 644.64 Tm
+(illustrates) Tj
+1 0 0 1 276.96 644.64 Tm
+(the) Tj
+1 0 0 1 294.24 644.64 Tm
+(concepts) Tj
+1 0 0 1 336.48 644.64 Tm
+(underlying) Tj
+ET
+endstream
+endobj
+51 0 obj
+1428
+endobj
+52 0 obj
+<< /Type /Font /Name /R52 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+53 0 obj
+<< /Length 54 0 R >>
+stream
+BT
+/R52 11 Tf
+1 0 0 1 387.839 644.64 Tm
+(gmake) Tj
+/R49 11 Tf
+1 0 0 1 420.239 644.64 Tm
+(.) Tj
+1 0 0 1 431.039 644.64 Tm
+(The) Tj
+1 0 0 1 451.919 644.64 Tm
+(rest) Tj
+1 0 0 1 471.839 644.64 Tm
+(of) Tj
+/R52 11 Tf
+1 0 0 1 484.799 644.64 Tm
+(gmake) Tj
+/R49 11 Tf
+1 0 0 1 517.199 644.64 Tm
+(') Tj
+1 0 0 1 520.079 644.64 Tm
+(s) Tj
+1 0 0 1 84 631.2 Tm
+(features) Tj
+1 0 0 1 121.44 631.2 Tm
+(e) Tj
+1 0 0 1 126 631.2 Tm
+(xist) Tj
+1 0 0 1 144.72 631.2 Tm
+(mostly) Tj
+1 0 0 1 177.12 631.2 Tm
+(to) Tj
+1 0 0 1 188.4 631.2 Tm
+(enhance) Tj
+1 0 0 1 227.04 631.2 Tm
+(the) Tj
+1 0 0 1 243.36 631.2 Tm
+(con) Tj
+1 0 0 1 258.72 631.2 Tm
+(v) Tj
+1 0 0 1 264 631.2 Tm
+(enience) Tj
+1 0 0 1 300.24 631.2 Tm
+(of) Tj
+1 0 0 1 312 631.2 Tm
+(using) Tj
+1 0 0 1 338.64 631.2 Tm
+(it.) Tj
+ET
+endstream
+endobj
+54 0 obj
+756
+endobj
+55 0 obj
+<< /Type /Font /Name /R55 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+56 0 obj
+<< /Length 57 0 R >>
+stream
+BT
+/R55 12 Tf
+1 0 0 1 84 598.56 Tm
+(2) Tj
+1 0 0 1 102 598.56 Tm
+(V) Tj
+1 0 0 1 109.44 598.56 Tm
+(ariables) Tj
+/R49 11 Tf
+1 0 0 1 84 576.72 Tm
+(The) Tj
+1 0 0 1 104.16 576.72 Tm
+(dependencies) Tj
+1 0 0 1 166.56 576.72 Tm
+(of) Tj
+1 0 0 1 178.8 576.72 Tm
+(the) Tj
+1 0 0 1 195.6 576.72 Tm
+(tar) Tj
+1 0 0 1 206.88 576.72 Tm
+(get) Tj
+/R52 11 Tf
+1 0 0 1 223.44 576.72 Tm
+(edit) Tj
+/R49 11 Tf
+1 0 0 1 252.96 576.72 Tm
+(in) Tj
+ET
+endstream
+endobj
+57 0 obj
+420
+endobj
+58 0 obj
+<< /Type /XObject /Name /R58 /Subtype /Image /Length 59 0 R
+/ImageMask true /Width 32 /Height 99 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 32 /BlackIs1 true >>]
+>>
+stream
+'‡ÅÊßÇ·a‡ø‡√ˇ¬¸¯/˛ÇŒ°2drs6_ÇÖáÇˇ
+˛‡øˇˇˇ˛ˇ·¡¸Xx/…Á¬dÜpÅx_ºˇ˘™ˇ?ˇá¸`ˇ‡∞øA~á?‡  
+endstream
+endobj
+59 0 obj
+112
+endobj
+60 0 obj
+<< /Length 61 0 R >>
+stream
+q
+3.2 0 0 -9.9 265.4 584.4 cm
+/R58 Do
+Q
+BT
+1 0 0 1 269.76 576.72 Tm
+(1) Tj
+1 0 0 1 278.4 576.72 Tm
+(are) Tj
+1 0 0 1 294.959 576.72 Tm
+(also) Tj
+1 0 0 1 315.839 576.72 Tm
+(the) Tj
+1 0 0 1 332.399 576.72 Tm
+(ar) Tj
+1 0 0 1 340.559 576.72 Tm
+(guments) Tj
+1 0 0 1 381.119 576.72 Tm
+(to) Tj
+1 0 0 1 392.879 576.72 Tm
+(the) Tj
+1 0 0 1 409.679 576.72 Tm
+(command) Tj
+1 0 0 1 455.999 576.72 Tm
+(that) Tj
+1 0 0 1 475.679 576.72 Tm
+(links) Tj
+1 0 0 1 500.399 576.72 Tm
+(them.) Tj
+1 0 0 1 84 563.28 Tm
+(One) Tj
+1 0 0 1 104.88 563.28 Tm
+(can) Tj
+1 0 0 1 122.88 563.28 Tm
+(a) Tj
+1 0 0 1 127.44 563.28 Tm
+(v) Tj
+1 0 0 1 132.72 563.28 Tm
+(oid) Tj
+1 0 0 1 149.52 563.28 Tm
+(this) Tj
+1 0 0 1 168.24 563.28 Tm
+(redundanc) Tj
+1 0 0 1 213.6 563.28 Tm
+(y) Tj
+1 0 0 1 221.76 563.28 Tm
+(by) Tj
+1 0 0 1 235.44 563.28 Tm
+(de\256ning) Tj
+1 0 0 1 274.08 563.28 Tm
+(a) Tj
+1 0 0 1 281.76 563.28 Tm
+(v) Tj
+1 0 0 1 287.04 563.28 Tm
+(ariable) Tj
+1 0 0 1 319.68 563.28 Tm
+(that) Tj
+1 0 0 1 338.64 563.28 Tm
+(contains) Tj
+1 0 0 1 378 563.28 Tm
+(the) Tj
+1 0 0 1 394.079 563.28 Tm
+(names) Tj
+1 0 0 1 424.799 563.28 Tm
+(of) Tj
+1 0 0 1 436.799 563.28 Tm
+(all) Tj
+1 0 0 1 450.479 563.28 Tm
+(object) Tj
+1 0 0 1 479.999 563.28 Tm
+(\256les.) Tj
+/R52 11 Tf
+1 0 0 1 110.16 538.56 Tm
+(#) Tj
+1 0 0 1 123.36 538.56 Tm
+(Makefile) Tj
+1 0 0 1 182.64 538.56 Tm
+(for) Tj
+1 0 0 1 208.8 538.56 Tm
+(simple) Tj
+1 0 0 1 254.88 538.56 Tm
+(editor) Tj
+1 0 0 1 110.16 511.44 Tm
+(OBJS) Tj
+1 0 0 1 143.04 511.44 Tm
+(=) Tj
+1 0 0 1 156.24 511.44 Tm
+(edit.o) Tj
+1 0 0 1 202.32 511.44 Tm
+(kbd.o) Tj
+1 0 0 1 241.68 511.44 Tm
+(commands) Tj
+1 0 0 1 293.759 511.44 Tm
+(.o) Tj
+1 0 0 1 314.159 511.44 Tm
+(display.o) Tj
+1 0 0 1 379.919 511.44 Tm
+(\\) Tj
+1 0 0 1 156.24 498 Tm
+(insert.o) Tj
+1 0 0 1 215.52 498 Tm
+(search.o) Tj
+1 0 0 1 274.56 498 Tm
+(files.o) Tj
+1 0 0 1 327.359 498 Tm
+(utils.o) Tj
+1 0 0 1 110.16 470.88 Tm
+(edit) Tj
+1 0 0 1 143.04 470.88 Tm
+(:) Tj
+1 0 0 1 156.24 470.88 Tm
+($\(OBJS\)) Tj
+1 0 0 1 162.96 457.44 Tm
+(g++) Tj
+1 0 0 1 189.12 457.44 Tm
+(-g) Tj
+1 0 0 1 208.8 457.44 Tm
+(-o) Tj
+1 0 0 1 228.72 457.44 Tm
+(edit) Tj
+1 0 0 1 261.6 457.44 Tm
+($\(OBJS\)) Tj
+/R49 11 Tf
+1 0 0 1 84 433.2 Tm
+(The) Tj
+1 0 0 1 103.92 433.2 Tm
+(\(continued\)) Tj
+1 0 0 1 157.2 433.2 Tm
+(line) Tj
+1 0 0 1 176.64 433.2 Tm
+(be) Tj
+1 0 0 1 186.72 433.2 Tm
+(ginning) Tj
+1 0 0 1 223.2 433.2 Tm
+(\252) Tj
+/R52 11 Tf
+1 0 0 1 228 433.2 Tm
+(OBJS) Tj
+1 0 0 1 260.88 433.2 Tm
+(=) Tj
+/R49 11 Tf
+1 0 0 1 267.36 433.2 Tm
+(\272) Tj
+1 0 0 1 275.28 433.2 Tm
+(de\256nes) Tj
+1 0 0 1 309.119 433.2 Tm
+(the) Tj
+1 0 0 1 325.439 433.2 Tm
+(v) Tj
+1 0 0 1 330.719 433.2 Tm
+(ariable) Tj
+/R52 11 Tf
+1 0 0 1 363.359 433.2 Tm
+(OBJS) Tj
+/R49 11 Tf
+1 0 0 1 389.279 433.2 Tm
+(,) Tj
+1 0 0 1 395.279 433.2 Tm
+(which) Tj
+1 0 0 1 425.039 433.2 Tm
+(can) Tj
+1 0 0 1 443.039 433.2 Tm
+(later) Tj
+1 0 0 1 465.599 433.2 Tm
+(be) Tj
+1 0 0 1 478.799 433.2 Tm
+(referenced) Tj
+1 0 0 1 84 419.52 Tm
+(as) Tj
+1 0 0 1 96.7199 419.52 Tm
+(\252$\(OBJS\)\272) Tj
+1 0 0 1 148.56 419.52 Tm
+(or) Tj
+1 0 0 1 161.28 419.52 Tm
+(\252$) Tj
+ET
+endstream
+endobj
+61 0 obj
+3001
+endobj
+62 0 obj
+<< /Type /XObject /Name /R62 /Subtype /Image /Length 63 0 R
+/ImageMask true /Width 39 /Height 109 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 39 /BlackIs1 true >>]
+>>
+stream
+ A<®¬&G˛_ˇˇˇˇˇˇˇˇˇˇˇˇ¯@ºœÑÚj	Ú>…¸8?Üˇˇˇˇˇˇˇˇˇˇˇˇˇ?˘	·¸Å 
+endstream
+endobj
+63 0 obj
+73
+endobj
+64 0 obj
+<< /Length 65 0 R >>
+stream
+q
+3.9 0 0 -10.9 172.3 427.7 cm
+/R62 Do
+Q
+BT
+1 0 0 1 177.12 419.52 Tm
+(OBJS) Tj
+ET
+endstream
+endobj
+65 0 obj
+82
+endobj
+66 0 obj
+<< /Type /XObject /Name /R66 /Subtype /Image /Length 67 0 R
+/ImageMask true /Width 39 /Height 109 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 39 /BlackIs1 true >>]
+>>
+stream
+&†üœÑÚ@ø·Éˇˇˇˇˇˇˇˇˇˇˇˇˇ√¯?ÜE˛@Çe@bE˛28/Çˇˇˇˇˇˇˇˇˇˇˇˇˇ¬‡ÇÛ‡ò/&†ü¿ @
+endstream
+endobj
+67 0 obj
+74
+endobj
+68 0 obj
+<< /Length 69 0 R >>
+stream
+q
+3.9 0 0 -10.9 203.3 427.7 cm
+/R66 Do
+Q
+BT
+1 0 0 1 208.08 419.52 Tm
+(\272.) Tj
+1 0 0 1 222.48 419.52 Tm
+(These) Tj
+1 0 0 1 252.48 419.52 Tm
+(later) Tj
+1 0 0 1 275.52 419.52 Tm
+(references) Tj
+1 0 0 1 324.239 419.52 Tm
+(cause) Tj
+1 0 0 1 352.319 419.52 Tm
+(the) Tj
+1 0 0 1 369.359 419.52 Tm
+(de\256nition) Tj
+1 0 0 1 414.959 419.52 Tm
+(of) Tj
+/R52 11 Tf
+1 0 0 1 427.919 419.52 Tm
+(OBJ) Tj
+/R49 11 Tf
+1 0 0 1 451.199 419.52 Tm
+(to) Tj
+1 0 0 1 463.439 419.52 Tm
+(be) Tj
+1 0 0 1 477.359 419.52 Tm
+(substituted) Tj
+1 0 0 1 84 406.08 Tm
+(v) Tj
+1 0 0 1 89.28 406.08 Tm
+(erbatim) Tj
+1 0 0 1 125.76 406.08 Tm
+(before) Tj
+1 0 0 1 156.72 406.08 Tm
+(the) Tj
+1 0 0 1 173.04 406.08 Tm
+(rule) Tj
+1 0 0 1 192.96 406.08 Tm
+(is) Tj
+1 0 0 1 203.04 406.08 Tm
+(processed.) Tj
+1 0 0 1 253.68 406.08 Tm
+(It) Tj
+1 0 0 1 263.279 406.08 Tm
+(is) Tj
+1 0 0 1 273.599 406.08 Tm
+(some) Tj
+1 0 0 1 296.639 406.08 Tm
+(what) Tj
+1 0 0 1 320.639 406.08 Tm
+(unfortunate) Tj
+1 0 0 1 373.919 406.08 Tm
+(that) Tj
+1 0 0 1 393.359 406.08 Tm
+(both) Tj
+/R52 11 Tf
+1 0 0 1 415.919 406.08 Tm
+(gmake) Tj
+/R49 11 Tf
+1 0 0 1 451.679 406.08 Tm
+(and) Tj
+1 0 0 1 470.399 406.08 Tm
+(the) Tj
+1 0 0 1 486.719 406.08 Tm
+(shell) Tj
+1 0 0 1 510.239 406.08 Tm
+(use) Tj
+1 0 0 1 84 392.4 Tm
+(`$') Tj
+1 0 0 1 99.5999 392.4 Tm
+(to) Tj
+1 0 0 1 110.88 392.4 Tm
+(pre\256x) Tj
+1 0 0 1 139.2 392.4 Tm
+(v) Tj
+1 0 0 1 144.48 392.4 Tm
+(ariable) Tj
+1 0 0 1 176.88 392.4 Tm
+(references;) Tj
+/R52 11 Tf
+1 0 0 1 227.76 392.4 Tm
+(gmake) Tj
+/R49 11 Tf
+1 0 0 1 263.279 392.4 Tm
+(de\256nes) Tj
+1 0 0 1 297.119 392.4 Tm
+(`$$') Tj
+1 0 0 1 317.999 392.4 Tm
+(to) Tj
+1 0 0 1 329.279 392.4 Tm
+(be) Tj
+1 0 0 1 342.479 392.4 Tm
+(simply) Tj
+1 0 0 1 375.119 392.4 Tm
+(`$',) Tj
+1 0 0 1 393.359 392.4 Tm
+(thus) Tj
+1 0 0 1 414.479 392.4 Tm
+(allo) Tj
+1 0 0 1 430.799 392.4 Tm
+(wing) Tj
+1 0 0 1 455.279 392.4 Tm
+(you) Tj
+1 0 0 1 474.479 392.4 Tm
+(to) Tj
+1 0 0 1 485.759 392.4 Tm
+(send) Tj
+1 0 0 1 508.559 392.4 Tm
+(`$') Tj
+1 0 0 1 520.559 392.4 Tm
+(s) Tj
+1 0 0 1 84 378.96 Tm
+(to) Tj
+1 0 0 1 95.2799 378.96 Tm
+(the) Tj
+1 0 0 1 111.36 378.96 Tm
+(shell,) Tj
+1 0 0 1 137.52 378.96 Tm
+(where) Tj
+1 0 0 1 167.04 378.96 Tm
+(needed.) Tj
+1 0 0 1 100.8 365.04 Tm
+(Y) Tj
+1 0 0 1 107.52 365.04 Tm
+(ou) Tj
+1 0 0 1 120.96 365.04 Tm
+(will) Tj
+1 0 0 1 140.64 365.04 Tm
+(sometimes) Tj
+1 0 0 1 189.84 365.04 Tm
+(\256nd) Tj
+1 0 0 1 209.52 365.04 Tm
+(that) Tj
+1 0 0 1 228.24 365.04 Tm
+(you) Tj
+1 0 0 1 247.2 365.04 Tm
+(need) Tj
+1 0 0 1 270.48 365.04 Tm
+(a) Tj
+1 0 0 1 277.68 365.04 Tm
+(v) Tj
+1 0 0 1 282.96 365.04 Tm
+(alue) Tj
+1 0 0 1 303.6 365.04 Tm
+(that) Tj
+1 0 0 1 322.56 365.04 Tm
+(is) Tj
+1 0 0 1 332.4 365.04 Tm
+(just) Tj
+1 0 0 1 350.639 365.04 Tm
+(like) Tj
+1 0 0 1 369.359 365.04 Tm
+(that) Tj
+1 0 0 1 388.319 365.04 Tm
+(of) Tj
+1 0 0 1 399.839 365.04 Tm
+(some) Tj
+1 0 0 1 425.519 365.04 Tm
+(v) Tj
+1 0 0 1 430.799 365.04 Tm
+(ariable,) Tj
+1 0 0 1 465.839 365.04 Tm
+(with) Tj
+1 0 0 1 487.919 365.04 Tm
+(a) Tj
+1 0 0 1 495.119 365.04 Tm
+(certain) Tj
+1 0 0 1 84 351.36 Tm
+(systematic) Tj
+1 0 0 1 132.96 351.36 Tm
+(substitution.) Tj
+1 0 0 1 190.8 351.36 Tm
+(F) Tj
+1 0 0 1 196.56 351.36 Tm
+(or) Tj
+1 0 0 1 208.56 351.36 Tm
+(e) Tj
+1 0 0 1 213.12 351.36 Tm
+(xample,) Tj
+1 0 0 1 251.04 351.36 Tm
+(gi) Tj
+1 0 0 1 259.44 351.36 Tm
+(v) Tj
+1 0 0 1 264.72 351.36 Tm
+(en) Tj
+1 0 0 1 277.44 351.36 Tm
+(a) Tj
+1 0 0 1 285.12 351.36 Tm
+(v) Tj
+1 0 0 1 290.4 351.36 Tm
+(ariable) Tj
+1 0 0 1 322.799 351.36 Tm
+(listing) Tj
+1 0 0 1 353.039 351.36 Tm
+(the) Tj
+1 0 0 1 369.119 351.36 Tm
+(names) Tj
+1 0 0 1 399.839 351.36 Tm
+(of) Tj
+1 0 0 1 411.599 351.36 Tm
+(all) Tj
+1 0 0 1 425.279 351.36 Tm
+(source) Tj
+1 0 0 1 456.479 351.36 Tm
+(\256les,) Tj
+1 0 0 1 480.239 351.36 Tm
+(you) Tj
+1 0 0 1 499.439 351.36 Tm
+(might) Tj
+1 0 0 1 84 337.92 Tm
+(want) Tj
+1 0 0 1 108.48 337.92 Tm
+(to) Tj
+1 0 0 1 120.24 337.92 Tm
+(get) Tj
+1 0 0 1 137.04 337.92 Tm
+(the) Tj
+1 0 0 1 153.84 337.92 Tm
+(names) Tj
+1 0 0 1 185.04 337.92 Tm
+(of) Tj
+1 0 0 1 197.52 337.92 Tm
+(all) Tj
+1 0 0 1 211.92 337.92 Tm
+(resulting) Tj
+/R52 11 Tf
+1 0 0 1 253.68 337.92 Tm
+(.o) Tj
+/R49 11 Tf
+1 0 0 1 270 337.92 Tm
+(\256les.) Tj
+1 0 0 1 296.879 337.92 Tm
+(W) Tj
+1 0 0 1 306.24 337.92 Tm
+(e) Tj
+1 0 0 1 314.399 337.92 Tm
+(can) Tj
+1 0 0 1 332.879 337.92 Tm
+(re) Tj
+1 0 0 1 341.039 337.92 Tm
+(write) Tj
+1 0 0 1 367.199 337.92 Tm
+(the) Tj
+1 0 0 1 383.759 337.92 Tm
+(de\256nition) Tj
+1 0 0 1 429.119 337.92 Tm
+(of) Tj
+1 0 0 1 441.599 337.92 Tm
+(OBJS) Tj
+1 0 0 1 470.639 337.92 Tm
+(abo) Tj
+1 0 0 1 486.239 337.92 Tm
+(v) Tj
+1 0 0 1 491.519 337.92 Tm
+(e) Tj
+1 0 0 1 499.679 337.92 Tm
+(to) Tj
+1 0 0 1 511.679 337.92 Tm
+(get) Tj
+1 0 0 1 84 324.24 Tm
+(this.) Tj
+/R52 11 Tf
+1 0 0 1 105.84 300 Tm
+(SRCS) Tj
+1 0 0 1 138.72 300 Tm
+(=) Tj
+1 0 0 1 151.92 300 Tm
+(edit.cc) Tj
+1 0 0 1 204.48 300 Tm
+(kbd.cc) Tj
+1 0 0 1 250.56 300 Tm
+(commands.c) Tj
+1 0 0 1 315.599 300 Tm
+(c) Tj
+1 0 0 1 329.519 300 Tm
+(display.cc) Tj
+1 0 0 1 401.759 300 Tm
+(\\) Tj
+1 0 0 1 151.92 286.56 Tm
+(insert.cc) Tj
+1 0 0 1 217.68 286.56 Tm
+(search.cc) Tj
+1 0 0 1 283.44 286.56 Tm
+(files.cc) Tj
+1 0 0 1 342.479 286.56 Tm
+(utils.cc) Tj
+1 0 0 1 105.84 273.12 Tm
+(OBJS) Tj
+1 0 0 1 138.72 273.12 Tm
+(=) Tj
+1 0 0 1 151.92 273.12 Tm
+($\(SRCS:.cc) Tj
+1 0 0 1 216.96 273.12 Tm
+(=.) Tj
+1 0 0 1 230.16 273.12 Tm
+(o\)) Tj
+/R49 11 Tf
+1 0 0 1 84 248.88 Tm
+(The) Tj
+1 0 0 1 103.44 248.88 Tm
+(substitution) Tj
+1 0 0 1 156.96 248.88 Tm
+(suf) Tj
+1 0 0 1 170.16 248.88 Tm
+(\256x) Tj
+1 0 0 1 184.32 248.88 Tm
+(`) Tj
+/R52 11 Tf
+1 0 0 1 187.92 248.88 Tm
+(:.cc=.o) Tj
+/R49 11 Tf
+1 0 0 1 233.28 248.88 Tm
+(') Tj
+1 0 0 1 239.999 248.88 Tm
+(speci\256es) Tj
+1 0 0 1 280.079 248.88 Tm
+(the) Tj
+1 0 0 1 295.919 248.88 Tm
+(desired) Tj
+1 0 0 1 330.239 248.88 Tm
+(substitution.) Tj
+1 0 0 1 387.839 248.88 Tm
+(W) Tj
+1 0 0 1 397.199 248.88 Tm
+(e) Tj
+1 0 0 1 404.639 248.88 Tm
+(no) Tj
+1 0 0 1 415.439 248.88 Tm
+(w) Tj
+1 0 0 1 425.759 248.88 Tm
+(ha) Tj
+1 0 0 1 435.839 248.88 Tm
+(v) Tj
+1 0 0 1 441.119 248.88 Tm
+(e) Tj
+1 0 0 1 448.559 248.88 Tm
+(v) Tj
+1 0 0 1 453.839 248.88 Tm
+(ariables) Tj
+1 0 0 1 490.319 248.88 Tm
+(for) Tj
+1 0 0 1 505.439 248.88 Tm
+(both) Tj
+1 0 0 1 84 235.2 Tm
+(the) Tj
+1 0 0 1 100.32 235.2 Tm
+(names) Tj
+1 0 0 1 131.28 235.2 Tm
+(of) Tj
+1 0 0 1 143.28 235.2 Tm
+(all) Tj
+1 0 0 1 157.2 235.2 Tm
+(sources) Tj
+1 0 0 1 192.96 235.2 Tm
+(and) Tj
+1 0 0 1 211.68 235.2 Tm
+(the) Tj
+1 0 0 1 228 235.2 Tm
+(names) Tj
+1 0 0 1 258.96 235.2 Tm
+(of) Tj
+1 0 0 1 270.959 235.2 Tm
+(all) Tj
+1 0 0 1 284.879 235.2 Tm
+(object) Tj
+1 0 0 1 314.399 235.2 Tm
+(\256les) Tj
+1 0 0 1 335.759 235.2 Tm
+(without) Tj
+1 0 0 1 371.999 235.2 Tm
+(ha) Tj
+1 0 0 1 382.079 235.2 Tm
+(ving) Tj
+1 0 0 1 404.639 235.2 Tm
+(to) Tj
+1 0 0 1 415.919 235.2 Tm
+(repeat) Tj
+1 0 0 1 445.679 235.2 Tm
+(a) Tj
+1 0 0 1 453.599 235.2 Tm
+(lot) Tj
+1 0 0 1 467.999 235.2 Tm
+(of) Tj
+1 0 0 1 479.999 235.2 Tm
+(\256le) Tj
+1 0 0 1 497.039 235.2 Tm
+(names) Tj
+1 0 0 1 84 221.76 Tm
+(\(and) Tj
+1 0 0 1 106.08 221.76 Tm
+(possibly) Tj
+1 0 0 1 145.44 221.76 Tm
+(make) Tj
+1 0 0 1 171.84 221.76 Tm
+(a) Tj
+1 0 0 1 179.52 221.76 Tm
+(mistake\).) Tj
+1 0 0 1 100.8 207.6 Tm
+(V) Tj
+1 0 0 1 107.52 207.6 Tm
+(ariables) Tj
+1 0 0 1 144.48 207.6 Tm
+(may) Tj
+1 0 0 1 166.08 207.6 Tm
+(also) Tj
+1 0 0 1 186.48 207.6 Tm
+(be) Tj
+1 0 0 1 199.44 207.6 Tm
+(set) Tj
+1 0 0 1 214.32 207.6 Tm
+(in) Tj
+1 0 0 1 225.6 207.6 Tm
+(the) Tj
+1 0 0 1 241.68 207.6 Tm
+(command) Tj
+1 0 0 1 287.52 207.6 Tm
+(line) Tj
+1 0 0 1 306.72 207.6 Tm
+(that) Tj
+1 0 0 1 325.92 207.6 Tm
+(in) Tj
+1 0 0 1 334.08 207.6 Tm
+(v) Tj
+1 0 0 1 339.36 207.6 Tm
+(okes) Tj
+/R52 11 Tf
+1 0 0 1 361.919 207.6 Tm
+(gmake) Tj
+/R49 11 Tf
+1 0 0 1 394.319 207.6 Tm
+(.) Tj
+1 0 0 1 401.519 207.6 Tm
+(F) Tj
+1 0 0 1 407.279 207.6 Tm
+(or) Tj
+1 0 0 1 419.279 207.6 Tm
+(e) Tj
+1 0 0 1 423.839 207.6 Tm
+(xample,) Tj
+1 0 0 1 461.759 207.6 Tm
+(if) Tj
+1 0 0 1 471.119 207.6 Tm
+(the) Tj
+1 0 0 1 487.439 207.6 Tm
+(make\256le) Tj
+1 0 0 1 84 194.16 Tm
+(contains) Tj
+/R52 11 Tf
+1 0 0 1 110.16 169.44 Tm
+(edit.o:) Tj
+1 0 0 1 162.96 169.44 Tm
+(edit.cc) Tj
+1 0 0 1 162.96 156 Tm
+(g++) Tj
+1 0 0 1 189.12 156 Tm
+($\(DEBUG\)) Tj
+1 0 0 1 248.4 156 Tm
+(-c) Tj
+1 0 0 1 268.08 156 Tm
+(-Wall) Tj
+1 0 0 1 307.44 156 Tm
+(edit.cc) Tj
+/R49 11 Tf
+1 0 0 1 84 131.76 Tm
+(Then) Tj
+1 0 0 1 109.2 131.76 Tm
+(a) Tj
+1 0 0 1 116.88 131.76 Tm
+(command) Tj
+1 0 0 1 162.72 131.76 Tm
+(such) Tj
+1 0 0 1 185.52 131.76 Tm
+(as) Tj
+/R52 11 Tf
+1 0 0 1 110.16 107.04 Tm
+(gmake) Tj
+1 0 0 1 149.76 107.04 Tm
+(DEBUG=-g) Tj
+1 0 0 1 208.8 107.04 Tm
+(...) Tj
+ET
+Q
+endstream
+endobj
+69 0 obj
+8323
+endobj
+46 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /ImageB /Text]
+/Font <<
+/R55 55 0 R
+/R52 52 0 R
+/R49 49 0 R
+>>
+/XObject <<
+/R66 66 0 R
+/R62 62 0 R
+/R58 58 0 R
+>>
+>>
+/Contents [
+47 0 R
+50 0 R
+53 0 R
+56 0 R
+60 0 R
+64 0 R
+68 0 R
+]
+>>
+endobj
+71 0 obj
+<< /Length 72 0 R >>
+stream
+q
+endstream
+endobj
+72 0 obj
+2
+endobj
+73 0 obj
+<< /Type /Font /Name /R73 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+74 0 obj
+<< /Length 75 0 R >>
+stream
+BT
+/R73 11 Tf
+1 0 0.167 1 90 708 Tm
+(Basic) Tj
+1 0 0.167 1 117.12 708 Tm
+(Compilation) Tj
+1 0 0.167 1 174.48 708 Tm
+(Control) Tj
+1 0 0.167 1 210.72 708 Tm
+(with) Tj
+ET
+endstream
+endobj
+75 0 obj
+168
+endobj
+76 0 obj
+<< /Type /Font /Name /R76 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+77 0 obj
+<< /Length 78 0 R >>
+stream
+BT
+/R76 11 Tf
+1 0 0 1 233.04 708 Tm
+(Gmake) Tj
+/R73 11 Tf
+1 0 0 1 520.08 708 Tm
+(43) Tj
+1 0 0 1 90 672.24 Tm
+(will) Tj
+1 0 0 1 109.2 672.24 Tm
+(cause) Tj
+1 0 0 1 135.84 672.24 Tm
+(the) Tj
+1 0 0 1 151.44 672.24 Tm
+(compilations) Tj
+1 0 0 1 210.24 672.24 Tm
+(to) Tj
+1 0 0 1 221.04 672.24 Tm
+(use) Tj
+1 0 0 1 237.84 672.24 Tm
+(the) Tj
+/R76 11 Tf
+1 0 0 1 253.44 672.24 Tm
+(-g) Tj
+/R73 11 Tf
+1 0 0 1 268.8 672.24 Tm
+(\(add) Tj
+1 0 0 1 290.4 672.24 Tm
+(symbolic) Tj
+1 0 0 1 332.88 672.24 Tm
+(deb) Tj
+1 0 0 1 348.48 672.24 Tm
+(ugging) Tj
+1 0 0 1 381.119 672.24 Tm
+(information\)) Tj
+1 0 0 1 438.719 672.24 Tm
+(switch,) Tj
+1 0 0 1 472.319 672.24 Tm
+(while) Tj
+1 0 0 1 498.959 672.24 Tm
+(lea) Tj
+1 0 0 1 511.439 672.24 Tm
+(ving) Tj
+1 0 0 1 90 658.56 Tm
+(of) Tj
+1 0 0 1 98.88 658.56 Tm
+(f) Tj
+1 0 0 1 105.84 658.56 Tm
+(the) Tj
+/R76 11 Tf
+1 0 0 1 122.64 658.56 Tm
+(DEBUG=-g) Tj
+/R73 11 Tf
+1 0 0 1 178.8 658.56 Tm
+(will) Tj
+1 0 0 1 199.2 658.56 Tm
+(not) Tj
+1 0 0 1 216.72 658.56 Tm
+(use) Tj
+1 0 0 1 234.72 658.56 Tm
+(the) Tj
+/R76 11 Tf
+1 0 0 1 251.52 658.56 Tm
+(-g) Tj
+/R73 11 Tf
+1 0 0 1 268.079 658.56 Tm
+(switch.) Tj
+1 0 0 1 305.519 658.56 Tm
+(V) Tj
+1 0 0 1 312.239 658.56 Tm
+(ariable) Tj
+1 0 0 1 345.359 658.56 Tm
+(de\256nitions) Tj
+1 0 0 1 395.279 658.56 Tm
+(in) Tj
+1 0 0 1 407.039 658.56 Tm
+(the) Tj
+1 0 0 1 423.839 658.56 Tm
+(command) Tj
+1 0 0 1 470.639 658.56 Tm
+(lines) Tj
+1 0 0 1 494.639 658.56 Tm
+(o) Tj
+1 0 0 1 499.919 658.56 Tm
+(v) Tj
+1 0 0 1 505.199 658.56 Tm
+(erride) Tj
+1 0 0 1 90 645.12 Tm
+(those) Tj
+1 0 0 1 115.92 645.12 Tm
+(in) Tj
+1 0 0 1 126.96 645.12 Tm
+(the) Tj
+1 0 0 1 143.28 645.12 Tm
+(make\256le,) Tj
+1 0 0 1 186.24 645.12 Tm
+(which) Tj
+1 0 0 1 215.76 645.12 Tm
+(allo) Tj
+1 0 0 1 232.08 645.12 Tm
+(ws) Tj
+1 0 0 1 246.96 645.12 Tm
+(the) Tj
+1 0 0 1 263.04 645.12 Tm
+(make\256le) Tj
+1 0 0 1 303.36 645.12 Tm
+(to) Tj
+1 0 0 1 314.64 645.12 Tm
+(supply) Tj
+1 0 0 1 346.56 645.12 Tm
+(defaults.) Tj
+1 0 0 1 106.8 631.44 Tm
+(V) Tj
+1 0 0 1 113.52 631.44 Tm
+(ariables) Tj
+1 0 0 1 150.96 631.44 Tm
+(not) Tj
+1 0 0 1 168.48 631.44 Tm
+(set) Tj
+1 0 0 1 183.84 631.44 Tm
+(by) Tj
+1 0 0 1 198.24 631.44 Tm
+(either) Tj
+1 0 0 1 226.56 631.44 Tm
+(of) Tj
+1 0 0 1 239.04 631.44 Tm
+(these) Tj
+1 0 0 1 264.96 631.44 Tm
+(methods) Tj
+1 0 0 1 305.52 631.44 Tm
+(may) Tj
+1 0 0 1 327.6 631.44 Tm
+(be) Tj
+1 0 0 1 341.28 631.44 Tm
+(set) Tj
+1 0 0 1 356.88 631.44 Tm
+(as) Tj
+1 0 0 1 369.359 631.44 Tm
+(UNIX) Tj
+1 0 0 1 400.079 631.44 Tm
+(en) Tj
+1 0 0 1 409.919 631.44 Tm
+(vironment) Tj
+1 0 0 1 458.399 631.44 Tm
+(v) Tj
+1 0 0 1 463.679 631.44 Tm
+(ariables.) Tj
+1 0 0 1 506.159 631.44 Tm
+(Thus,) Tj
+1 0 0 1 90 617.76 Tm
+(the) Tj
+1 0 0 1 106.08 617.76 Tm
+(sequence) Tj
+1 0 0 1 149.04 617.76 Tm
+(of) Tj
+1 0 0 1 160.8 617.76 Tm
+(commands) Tj
+/R76 11 Tf
+1 0 0 1 116.16 594.72 Tm
+(setenv) Tj
+1 0 0 1 162.24 594.72 Tm
+(DEBUG) Tj
+1 0 0 1 201.6 594.72 Tm
+(-g) Tj
+1 0 0 1 116.16 581.28 Tm
+(gmake) Tj
+1 0 0 1 155.76 581.28 Tm
+(...) Tj
+/R73 11 Tf
+1 0 0 1 90 558.24 Tm
+(for) Tj
+1 0 0 1 105.36 558.24 Tm
+(this) Tj
+1 0 0 1 124.08 558.24 Tm
+(last) Tj
+1 0 0 1 142.08 558.24 Tm
+(e) Tj
+1 0 0 1 146.64 558.24 Tm
+(xample) Tj
+1 0 0 1 181.68 558.24 Tm
+(will) Tj
+1 0 0 1 201.6 558.24 Tm
+(also) Tj
+1 0 0 1 221.76 558.24 Tm
+(use) Tj
+1 0 0 1 239.28 558.24 Tm
+(the) Tj
+/R76 11 Tf
+1 0 0 1 255.36 558.24 Tm
+(-g) Tj
+/R73 11 Tf
+1 0 0 1 271.2 558.24 Tm
+(switch) Tj
+1 0 0 1 302.64 558.24 Tm
+(during) Tj
+1 0 0 1 333.839 558.24 Tm
+(compilations.) Tj
+ET
+endstream
+endobj
+78 0 obj
+3392
+endobj
+79 0 obj
+<< /Type /Font /Name /R79 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+80 0 obj
+<< /Length 81 0 R >>
+stream
+BT
+/R79 12 Tf
+1 0 0 1 90 527.76 Tm
+(3) Tj
+1 0 0 1 107.76 527.76 Tm
+(Implicit) Tj
+1 0 0 1 151.44 527.76 Tm
+(rules) Tj
+/R73 11 Tf
+1 0 0 1 90 506.64 Tm
+(In) Tj
+1 0 0 1 101.28 506.64 Tm
+(the) Tj
+1 0 0 1 116.64 506.64 Tm
+(e) Tj
+1 0 0 1 121.2 506.64 Tm
+(xample) Tj
+1 0 0 1 155.76 506.64 Tm
+(from) Tj
+ET
+endstream
+endobj
+81 0 obj
+297
+endobj
+82 0 obj
+<< /Type /XObject /Name /R82 /Subtype /Image /Length 83 0 R
+/ImageMask true /Width 32 /Height 99 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 32 /BlackIs1 true >>]
+>>
+stream
+'‡ÅÊßÇ·a‡ø‡√ˇ¬¸¯/˛ÇŒ°2drs6_ÇÖáÇˇ
+˛‡øˇˇˇ˛ˇ·¡¸Xx/…Á¬dÜpÅx_ºˇ˘™ˇ?ˇá¸`ˇ‡∞øA~á?‡  
+endstream
+endobj
+83 0 obj
+112
+endobj
+84 0 obj
+<< /Length 85 0 R >>
+stream
+q
+3.2 0 0 -9.9 180 514.3 cm
+/R82 Do
+Q
+BT
+1 0 0 1 184.08 506.64 Tm
+(1,) Tj
+1 0 0 1 194.64 506.64 Tm
+(all) Tj
+1 0 0 1 207.84 506.64 Tm
+(of) Tj
+1 0 0 1 219.12 506.64 Tm
+(the) Tj
+1 0 0 1 234.48 506.64 Tm
+(compilations) Tj
+1 0 0 1 293.279 506.64 Tm
+(that) Tj
+1 0 0 1 311.999 506.64 Tm
+(produced) Tj
+/R76 11 Tf
+1 0 0 1 354.719 506.64 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 370.079 506.64 Tm
+(\256les) Tj
+1 0 0 1 390.479 506.64 Tm
+(ha) Tj
+1 0 0 1 400.559 506.64 Tm
+(v) Tj
+1 0 0 1 405.839 506.64 Tm
+(e) Tj
+1 0 0 1 413.039 506.64 Tm
+(the) Tj
+1 0 0 1 428.399 506.64 Tm
+(same) Tj
+1 0 0 1 453.119 506.64 Tm
+(form.) Tj
+1 0 0 1 480.959 506.64 Tm
+(It) Tj
+1 0 0 1 489.839 506.64 Tm
+(is) Tj
+1 0 0 1 499.199 506.64 Tm
+(tedious) Tj
+1 0 0 1 90 492.96 Tm
+(to) Tj
+1 0 0 1 101.52 492.96 Tm
+(ha) Tj
+1 0 0 1 111.6 492.96 Tm
+(v) Tj
+1 0 0 1 116.88 492.96 Tm
+(e) Tj
+1 0 0 1 125.04 492.96 Tm
+(to) Tj
+1 0 0 1 136.56 492.96 Tm
+(duplicate) Tj
+1 0 0 1 179.76 492.96 Tm
+(them;) Tj
+1 0 0 1 208.08 492.96 Tm
+(it) Tj
+1 0 0 1 217.2 492.96 Tm
+(merely) Tj
+1 0 0 1 250.8 492.96 Tm
+(gi) Tj
+1 0 0 1 259.2 492.96 Tm
+(v) Tj
+1 0 0 1 264.48 492.96 Tm
+(es) Tj
+1 0 0 1 276.72 492.96 Tm
+(you) Tj
+1 0 0 1 296.16 492.96 Tm
+(the) Tj
+1 0 0 1 312.72 492.96 Tm
+(opportunity) Tj
+1 0 0 1 366.959 492.96 Tm
+(to) Tj
+1 0 0 1 378.479 492.96 Tm
+(type) Tj
+1 0 0 1 400.559 492.96 Tm
+(something) Tj
+1 0 0 1 449.279 492.96 Tm
+(wrong.) Tj
+1 0 0 1 485.039 492.96 Tm
+(Therefore,) Tj
+/R76 11 Tf
+1 0 0 1 90 479.52 Tm
+(gmake) Tj
+/R73 11 Tf
+1 0 0 1 125.76 479.52 Tm
+(can) Tj
+1 0 0 1 144 479.52 Tm
+(be) Tj
+1 0 0 1 157.2 479.52 Tm
+(told) Tj
+1 0 0 1 177.36 479.52 Tm
+(about\320and) Tj
+1 0 0 1 231.36 479.52 Tm
+(for) Tj
+1 0 0 1 247.2 479.52 Tm
+(some) Tj
+1 0 0 1 273.36 479.52 Tm
+(standard) Tj
+1 0 0 1 313.44 479.52 Tm
+(cases,) Tj
+1 0 0 1 342.24 479.52 Tm
+(already) Tj
+1 0 0 1 377.519 479.52 Tm
+(kno) Tj
+1 0 0 1 393.839 479.52 Tm
+(ws) Tj
+1 0 0 1 408.959 479.52 Tm
+(about\320the) Tj
+1 0 0 1 460.559 479.52 Tm
+(default) Tj
+1 0 0 1 493.919 479.52 Tm
+(\256les) Tj
+1 0 0 1 515.039 479.52 Tm
+(and) Tj
+1 0 0 1 90 465.84 Tm
+(actions) Tj
+1 0 0 1 124.32 465.84 Tm
+(needed) Tj
+1 0 0 1 158.88 465.84 Tm
+(to) Tj
+1 0 0 1 170.64 465.84 Tm
+(produce) Tj
+1 0 0 1 209.52 465.84 Tm
+(\256les) Tj
+1 0 0 1 231.12 465.84 Tm
+(ha) Tj
+1 0 0 1 241.2 465.84 Tm
+(ving) Tj
+1 0 0 1 264.24 465.84 Tm
+(v) Tj
+1 0 0 1 269.52 465.84 Tm
+(arious) Tj
+1 0 0 1 299.52 465.84 Tm
+(e) Tj
+1 0 0 1 304.079 465.84 Tm
+(xtensions.) Tj
+1 0 0 1 354.239 465.84 Tm
+(F) Tj
+1 0 0 1 359.999 465.84 Tm
+(or) Tj
+1 0 0 1 372.719 465.84 Tm
+(our) Tj
+1 0 0 1 390.719 465.84 Tm
+(purposes,) Tj
+1 0 0 1 436.079 465.84 Tm
+(the) Tj
+1 0 0 1 452.879 465.84 Tm
+(most) Tj
+1 0 0 1 477.599 465.84 Tm
+(important) Tj
+1 0 0 1 523.679 465.84 Tm
+(is) Tj
+1 0 0 1 90 452.4 Tm
+(that) Tj
+1 0 0 1 109.2 452.4 Tm
+(it) Tj
+1 0 0 1 118.08 452.4 Tm
+(kno) Tj
+1 0 0 1 134.4 452.4 Tm
+(ws) Tj
+1 0 0 1 149.28 452.4 Tm
+(ho) Tj
+1 0 0 1 160.08 452.4 Tm
+(w) Tj
+1 0 0 1 170.88 452.4 Tm
+(to) Tj
+1 0 0 1 182.16 452.4 Tm
+(produce) Tj
+1 0 0 1 220.32 452.4 Tm
+(a) Tj
+1 0 0 1 228 452.4 Tm
+(\256le) Tj
+ET
+endstream
+endobj
+85 0 obj
+3010
+endobj
+86 0 obj
+<< /Type /XObject /Name /R86 /Subtype /Image /Length 87 0 R
+/ImageMask true /Width 78 /Height 74 /BitsPerComponent 1 /Decode [1 0] /Filter [/CCITTFaxDecode] /DecodeParms [<< /K -1 /Columns 78 /BlackIs1 true >>]
+>>
+stream
+#ÜóìÇˇˇˇÜˇˇˇÉKﬂˇˇˇˇ¯p·ˇ„˘3ˇˇÜ3Éˇˇˇˇ•¸ˇˇˇˇ˛¯/ˇˇÚˇî‡YÄ Ä
+endstream
+endobj
+87 0 obj
+72
+endobj
+88 0 obj
+<< /Length 89 0 R >>
+stream
+q
+7.8 0 0 -7.4 245.2 459.8 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 253.2 452.4 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 269.52 452.4 Tm
+(gi) Tj
+1 0 0 1 277.92 452.4 Tm
+(v) Tj
+1 0 0 1 283.2 452.4 Tm
+(en) Tj
+1 0 0 1 296.16 452.4 Tm
+(a) Tj
+1 0 0 1 303.839 452.4 Tm
+(\256le) Tj
+1 0 0 1 320.639 452.4 Tm
+(of) Tj
+1 0 0 1 332.639 452.4 Tm
+(the) Tj
+1 0 0 1 348.959 452.4 Tm
+(form) Tj
+ET
+q
+7.8 0 0 -7.4 373.6 459.8 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 381.599 452.4 Tm
+(.cc) Tj
+/R73 11 Tf
+1 0 0 1 401.039 452.4 Tm
+(,) Tj
+1 0 0 1 407.039 452.4 Tm
+(and) Tj
+1 0 0 1 425.759 452.4 Tm
+(kno) Tj
+1 0 0 1 442.079 452.4 Tm
+(ws) Tj
+1 0 0 1 456.959 452.4 Tm
+(that) Tj
+1 0 0 1 476.159 452.4 Tm
+(the) Tj
+ET
+q
+7.8 0 0 -7.4 492.9 459.8 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 500.879 452.4 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 516.959 452.4 Tm
+(\256le) Tj
+1 0 0 1 90 438.72 Tm
+(depends) Tj
+1 0 0 1 128.64 438.72 Tm
+(on) Tj
+1 0 0 1 142.32 438.72 Tm
+(the) Tj
+1 0 0 1 158.4 438.72 Tm
+(\256le) Tj
+ET
+q
+7.8 0 0 -7.4 175.6 446.1 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 183.6 438.72 Tm
+(.cc) Tj
+/R73 11 Tf
+1 0 0 1 203.04 438.72 Tm
+(.) Tj
+1 0 0 1 210 438.72 Tm
+(Speci\256cally) Tj
+1 0 0 1 260.88 438.72 Tm
+(,) Tj
+/R76 11 Tf
+1 0 0 1 266.64 438.72 Tm
+(gmake) Tj
+/R73 11 Tf
+1 0 0 1 302.159 438.72 Tm
+(automatically) Tj
+1 0 0 1 364.559 438.72 Tm
+(introduces) Tj
+1 0 0 1 413.039 438.72 Tm
+(\(in) Tj
+1 0 0 1 427.919 438.72 Tm
+(ef) Tj
+1 0 0 1 436.079 438.72 Tm
+(fect\)) Tj
+1 0 0 1 459.119 438.72 Tm
+(the) Tj
+1 0 0 1 475.199 438.72 Tm
+(rule) Tj
+ET
+q
+7.8 0 0 -7.4 112.2 423.3 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 120.24 415.92 Tm
+(.o) Tj
+1 0 0 1 140.16 415.92 Tm
+(:) Tj
+ET
+q
+7.8 0 0 -7.4 153.8 423.3 cm
+/R86 Do
+Q
+BT
+1 0 0 1 161.76 415.92 Tm
+(.cc) Tj
+1 0 0 1 164.4 402.24 Tm
+($\(CXX\)) Tj
+1 0 0 1 210.48 402.24 Tm
+(-c) Tj
+1 0 0 1 230.16 402.24 Tm
+(-Wall) Tj
+1 0 0 1 269.76 402.24 Tm
+($\(CXXFLAGS) Tj
+1 0 0 1 334.799 402.24 Tm
+(\)) Tj
+ET
+q
+7.8 0 0 -7.4 348.9 409.6 cm
+/R86 Do
+Q
+BT
+1 0 0 1 356.879 402.24 Tm
+(.cc) Tj
+/R73 11 Tf
+1 0 0 1 90 379.44 Tm
+(when) Tj
+1 0 0 1 116.4 379.44 Tm
+(called) Tj
+1 0 0 1 145.2 379.44 Tm
+(upon) Tj
+1 0 0 1 169.68 379.44 Tm
+(to) Tj
+1 0 0 1 180.72 379.44 Tm
+(produce) Tj
+ET
+q
+7.8 0 0 -7.4 219 386.8 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 227.04 379.44 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 242.88 379.44 Tm
+(when) Tj
+1 0 0 1 269.28 379.44 Tm
+(there) Tj
+1 0 0 1 293.76 379.44 Tm
+(is) Tj
+1 0 0 1 303.84 379.44 Tm
+(a) Tj
+1 0 0 1 311.279 379.44 Tm
+(C++) Tj
+1 0 0 1 333.599 379.44 Tm
+(\256le) Tj
+ET
+q
+7.8 0 0 -7.4 350.6 386.8 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 358.559 379.44 Tm
+(.cc) Tj
+/R73 11 Tf
+1 0 0 1 381.119 379.44 Tm
+(present,) Tj
+1 0 0 1 418.079 379.44 Tm
+(b) Tj
+1 0 0 1 423.359 379.44 Tm
+(ut) Tj
+1 0 0 1 434.639 379.44 Tm
+(no) Tj
+1 0 0 1 448.079 379.44 Tm
+(e) Tj
+1 0 0 1 452.639 379.44 Tm
+(xplicitly) Tj
+1 0 0 1 491.999 379.44 Tm
+(speci\256ed) Tj
+1 0 0 1 90 365.76 Tm
+(actions) Tj
+1 0 0 1 124.08 365.76 Tm
+(e) Tj
+1 0 0 1 128.64 365.76 Tm
+(xist) Tj
+1 0 0 1 147.6 365.76 Tm
+(for) Tj
+1 0 0 1 163.44 365.76 Tm
+(producing) Tj
+ET
+q
+7.8 0 0 -7.4 211.1 373.2 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 219.12 365.76 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 232.08 365.76 Tm
+(.) Tj
+1 0 0 1 240 365.76 Tm
+(The) Tj
+1 0 0 1 259.92 365.76 Tm
+(use) Tj
+1 0 0 1 277.68 365.76 Tm
+(of) Tj
+1 0 0 1 289.68 365.76 Tm
+(the) Tj
+1 0 0 1 306.239 365.76 Tm
+(pre\256x) Tj
+1 0 0 1 334.799 365.76 Tm
+(\252CXX\272) Tj
+1 0 0 1 370.559 365.76 Tm
+(is) Tj
+1 0 0 1 380.879 365.76 Tm
+(a) Tj
+1 0 0 1 388.799 365.76 Tm
+(naming) Tj
+1 0 0 1 424.799 365.76 Tm
+(con) Tj
+1 0 0 1 440.159 365.76 Tm
+(v) Tj
+1 0 0 1 445.439 365.76 Tm
+(ention) Tj
+1 0 0 1 475.919 365.76 Tm
+(for) Tj
+1 0 0 1 491.759 365.76 Tm
+(v) Tj
+1 0 0 1 497.039 365.76 Tm
+(ariables) Tj
+1 0 0 1 90 352.32 Tm
+(that) Tj
+1 0 0 1 109.2 352.32 Tm
+(ha) Tj
+1 0 0 1 119.28 352.32 Tm
+(v) Tj
+1 0 0 1 124.56 352.32 Tm
+(e) Tj
+1 0 0 1 132.24 352.32 Tm
+(to) Tj
+1 0 0 1 143.52 352.32 Tm
+(do) Tj
+1 0 0 1 157.2 352.32 Tm
+(with) Tj
+1 0 0 1 179.28 352.32 Tm
+(C++.) Tj
+1 0 0 1 205.68 352.32 Tm
+(It) Tj
+1 0 0 1 215.04 352.32 Tm
+(also) Tj
+1 0 0 1 235.44 352.32 Tm
+(creates) Tj
+1 0 0 1 268.8 352.32 Tm
+(the) Tj
+1 0 0 1 284.88 352.32 Tm
+(command) Tj
+ET
+q
+7.8 0 0 -7.4 112.2 336.7 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 126.96 329.28 Tm
+(:) Tj
+ET
+q
+7.8 0 0 -7.4 140.6 336.7 cm
+/R86 Do
+Q
+BT
+1 0 0 1 148.56 329.28 Tm
+(.o) Tj
+1 0 0 1 164.4 315.84 Tm
+($\(CXX\)) Tj
+1 0 0 1 210.48 315.84 Tm
+($\(LDFLAGS) Tj
+1 0 0 1 269.04 315.84 Tm
+(\)) Tj
+ET
+q
+7.8 0 0 -7.4 283.1 323.2 cm
+/R86 Do
+Q
+BT
+1 0 0 1 291.12 315.84 Tm
+(.o) Tj
+1 0 0 1 311.039 315.84 Tm
+($\(LOADLIB) Tj
+1 0 0 1 369.599 315.84 Tm
+(ES\)) Tj
+1 0 0 1 396.479 315.84 Tm
+(-o) Tj
+ET
+q
+7.8 0 0 -7.4 416.6 323.2 cm
+/R86 Do
+Q
+BT
+/R73 11 Tf
+1 0 0 1 90 292.8 Tm
+(to) Tj
+1 0 0 1 101.28 292.8 Tm
+(tell) Tj
+1 0 0 1 117.84 292.8 Tm
+(ho) Tj
+1 0 0 1 128.64 292.8 Tm
+(w) Tj
+1 0 0 1 139.2 292.8 Tm
+(to) Tj
+1 0 0 1 150.48 292.8 Tm
+(create) Tj
+1 0 0 1 179.52 292.8 Tm
+(an) Tj
+1 0 0 1 192.48 292.8 Tm
+(e) Tj
+1 0 0 1 197.04 292.8 Tm
+(x) Tj
+1 0 0 1 202.32 292.8 Tm
+(ecutable) Tj
+1 0 0 1 241.92 292.8 Tm
+(\256le) Tj
+1 0 0 1 258.48 292.8 Tm
+(named) Tj
+ET
+q
+7.8 0 0 -7.4 290.8 300.2 cm
+/R86 Do
+Q
+BT
+1 0 0 1 301.68 292.8 Tm
+(from) Tj
+ET
+q
+7.8 0 0 -7.4 326.3 300.2 cm
+/R86 Do
+Q
+BT
+/R76 11 Tf
+1 0 0 1 334.319 292.8 Tm
+(.o) Tj
+/R73 11 Tf
+1 0 0 1 347.279 292.8 Tm
+(.) Tj
+1 0 0 1 106.8 279.12 Tm
+(As) Tj
+1 0 0 1 121.68 279.12 Tm
+(a) Tj
+1 0 0 1 129.36 279.12 Tm
+(result,) Tj
+1 0 0 1 159.12 279.12 Tm
+(we) Tj
+1 0 0 1 174.72 279.12 Tm
+(may) Tj
+1 0 0 1 196.32 279.12 Tm
+(abbre) Tj
+1 0 0 1 220.32 279.12 Tm
+(viate) Tj
+1 0 0 1 244.56 279.12 Tm
+(the) Tj
+1 0 0 1 260.64 279.12 Tm
+(e) Tj
+1 0 0 1 265.2 279.12 Tm
+(xample) Tj
+1 0 0 1 300.24 279.12 Tm
+(as) Tj
+1 0 0 1 312.24 279.12 Tm
+(follo) Tj
+1 0 0 1 332.88 279.12 Tm
+(ws.) Tj
+/R76 11 Tf
+1 0 0 1 116.16 256.08 Tm
+(#) Tj
+1 0 0 1 129.36 256.08 Tm
+(Makefile) Tj
+1 0 0 1 188.64 256.08 Tm
+(for) Tj
+1 0 0 1 214.8 256.08 Tm
+(simple) Tj
+1 0 0 1 260.88 256.08 Tm
+(editor) Tj
+1 0 0 1 116.16 229.2 Tm
+(SRCS) Tj
+1 0 0 1 149.04 229.2 Tm
+(=) Tj
+1 0 0 1 162.24 229.2 Tm
+(edit.cc) Tj
+1 0 0 1 214.8 229.2 Tm
+(kbd.cc) Tj
+1 0 0 1 260.88 229.2 Tm
+(commands.) Tj
+1 0 0 1 319.439 229.2 Tm
+(cc) Tj
+1 0 0 1 339.839 229.2 Tm
+(display.cc) Tj
+1 0 0 1 412.079 229.2 Tm
+(\\) Tj
+1 0 0 1 162.24 215.52 Tm
+(insert.cc) Tj
+1 0 0 1 228 215.52 Tm
+(search.cc) Tj
+1 0 0 1 293.76 215.52 Tm
+(files.cc) Tj
+1 0 0 1 353.039 215.52 Tm
+(utils.cc) Tj
+1 0 0 1 116.16 188.4 Tm
+(OBJS) Tj
+1 0 0 1 149.04 188.4 Tm
+(=) Tj
+1 0 0 1 162.24 188.4 Tm
+($\(SRCS:.c) Tj
+1 0 0 1 220.8 188.4 Tm
+(c=.) Tj
+1 0 0 1 240.48 188.4 Tm
+(o\)) Tj
+1 0 0 1 116.16 161.28 Tm
+(CC) Tj
+1 0 0 1 136.08 161.28 Tm
+(=) Tj
+1 0 0 1 149.04 161.28 Tm
+(gcc) Tj
+1 0 0 1 116.16 134.16 Tm
+(CXX) Tj
+1 0 0 1 142.56 134.16 Tm
+(=) Tj
+1 0 0 1 155.76 134.16 Tm
+(g++) Tj
+1 0 0 1 116.16 107.04 Tm
+(CXXFLAGS) Tj
+1 0 0 1 175.44 107.04 Tm
+(=) Tj
+1 0 0 1 188.64 107.04 Tm
+(-g) Tj
+ET
+Q
+endstream
+endobj
+89 0 obj
+6756
+endobj
+70 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /ImageB /Text]
+/Font <<
+/R79 79 0 R
+/R76 76 0 R
+/R73 73 0 R
+>>
+/XObject <<
+/R86 86 0 R
+/R82 82 0 R
+>>
+>>
+/Contents [
+71 0 R
+74 0 R
+77 0 R
+80 0 R
+84 0 R
+88 0 R
+]
+>>
+endobj
+91 0 obj
+<< /Length 92 0 R >>
+stream
+q
+endstream
+endobj
+92 0 obj
+2
+endobj
+93 0 obj
+<< /Type /Font /Name /R93 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+94 0 obj
+<< /Length 95 0 R >>
+stream
+BT
+/R93 11 Tf
+1 0 0 1 84 708 Tm
+(44) Tj
+1 0 0.167 1 461.52 708 Tm
+(P) Tj
+1 0 0.167 1 466.32 708 Tm
+(.) Tj
+1 0 0.167 1 472.08 708 Tm
+(N.) Tj
+1 0 0.167 1 485.28 708 Tm
+(Hil\256nger) Tj
+ET
+endstream
+endobj
+95 0 obj
+186
+endobj
+96 0 obj
+<< /Type /Font /Name /R96 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+97 0 obj
+<< /Length 98 0 R >>
+stream
+BT
+/R96 11 Tf
+1 0 0 1 110.16 658.56 Tm
+(LOADLIBE) Tj
+1 0 0 1 162.24 658.56 Tm
+(S) Tj
+1 0 0 1 175.92 658.56 Tm
+(=) Tj
+1 0 0 1 189.12 658.56 Tm
+(-lm) Tj
+1 0 0 1 110.16 631.44 Tm
+(edit) Tj
+1 0 0 1 143.04 631.44 Tm
+(:) Tj
+1 0 0 1 156.24 631.44 Tm
+($\(OBJS\)) Tj
+1 0 0 1 110.16 618 Tm
+(edit.o) Tj
+1 0 0 1 156.24 618 Tm
+(:) Tj
+1 0 0 1 169.44 618 Tm
+(defs.h) Tj
+1 0 0 1 110.16 604.32 Tm
+(kbd.o) Tj
+1 0 0 1 149.76 604.32 Tm
+(:) Tj
+1 0 0 1 162.96 604.32 Tm
+(defs.h) Tj
+1 0 0 1 208.8 604.32 Tm
+(command.) Tj
+1 0 0 1 260.879 604.32 Tm
+(h) Tj
+1 0 0 1 110.16 590.88 Tm
+(commands) Tj
+1 0 0 1 162.24 590.88 Tm
+(.o) Tj
+1 0 0 1 182.64 590.88 Tm
+(:) Tj
+1 0 0 1 195.84 590.88 Tm
+(defs.h) Tj
+1 0 0 1 241.68 590.88 Tm
+(command.) Tj
+1 0 0 1 293.759 590.88 Tm
+(h) Tj
+1 0 0 1 110.16 577.44 Tm
+(display.) Tj
+1 0 0 1 162.24 577.44 Tm
+(o) Tj
+1 0 0 1 175.92 577.44 Tm
+(:) Tj
+1 0 0 1 189.12 577.44 Tm
+(defs.h) Tj
+1 0 0 1 235.2 577.44 Tm
+(buffer.h) Tj
+1 0 0 1 110.16 563.76 Tm
+(insert.o) Tj
+1 0 0 1 169.44 563.76 Tm
+(:) Tj
+1 0 0 1 182.64 563.76 Tm
+(defs.h) Tj
+1 0 0 1 228.72 563.76 Tm
+(buffer.h) Tj
+1 0 0 1 110.16 550.32 Tm
+(search.o) Tj
+1 0 0 1 169.44 550.32 Tm
+(:) Tj
+1 0 0 1 182.64 550.32 Tm
+(defs.h) Tj
+1 0 0 1 228.72 550.32 Tm
+(buffer.h) Tj
+1 0 0 1 110.16 536.64 Tm
+(files.o) Tj
+1 0 0 1 162.96 536.64 Tm
+(:) Tj
+1 0 0 1 175.92 536.64 Tm
+(defs.h) Tj
+1 0 0 1 222 536.64 Tm
+(buffer.h) Tj
+1 0 0 1 281.279 536.64 Tm
+(command.h) Tj
+1 0 0 1 110.16 523.2 Tm
+(utils.o) Tj
+1 0 0 1 162.96 523.2 Tm
+(:) Tj
+1 0 0 1 175.92 523.2 Tm
+(defs.h) Tj
+/R93 11 Tf
+1 0 0 1 84 499.2 Tm
+(There) Tj
+1 0 0 1 112.56 499.2 Tm
+(are) Tj
+1 0 0 1 129.12 499.2 Tm
+(quite) Tj
+1 0 0 1 154.32 499.2 Tm
+(a) Tj
+1 0 0 1 162.24 499.2 Tm
+(fe) Tj
+1 0 0 1 170.4 499.2 Tm
+(w) Tj
+1 0 0 1 181.44 499.2 Tm
+(other) Tj
+1 0 0 1 207.12 499.2 Tm
+(such) Tj
+1 0 0 1 230.4 499.2 Tm
+(implicit) Tj
+1 0 0 1 267.6 499.2 Tm
+(rules) Tj
+1 0 0 1 292.08 499.2 Tm
+(b) Tj
+1 0 0 1 297.36 499.2 Tm
+(uilt) Tj
+1 0 0 1 315.12 499.2 Tm
+(into) Tj
+/R96 11 Tf
+1 0 0 1 335.28 499.2 Tm
+(gmake) Tj
+/R93 11 Tf
+1 0 0 1 367.679 499.2 Tm
+(.) Tj
+1 0 0 1 376.079 499.2 Tm
+(The) Tj
+/R96 11 Tf
+1 0 0 1 396.239 499.2 Tm
+(-p) Tj
+/R93 11 Tf
+1 0 0 1 412.559 499.2 Tm
+(switch) Tj
+1 0 0 1 444.479 499.2 Tm
+(will) Tj
+1 0 0 1 464.639 499.2 Tm
+(cause) Tj
+/R96 11 Tf
+1 0 0 1 491.999 499.2 Tm
+(gmake) Tj
+/R93 11 Tf
+1 0 0 1 84 485.52 Tm
+(to) Tj
+1 0 0 1 95.7599 485.52 Tm
+(list) Tj
+1 0 0 1 112.32 485.52 Tm
+(them) Tj
+1 0 0 1 137.28 485.52 Tm
+(some) Tj
+1 0 0 1 160.32 485.52 Tm
+(what) Tj
+1 0 0 1 184.56 485.52 Tm
+(cryptically) Tj
+1 0 0 1 230.88 485.52 Tm
+(,) Tj
+1 0 0 1 236.88 485.52 Tm
+(if) Tj
+1 0 0 1 246.72 485.52 Tm
+(you) Tj
+1 0 0 1 266.4 485.52 Tm
+(are) Tj
+1 0 0 1 282.96 485.52 Tm
+(at) Tj
+1 0 0 1 294 485.52 Tm
+(all) Tj
+1 0 0 1 308.16 485.52 Tm
+(curious.) Tj
+1 0 0 1 348.479 485.52 Tm
+(W) Tj
+1 0 0 1 357.839 485.52 Tm
+(e) Tj
+1 0 0 1 365.759 485.52 Tm
+(are) Tj
+1 0 0 1 382.319 485.52 Tm
+(most) Tj
+1 0 0 1 406.799 485.52 Tm
+(likely) Tj
+1 0 0 1 434.879 485.52 Tm
+(to) Tj
+1 0 0 1 446.639 485.52 Tm
+(be) Tj
+1 0 0 1 460.079 485.52 Tm
+(using) Tj
+1 0 0 1 487.199 485.52 Tm
+(the) Tj
+1 0 0 1 503.759 485.52 Tm
+(rules) Tj
+1 0 0 1 84 472.08 Tm
+(for) Tj
+1 0 0 1 99.3599 472.08 Tm
+(creating) Tj
+/R96 11 Tf
+1 0 0 1 137.52 472.08 Tm
+(.o) Tj
+/R93 11 Tf
+1 0 0 1 153.36 472.08 Tm
+(\256les) Tj
+1 0 0 1 174.24 472.08 Tm
+(from) Tj
+/R96 11 Tf
+1 0 0 1 198.24 472.08 Tm
+(.cc) Tj
+/R93 11 Tf
+1 0 0 1 220.56 472.08 Tm
+(\(C++\)) Tj
+1 0 0 1 250.319 472.08 Tm
+(\256les.) Tj
+1 0 0 1 275.279 472.08 Tm
+(It) Tj
+1 0 0 1 284.639 472.08 Tm
+(is) Tj
+1 0 0 1 294.719 472.08 Tm
+(also) Tj
+1 0 0 1 315.119 472.08 Tm
+(possible) Tj
+1 0 0 1 353.759 472.08 Tm
+(to) Tj
+1 0 0 1 364.799 472.08 Tm
+(supply) Tj
+1 0 0 1 396.719 472.08 Tm
+(your) Tj
+1 0 0 1 419.519 472.08 Tm
+(o) Tj
+1 0 0 1 424.799 472.08 Tm
+(wn) Tj
+1 0 0 1 440.879 472.08 Tm
+(default) Tj
+1 0 0 1 473.999 472.08 Tm
+(rules) Tj
+1 0 0 1 497.999 472.08 Tm
+(and) Tj
+1 0 0 1 516.479 472.08 Tm
+(to) Tj
+1 0 0 1 84 458.4 Tm
+(suppress) Tj
+1 0 0 1 124.32 458.4 Tm
+(the) Tj
+1 0 0 1 140.4 458.4 Tm
+(standard) Tj
+1 0 0 1 180.24 458.4 Tm
+(rules;) Tj
+1 0 0 1 207.36 458.4 Tm
+(for) Tj
+1 0 0 1 222.72 458.4 Tm
+(details,) Tj
+1 0 0 1 256.8 458.4 Tm
+(see) Tj
+1 0 0 1 273.6 458.4 Tm
+(the) Tj
+1 0 0 1 289.68 458.4 Tm
+(full) Tj
+1 0 0 1 307.44 458.4 Tm
+(documentation,) Tj
+1 0 0 1 377.999 458.4 Tm
+(which) Tj
+1 0 0 1 407.519 458.4 Tm
+(is) Tj
+1 0 0 1 417.599 458.4 Tm
+(a) Tj
+1 0 0 1 422.159 458.4 Tm
+(v) Tj
+1 0 0 1 427.439 458.4 Tm
+(ailable) Tj
+1 0 0 1 459.359 458.4 Tm
+(on) Tj
+1 0 0 1 473.039 458.4 Tm
+(our) Tj
+1 0 0 1 490.319 458.4 Tm
+(systems) Tj
+1 0 0 1 84 444.96 Tm
+(through) Tj
+1 0 0 1 120.72 444.96 Tm
+(the) Tj
+/R96 11 Tf
+1 0 0 1 136.8 444.96 Tm
+(C-h) Tj
+1 0 0 1 163.2 444.96 Tm
+(i) Tj
+/R93 11 Tf
+1 0 0 1 172.56 444.96 Tm
+(command) Tj
+1 0 0 1 218.4 444.96 Tm
+(in) Tj
+1 0 0 1 229.68 444.96 Tm
+(Emacs.) Tj
+ET
+endstream
+endobj
+98 0 obj
+4778
+endobj
+99 0 obj
+<< /Type /Font /Name /R99 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+100 0 obj
+<< /Length 101 0 R >>
+stream
+BT
+/R99 12 Tf
+1 0 0 1 84 412.8 Tm
+(4) Tj
+1 0 0 1 102 412.8 Tm
+(Special) Tj
+1 0 0 1 141.36 412.8 Tm
+(actions) Tj
+/R93 11 Tf
+1 0 0 1 84 390.96 Tm
+(It) Tj
+1 0 0 1 93.8399 390.96 Tm
+(is) Tj
+1 0 0 1 104.16 390.96 Tm
+(often) Tj
+1 0 0 1 129.6 390.96 Tm
+(useful) Tj
+1 0 0 1 159.6 390.96 Tm
+(to) Tj
+1 0 0 1 171.12 390.96 Tm
+(ha) Tj
+1 0 0 1 181.2 390.96 Tm
+(v) Tj
+1 0 0 1 186.48 390.96 Tm
+(e) Tj
+1 0 0 1 194.64 390.96 Tm
+(tar) Tj
+1 0 0 1 205.92 390.96 Tm
+(gets) Tj
+1 0 0 1 226.56 390.96 Tm
+(for) Tj
+1 0 0 1 242.4 390.96 Tm
+(which) Tj
+1 0 0 1 272.399 390.96 Tm
+(there) Tj
+1 0 0 1 297.359 390.96 Tm
+(are) Tj
+1 0 0 1 313.679 390.96 Tm
+(ne) Tj
+1 0 0 1 323.759 390.96 Tm
+(v) Tj
+1 0 0 1 329.039 390.96 Tm
+(er) Tj
+1 0 0 1 340.799 390.96 Tm
+(an) Tj
+1 0 0 1 350.879 390.96 Tm
+(y) Tj
+1 0 0 1 359.519 390.96 Tm
+(corresponding) Tj
+1 0 0 1 425.279 390.96 Tm
+(\256les.) Tj
+1 0 0 1 451.199 390.96 Tm
+(If) Tj
+1 0 0 1 461.519 390.96 Tm
+(the) Tj
+1 0 0 1 478.079 390.96 Tm
+(actions) Tj
+1 0 0 1 512.159 390.96 Tm
+(for) Tj
+1 0 0 1 84 377.52 Tm
+(a) Tj
+1 0 0 1 91.6799 377.52 Tm
+(tar) Tj
+1 0 0 1 102.96 377.52 Tm
+(get) Tj
+1 0 0 1 119.04 377.52 Tm
+(do) Tj
+1 0 0 1 132.72 377.52 Tm
+(not) Tj
+1 0 0 1 149.52 377.52 Tm
+(create) Tj
+1 0 0 1 178.56 377.52 Tm
+(a) Tj
+1 0 0 1 186 377.52 Tm
+(\256le) Tj
+1 0 0 1 202.8 377.52 Tm
+(by) Tj
+1 0 0 1 216.48 377.52 Tm
+(that) Tj
+1 0 0 1 235.68 377.52 Tm
+(name,) Tj
+1 0 0 1 264.96 377.52 Tm
+(it) Tj
+1 0 0 1 273.84 377.52 Tm
+(follo) Tj
+1 0 0 1 294.479 377.52 Tm
+(ws) Tj
+1 0 0 1 309.119 377.52 Tm
+(from) Tj
+1 0 0 1 333.119 377.52 Tm
+(the) Tj
+1 0 0 1 349.439 377.52 Tm
+(de\256nition) Tj
+1 0 0 1 394.079 377.52 Tm
+(of) Tj
+1 0 0 1 406.079 377.52 Tm
+(ho) Tj
+1 0 0 1 416.879 377.52 Tm
+(w) Tj
+/R96 11 Tf
+1 0 0 1 427.439 377.52 Tm
+(gmake) Tj
+/R93 11 Tf
+1 0 0 1 462.959 377.52 Tm
+(works) Tj
+1 0 0 1 492.479 377.52 Tm
+(that) Tj
+1 0 0 1 511.679 377.52 Tm
+(the) Tj
+1 0 0 1 84 363.84 Tm
+(actions) Tj
+1 0 0 1 118.08 363.84 Tm
+(for) Tj
+1 0 0 1 133.92 363.84 Tm
+(that) Tj
+1 0 0 1 153.36 363.84 Tm
+(tar) Tj
+1 0 0 1 164.64 363.84 Tm
+(get) Tj
+1 0 0 1 181.2 363.84 Tm
+(will) Tj
+1 0 0 1 201.36 363.84 Tm
+(be) Tj
+1 0 0 1 214.8 363.84 Tm
+(e) Tj
+1 0 0 1 219.36 363.84 Tm
+(x) Tj
+1 0 0 1 224.64 363.84 Tm
+(ecuted) Tj
+1 0 0 1 256.56 363.84 Tm
+(each) Tj
+1 0 0 1 279.6 363.84 Tm
+(time) Tj
+/R96 11 Tf
+1 0 0 1 302.16 363.84 Tm
+(gmake) Tj
+/R93 11 Tf
+1 0 0 1 338.159 363.84 Tm
+(is) Tj
+1 0 0 1 348.719 363.84 Tm
+(applied) Tj
+1 0 0 1 383.999 363.84 Tm
+(to) Tj
+1 0 0 1 395.519 363.84 Tm
+(that) Tj
+1 0 0 1 414.959 363.84 Tm
+(tar) Tj
+1 0 0 1 426.239 363.84 Tm
+(get.) Tj
+1 0 0 1 447.599 363.84 Tm
+(A) Tj
+1 0 0 1 458.639 363.84 Tm
+(common) Tj
+1 0 0 1 499.919 363.84 Tm
+(use) Tj
+1 0 0 1 517.679 363.84 Tm
+(is) Tj
+1 0 0 1 84 350.4 Tm
+(to) Tj
+1 0 0 1 95.5199 350.4 Tm
+(put) Tj
+1 0 0 1 112.56 350.4 Tm
+(a) Tj
+1 0 0 1 120.24 350.4 Tm
+(standard) Tj
+1 0 0 1 160.56 350.4 Tm
+(\252clean-up\272) Tj
+1 0 0 1 210.96 350.4 Tm
+(operation) Tj
+1 0 0 1 255.36 350.4 Tm
+(into) Tj
+1 0 0 1 275.28 350.4 Tm
+(each) Tj
+1 0 0 1 298.32 350.4 Tm
+(of) Tj
+1 0 0 1 310.56 350.4 Tm
+(your) Tj
+1 0 0 1 333.599 350.4 Tm
+(make\256les,) Tj
+1 0 0 1 381.359 350.4 Tm
+(specifying) Tj
+1 0 0 1 429.839 350.4 Tm
+(ho) Tj
+1 0 0 1 440.639 350.4 Tm
+(w) Tj
+1 0 0 1 451.439 350.4 Tm
+(to) Tj
+1 0 0 1 462.959 350.4 Tm
+(get) Tj
+1 0 0 1 479.519 350.4 Tm
+(rid) Tj
+1 0 0 1 494.639 350.4 Tm
+(of) Tj
+1 0 0 1 506.639 350.4 Tm
+(\256les) Tj
+1 0 0 1 84 336.72 Tm
+(that) Tj
+1 0 0 1 103.2 336.72 Tm
+(can) Tj
+1 0 0 1 121.2 336.72 Tm
+(be) Tj
+1 0 0 1 134.16 336.72 Tm
+(reconstructed,) Tj
+1 0 0 1 198.72 336.72 Tm
+(if) Tj
+1 0 0 1 208.08 336.72 Tm
+(necessary) Tj
+1 0 0 1 249.84 336.72 Tm
+(.) Tj
+1 0 0 1 256.8 336.72 Tm
+(F) Tj
+1 0 0 1 262.56 336.72 Tm
+(or) Tj
+1 0 0 1 274.56 336.72 Tm
+(e) Tj
+1 0 0 1 279.12 336.72 Tm
+(xample,) Tj
+1 0 0 1 317.039 336.72 Tm
+(you) Tj
+1 0 0 1 335.999 336.72 Tm
+(will) Tj
+1 0 0 1 355.919 336.72 Tm
+(often) Tj
+1 0 0 1 381.119 336.72 Tm
+(see) Tj
+1 0 0 1 397.919 336.72 Tm
+(a) Tj
+1 0 0 1 405.599 336.72 Tm
+(rule) Tj
+1 0 0 1 425.279 336.72 Tm
+(like) Tj
+1 0 0 1 444.479 336.72 Tm
+(this) Tj
+1 0 0 1 462.959 336.72 Tm
+(in) Tj
+1 0 0 1 474.239 336.72 Tm
+(a) Tj
+1 0 0 1 481.919 336.72 Tm
+(make\256le.) Tj
+/R96 11 Tf
+1 0 0 1 110.16 312.48 Tm
+(clean:) Tj
+1 0 0 1 162.96 298.8 Tm
+(rm) Tj
+1 0 0 1 182.64 298.8 Tm
+(-f) Tj
+1 0 0 1 202.32 298.8 Tm
+(*.o) Tj
+/R93 11 Tf
+1 0 0 1 84 274.8 Tm
+(Ev) Tj
+1 0 0 1 96 274.8 Tm
+(ery) Tj
+1 0 0 1 113.04 274.8 Tm
+(time) Tj
+1 0 0 1 135.6 274.8 Tm
+(you) Tj
+1 0 0 1 155.04 274.8 Tm
+(issue) Tj
+1 0 0 1 180 274.8 Tm
+(the) Tj
+1 0 0 1 196.56 274.8 Tm
+(shell) Tj
+1 0 0 1 220.32 274.8 Tm
+(command) Tj
+/R96 11 Tf
+1 0 0 1 266.64 274.8 Tm
+(gmake) Tj
+1 0 0 1 305.999 274.8 Tm
+(clean) Tj
+/R93 11 Tf
+1 0 0 1 338.399 274.8 Tm
+(,) Tj
+1 0 0 1 344.879 274.8 Tm
+(this) Tj
+1 0 0 1 363.839 274.8 Tm
+(action) Tj
+1 0 0 1 393.599 274.8 Tm
+(will) Tj
+1 0 0 1 413.759 274.8 Tm
+(e) Tj
+1 0 0 1 418.319 274.8 Tm
+(x) Tj
+1 0 0 1 423.599 274.8 Tm
+(ecute,) Tj
+1 0 0 1 452.879 274.8 Tm
+(remo) Tj
+1 0 0 1 475.199 274.8 Tm
+(ving) Tj
+1 0 0 1 497.759 274.8 Tm
+(all) Tj
+/R96 11 Tf
+1 0 0 1 511.919 274.8 Tm
+(.o) Tj
+/R93 11 Tf
+1 0 0 1 84 261.36 Tm
+(\256les.) Tj
+1 0 0 1 100.8 247.44 Tm
+(Another) Tj
+1 0 0 1 139.44 247.44 Tm
+(possible) Tj
+1 0 0 1 177.84 247.44 Tm
+(use) Tj
+1 0 0 1 194.88 247.44 Tm
+(is) Tj
+1 0 0 1 204.72 247.44 Tm
+(to) Tj
+1 0 0 1 215.76 247.44 Tm
+(pro) Tj
+1 0 0 1 230.16 247.44 Tm
+(vide) Tj
+1 0 0 1 251.76 247.44 Tm
+(a) Tj
+1 0 0 1 259.2 247.44 Tm
+(standard) Tj
+1 0 0 1 298.8 247.44 Tm
+(way) Tj
+1 0 0 1 319.44 247.44 Tm
+(to) Tj
+1 0 0 1 330.479 247.44 Tm
+(run) Tj
+1 0 0 1 347.759 247.44 Tm
+(a) Tj
+1 0 0 1 355.199 247.44 Tm
+(set) Tj
+1 0 0 1 369.839 247.44 Tm
+(of) Tj
+1 0 0 1 381.599 247.44 Tm
+(tests) Tj
+1 0 0 1 403.439 247.44 Tm
+(on) Tj
+1 0 0 1 417.119 247.44 Tm
+(your) Tj
+1 0 0 1 439.679 247.44 Tm
+(program\320what) Tj
+1 0 0 1 511.679 247.44 Tm
+(are) Tj
+1 0 0 1 84 233.76 Tm
+(typically) Tj
+1 0 0 1 125.76 233.76 Tm
+(kno) Tj
+1 0 0 1 142.08 233.76 Tm
+(wn) Tj
+1 0 0 1 158.64 233.76 Tm
+(as) Tj
+ET
+endstream
+endobj
+101 0 obj
+5901
+endobj
+102 0 obj
+<< /Type /Font /Name /R102 /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+103 0 obj
+<< /Length 104 0 R >>
+stream
+BT
+/R102 11 Tf
+1 0 0 1 171.12 233.76 Tm
+(r) Tj
+1 0 0 1 174.96 233.76 Tm
+(e) Tj
+1 0 0 1 179.28 233.76 Tm
+(gr) Tj
+1 0 0 1 188.64 233.76 Tm
+(ession) Tj
+1 0 0 1 219.36 233.76 Tm
+(tests) Tj
+/R93 11 Tf
+1 0 0 1 239.04 233.76 Tm
+(\320to) Tj
+1 0 0 1 261.6 233.76 Tm
+(see) Tj
+1 0 0 1 279.12 233.76 Tm
+(that) Tj
+1 0 0 1 298.8 233.76 Tm
+(it) Tj
+1 0 0 1 308.16 233.76 Tm
+(is) Tj
+1 0 0 1 318.96 233.76 Tm
+(working) Tj
+1 0 0 1 358.799 233.76 Tm
+(and) Tj
+1 0 0 1 377.759 233.76 Tm
+(has) Tj
+1 0 0 1 395.759 233.76 Tm
+(not) Tj
+1 0 0 1 413.039 233.76 Tm
+(\252re) Tj
+1 0 0 1 425.999 233.76 Tm
+(gressed\272) Tj
+1 0 0 1 467.519 233.76 Tm
+(as) Tj
+1 0 0 1 479.999 233.76 Tm
+(a) Tj
+1 0 0 1 488.159 233.76 Tm
+(result) Tj
+1 0 0 1 515.759 233.76 Tm
+(of) Tj
+1 0 0 1 84 220.32 Tm
+(some) Tj
+1 0 0 1 109.92 220.32 Tm
+(change) Tj
+1 0 0 1 143.52 220.32 Tm
+(you') Tj
+1 0 0 1 163.2 220.32 Tm
+(v) Tj
+1 0 0 1 168.48 220.32 Tm
+(e) Tj
+1 0 0 1 176.16 220.32 Tm
+(made.) Tj
+1 0 0 1 206.4 220.32 Tm
+(F) Tj
+1 0 0 1 212.16 220.32 Tm
+(or) Tj
+1 0 0 1 224.4 220.32 Tm
+(e) Tj
+1 0 0 1 228.96 220.32 Tm
+(xample,) Tj
+1 0 0 1 266.64 220.32 Tm
+(to) Tj
+1 0 0 1 277.92 220.32 Tm
+(cause) Tj
+1 0 0 1 305.039 220.32 Tm
+(the) Tj
+1 0 0 1 321.119 220.32 Tm
+(command) Tj
+/R96 11 Tf
+1 0 0 1 105.84 196.32 Tm
+(make) Tj
+1 0 0 1 138.72 196.32 Tm
+(test) Tj
+/R93 11 Tf
+1 0 0 1 84 172.08 Tm
+(to) Tj
+1 0 0 1 95.2799 172.08 Tm
+(feed) Tj
+1 0 0 1 116.88 172.08 Tm
+(a) Tj
+1 0 0 1 124.32 172.08 Tm
+(test) Tj
+1 0 0 1 142.32 172.08 Tm
+(\256le) Tj
+1 0 0 1 159.12 172.08 Tm
+(through) Tj
+1 0 0 1 196.08 172.08 Tm
+(our) Tj
+1 0 0 1 213.36 172.08 Tm
+(editor) Tj
+1 0 0 1 241.68 172.08 Tm
+(program) Tj
+1 0 0 1 281.519 172.08 Tm
+(and) Tj
+1 0 0 1 299.999 172.08 Tm
+(check) Tj
+1 0 0 1 328.319 172.08 Tm
+(that) Tj
+1 0 0 1 347.519 172.08 Tm
+(it) Tj
+1 0 0 1 356.399 172.08 Tm
+(produces) Tj
+1 0 0 1 398.639 172.08 Tm
+(the) Tj
+1 0 0 1 414.719 172.08 Tm
+(right) Tj
+1 0 0 1 438.239 172.08 Tm
+(result,) Tj
+1 0 0 1 467.999 172.08 Tm
+(use:) Tj
+/R96 11 Tf
+1 0 0 1 110.16 147.84 Tm
+(test:) Tj
+1 0 0 1 149.76 147.84 Tm
+(edit) Tj
+1 0 0 1 136.56 134.16 Tm
+(rm) Tj
+1 0 0 1 156.24 134.16 Tm
+(-f) Tj
+1 0 0 1 175.92 134.16 Tm
+(test-fil) Tj
+1 0 0 1 228 134.16 Tm
+(e1) Tj
+1 0 0 1 136.56 120.72 Tm
+(./edit) Tj
+1 0 0 1 182.64 120.72 Tm
+(<) Tj
+1 0 0 1 195.84 120.72 Tm
+(test-comma) Tj
+1 0 0 1 260.88 120.72 Tm
+(nds) Tj
+1 0 0 1 280.56 120.72 Tm
+(1) Tj
+1 0 0 1 136.56 107.04 Tm
+(diff) Tj
+1 0 0 1 169.44 107.04 Tm
+(test-file) Tj
+1 0 0 1 228 107.04 Tm
+(1) Tj
+1 0 0 1 241.68 107.04 Tm
+(expected) Tj
+1 0 0 1 293.759 107.04 Tm
+(-te) Tj
+1 0 0 1 313.439 107.04 Tm
+(st) Tj
+1 0 0 1 326.639 107.04 Tm
+(-fi) Tj
+1 0 0 1 346.319 107.04 Tm
+(le1) Tj
+ET
+Q
+endstream
+endobj
+104 0 obj
+2624
+endobj
+90 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R102 102 0 R
+/R99 99 0 R
+/R96 96 0 R
+/R93 93 0 R
+>>
+>>
+/Contents [
+91 0 R
+94 0 R
+97 0 R
+100 0 R
+103 0 R
+]
+>>
+endobj
+106 0 obj
+<< /Length 107 0 R >>
+stream
+q
+endstream
+endobj
+107 0 obj
+2
+endobj
+108 0 obj
+<< /Type /Font /Name /R108 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+109 0 obj
+<< /Length 110 0 R >>
+stream
+BT
+/R108 11 Tf
+1 0 0.167 1 90 708 Tm
+(Basic) Tj
+1 0 0.167 1 117.12 708 Tm
+(Compilation) Tj
+1 0 0.167 1 174.48 708 Tm
+(Control) Tj
+1 0 0.167 1 210.72 708 Tm
+(with) Tj
+ET
+endstream
+endobj
+110 0 obj
+169
+endobj
+111 0 obj
+<< /Type /Font /Name /R111 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+112 0 obj
+<< /Length 113 0 R >>
+stream
+BT
+/R111 11 Tf
+1 0 0 1 233.04 708 Tm
+(Gmake) Tj
+/R108 11 Tf
+1 0 0 1 520.08 708 Tm
+(45) Tj
+1 0 0 1 90 672.24 Tm
+(where) Tj
+1 0 0 1 119.76 672.24 Tm
+(the) Tj
+1 0 0 1 136.32 672.24 Tm
+(\256le) Tj
+/R111 11 Tf
+1 0 0 1 153.36 672.24 Tm
+(test-comma) Tj
+1 0 0 1 218.4 672.24 Tm
+(nds) Tj
+1 0 0 1 238.08 672.24 Tm
+(1) Tj
+/R108 11 Tf
+1 0 0 1 248.4 672.24 Tm
+(presumably) Tj
+1 0 0 1 302.639 672.24 Tm
+(contains) Tj
+1 0 0 1 342.239 672.24 Tm
+(editor) Tj
+1 0 0 1 370.799 672.24 Tm
+(commands) Tj
+1 0 0 1 421.199 672.24 Tm
+(that) Tj
+1 0 0 1 440.879 672.24 Tm
+(are) Tj
+1 0 0 1 457.199 672.24 Tm
+(supposed) Tj
+1 0 0 1 501.119 672.24 Tm
+(to) Tj
+1 0 0 1 512.639 672.24 Tm
+(pro-) Tj
+1 0 0 1 90 658.56 Tm
+(duce) Tj
+1 0 0 1 113.76 658.56 Tm
+(a) Tj
+1 0 0 1 121.68 658.56 Tm
+(\256le) Tj
+/R111 11 Tf
+1 0 0 1 138.72 658.56 Tm
+(test-file) Tj
+1 0 0 1 197.28 658.56 Tm
+(1) Tj
+/R108 11 Tf
+1 0 0 1 203.76 658.56 Tm
+(,) Tj
+1 0 0 1 210.24 658.56 Tm
+(and) Tj
+1 0 0 1 229.2 658.56 Tm
+(the) Tj
+1 0 0 1 245.76 658.56 Tm
+(\256le) Tj
+/R111 11 Tf
+1 0 0 1 262.799 658.56 Tm
+(expected-t) Tj
+1 0 0 1 327.839 658.56 Tm
+(es) Tj
+1 0 0 1 341.039 658.56 Tm
+(t-f) Tj
+1 0 0 1 360.719 658.56 Tm
+(il) Tj
+1 0 0 1 373.919 658.56 Tm
+(e1) Tj
+/R108 11 Tf
+1 0 0 1 390.719 658.56 Tm
+(contains) Tj
+1 0 0 1 430.319 658.56 Tm
+(what) Tj
+1 0 0 1 454.799 658.56 Tm
+(is) Tj
+1 0 0 1 465.119 658.56 Tm
+(supposed) Tj
+1 0 0 1 509.039 658.56 Tm
+(to) Tj
+1 0 0 1 520.559 658.56 Tm
+(be) Tj
+1 0 0 1 90 645.12 Tm
+(in) Tj
+/R111 11 Tf
+1 0 0 1 101.76 645.12 Tm
+(test-file1) Tj
+/R108 11 Tf
+1 0 0 1 170.64 645.12 Tm
+(after) Tj
+1 0 0 1 193.92 645.12 Tm
+(e) Tj
+1 0 0 1 198.48 645.12 Tm
+(x) Tj
+1 0 0 1 203.76 645.12 Tm
+(ecuting) Tj
+1 0 0 1 239.28 645.12 Tm
+(those) Tj
+1 0 0 1 265.68 645.12 Tm
+(commands.) Tj
+1 0 0 1 321.119 645.12 Tm
+(The) Tj
+1 0 0 1 341.519 645.12 Tm
+(\256rst) Tj
+1 0 0 1 361.679 645.12 Tm
+(action) Tj
+1 0 0 1 391.679 645.12 Tm
+(line) Tj
+1 0 0 1 411.359 645.12 Tm
+(of) Tj
+1 0 0 1 423.599 645.12 Tm
+(the) Tj
+1 0 0 1 440.159 645.12 Tm
+(rule) Tj
+1 0 0 1 460.559 645.12 Tm
+(clears) Tj
+1 0 0 1 489.119 645.12 Tm
+(a) Tj
+1 0 0 1 493.679 645.12 Tm
+(way) Tj
+1 0 0 1 515.279 645.12 Tm
+(an) Tj
+1 0 0 1 525.359 645.12 Tm
+(y) Tj
+1 0 0 1 90 631.44 Tm
+(old) Tj
+1 0 0 1 106.8 631.44 Tm
+(copy) Tj
+1 0 0 1 130.8 631.44 Tm
+(of) Tj
+/R111 11 Tf
+1 0 0 1 142.56 631.44 Tm
+(test-fil) Tj
+1 0 0 1 194.64 631.44 Tm
+(e1) Tj
+/R108 11 Tf
+1 0 0 1 207.6 631.44 Tm
+(;) Tj
+1 0 0 1 214.32 631.44 Tm
+(the) Tj
+1 0 0 1 230.4 631.44 Tm
+(second) Tj
+1 0 0 1 263.759 631.44 Tm
+(runs) Tj
+1 0 0 1 285.359 631.44 Tm
+(the) Tj
+1 0 0 1 301.679 631.44 Tm
+(editor) Tj
+1 0 0 1 329.999 631.44 Tm
+(and) Tj
+1 0 0 1 348.479 631.44 Tm
+(feeds) Tj
+1 0 0 1 374.399 631.44 Tm
+(in) Tj
+/R111 11 Tf
+1 0 0 1 385.679 631.44 Tm
+(test-com) Tj
+1 0 0 1 437.759 631.44 Tm
+(man) Tj
+1 0 0 1 457.439 631.44 Tm
+(ds) Tj
+1 0 0 1 470.639 631.44 Tm
+(1) Tj
+/R108 11 Tf
+1 0 0 1 480.719 631.44 Tm
+(through) Tj
+1 0 0 1 517.439 631.44 Tm
+(the) Tj
+1 0 0 1 90 618 Tm
+(standard) Tj
+1 0 0 1 129.36 618 Tm
+(input,) Tj
+1 0 0 1 156.96 618 Tm
+(and) Tj
+1 0 0 1 174.96 618 Tm
+(the) Tj
+1 0 0 1 190.56 618 Tm
+(third) Tj
+1 0 0 1 213.36 618 Tm
+(compares) Tj
+1 0 0 1 257.52 618 Tm
+(the) Tj
+1 0 0 1 273.12 618 Tm
+(resulting) Tj
+1 0 0 1 313.68 618 Tm
+(\256le) Tj
+1 0 0 1 329.999 618 Tm
+(with) Tj
+1 0 0 1 351.599 618 Tm
+(its) Tj
+1 0 0 1 364.319 618 Tm
+(e) Tj
+1 0 0 1 368.879 618 Tm
+(xpected) Tj
+1 0 0 1 405.119 618 Tm
+(contents.) Tj
+1 0 0 1 448.319 618 Tm
+(If) Tj
+1 0 0 1 457.679 618 Tm
+(either) Tj
+1 0 0 1 484.799 618 Tm
+(the) Tj
+1 0 0 1 500.399 618 Tm
+(second) Tj
+1 0 0 1 90 604.32 Tm
+(or) Tj
+1 0 0 1 101.76 604.32 Tm
+(third) Tj
+1 0 0 1 125.28 604.32 Tm
+(action) Tj
+1 0 0 1 154.8 604.32 Tm
+(fails,) Tj
+/R111 11 Tf
+1 0 0 1 179.04 604.32 Tm
+(make) Tj
+/R108 11 Tf
+1 0 0 1 208.08 604.32 Tm
+(will) Tj
+1 0 0 1 227.76 604.32 Tm
+(report) Tj
+1 0 0 1 256.8 604.32 Tm
+(that) Tj
+1 0 0 1 275.999 604.32 Tm
+(it) Tj
+1 0 0 1 284.879 604.32 Tm
+(encountered) Tj
+1 0 0 1 341.039 604.32 Tm
+(an) Tj
+1 0 0 1 354.239 604.32 Tm
+(error) Tj
+1 0 0 1 374.639 604.32 Tm
+(.) Tj
+1 0 0 1 106.8 590.88 Tm
+(Figure) Tj
+1 0 0 1 137.04 590.88 Tm
+(1) Tj
+1 0 0 1 144.24 590.88 Tm
+(illustrates) Tj
+1 0 0 1 188.88 590.88 Tm
+(a) Tj
+1 0 0 1 195.36 590.88 Tm
+(more) Tj
+1 0 0 1 219.6 590.88 Tm
+(general) Tj
+1 0 0 1 253.44 590.88 Tm
+(set-up.) Tj
+1 0 0 1 286.32 590.88 Tm
+(Here,) Tj
+1 0 0 1 312.239 590.88 Tm
+(the) Tj
+1 0 0 1 327.359 590.88 Tm
+(make\256le) Tj
+1 0 0 1 366.719 590.88 Tm
+(de\256nes) Tj
+1 0 0 1 399.359 590.88 Tm
+(the) Tj
+1 0 0 1 414.479 590.88 Tm
+(v) Tj
+1 0 0 1 419.759 590.88 Tm
+(ariable) Tj
+1 0 0 1 451.199 590.88 Tm
+(TESTPR) Tj
+1 0 0 1 490.079 590.88 Tm
+(OGRAM) Tj
+1 0 0 1 90 577.44 Tm
+(to) Tj
+1 0 0 1 101.28 577.44 Tm
+(be) Tj
+1 0 0 1 114.24 577.44 Tm
+(the) Tj
+1 0 0 1 130.32 577.44 Tm
+(name) Tj
+1 0 0 1 156.96 577.44 Tm
+(of) Tj
+1 0 0 1 168.72 577.44 Tm
+(an) Tj
+1 0 0 1 178.8 577.44 Tm
+(y) Tj
+1 0 0 1 187.2 577.44 Tm
+(arbitrary) Tj
+1 0 0 1 227.76 577.44 Tm
+(testing) Tj
+1 0 0 1 259.68 577.44 Tm
+(command,) Tj
+1 0 0 1 308.399 577.44 Tm
+(and) Tj
+1 0 0 1 326.879 577.44 Tm
+(TESTS) Tj
+1 0 0 1 361.919 577.44 Tm
+(to) Tj
+1 0 0 1 373.199 577.44 Tm
+(be) Tj
+1 0 0 1 386.399 577.44 Tm
+(a) Tj
+1 0 0 1 393.839 577.44 Tm
+(list) Tj
+1 0 0 1 410.159 577.44 Tm
+(of) Tj
+1 0 0 1 421.919 577.44 Tm
+(ar) Tj
+1 0 0 1 430.079 577.44 Tm
+(gument) Tj
+1 0 0 1 465.839 577.44 Tm
+(sets) Tj
+1 0 0 1 485.039 577.44 Tm
+(to) Tj
+1 0 0 1 496.319 577.44 Tm
+(gi) Tj
+1 0 0 1 504.719 577.44 Tm
+(v) Tj
+1 0 0 1 509.999 577.44 Tm
+(e) Tj
+1 0 0 1 517.439 577.44 Tm
+(the) Tj
+1 0 0 1 90 563.76 Tm
+(test) Tj
+1 0 0 1 107.76 563.76 Tm
+(program.) Tj
+1 0 0 1 151.68 563.76 Tm
+(The) Tj
+1 0 0 1 171.36 563.76 Tm
+(make\256le) Tj
+1 0 0 1 211.44 563.76 Tm
+(also) Tj
+1 0 0 1 231.84 563.76 Tm
+(includes) Tj
+1 0 0 1 270.96 563.76 Tm
+(the) Tj
+1 0 0 1 287.04 563.76 Tm
+(template) Tj
+1 0 0 1 327.359 563.76 Tm
+(sho) Tj
+1 0 0 1 342.479 563.76 Tm
+(wn) Tj
+1 0 0 1 358.319 563.76 Tm
+(in) Tj
+1 0 0 1 369.599 563.76 Tm
+(the) Tj
+1 0 0 1 385.679 563.76 Tm
+(\256gure.) Tj
+1 0 0 1 417.839 563.76 Tm
+(Suppose) Tj
+1 0 0 1 457.679 563.76 Tm
+(that) Tj
+1 0 0 1 476.639 563.76 Tm
+(my) Tj
+1 0 0 1 493.199 563.76 Tm
+(make\256le) Tj
+1 0 0 1 90 550.32 Tm
+(includes) Tj
+1 0 0 1 129.12 550.32 Tm
+(this) Tj
+1 0 0 1 147.84 550.32 Tm
+(template) Tj
+1 0 0 1 188.16 550.32 Tm
+(and) Tj
+1 0 0 1 206.88 550.32 Tm
+(also) Tj
+1 0 0 1 227.28 550.32 Tm
+(the) Tj
+1 0 0 1 243.36 550.32 Tm
+(de\256nitions) Tj
+/R111 11 Tf
+1 0 0 1 111.84 529.92 Tm
+(TESTPROGR) Tj
+1 0 0 1 170.4 529.92 Tm
+(AM) Tj
+1 0 0 1 190.8 529.92 Tm
+(=) Tj
+1 0 0 1 204 529.92 Tm
+(./test-edi) Tj
+1 0 0 1 269.039 529.92 Tm
+(t) Tj
+1 0 0 1 111.84 502.8 Tm
+(TESTS) Tj
+1 0 0 1 151.2 502.8 Tm
+(=) Tj
+1 0 0 1 164.4 502.8 Tm
+("test-com) Tj
+1 0 0 1 222.96 502.8 Tm
+(ma) Tj
+1 0 0 1 236.16 502.8 Tm
+(nds) Tj
+1 0 0 1 255.84 502.8 Tm
+(1) Tj
+1 0 0 1 269.759 502.8 Tm
+(test-file1) Tj
+1 0 0 1 341.999 502.8 Tm
+(expected-) Tj
+1 0 0 1 400.559 502.8 Tm
+(tes) Tj
+1 0 0 1 420.239 502.8 Tm
+(t-) Tj
+1 0 0 1 433.439 502.8 Tm
+(fil) Tj
+1 0 0 1 453.119 502.8 Tm
+(e1") Tj
+1 0 0 1 479.999 502.8 Tm
+(\\) Tj
+1 0 0 1 164.4 489.36 Tm
+("test-com) Tj
+1 0 0 1 222.96 489.36 Tm
+(ma) Tj
+1 0 0 1 236.16 489.36 Tm
+(nds) Tj
+1 0 0 1 255.84 489.36 Tm
+(2) Tj
+1 0 0 1 269.76 489.36 Tm
+(test-file2) Tj
+1 0 0 1 341.999 489.36 Tm
+(expected-) Tj
+1 0 0 1 400.559 489.36 Tm
+(tes) Tj
+1 0 0 1 420.239 489.36 Tm
+(t-) Tj
+1 0 0 1 433.439 489.36 Tm
+(fil) Tj
+1 0 0 1 453.119 489.36 Tm
+(e2") Tj
+/R108 11 Tf
+1 0 0 1 90 468.96 Tm
+(Then) Tj
+/R111 11 Tf
+1 0 0 1 115.2 468.96 Tm
+(gmake) Tj
+1 0 0 1 154.56 468.96 Tm
+(test) Tj
+/R108 11 Tf
+1 0 0 1 183.6 468.96 Tm
+(will) Tj
+1 0 0 1 203.52 468.96 Tm
+(run) Tj
+/R111 11 Tf
+1 0 0 1 111.84 448.8 Tm
+(./test-ed) Tj
+1 0 0 1 170.4 448.8 Tm
+(it) Tj
+1 0 0 1 190.8 448.8 Tm
+(test-comma) Tj
+1 0 0 1 255.84 448.8 Tm
+(nd) Tj
+1 0 0 1 269.039 448.8 Tm
+(s1) Tj
+1 0 0 1 289.439 448.8 Tm
+(test-file1) Tj
+1 0 0 1 361.679 448.8 Tm
+(expected-) Tj
+1 0 0 1 420.239 448.8 Tm
+(te) Tj
+1 0 0 1 433.439 448.8 Tm
+(st-) Tj
+1 0 0 1 453.119 448.8 Tm
+(fil) Tj
+1 0 0 1 472.799 448.8 Tm
+(e1) Tj
+1 0 0 1 111.84 435.12 Tm
+(./test-ed) Tj
+1 0 0 1 170.4 435.12 Tm
+(it) Tj
+1 0 0 1 190.8 435.12 Tm
+(test-comma) Tj
+1 0 0 1 255.84 435.12 Tm
+(nd) Tj
+1 0 0 1 269.039 435.12 Tm
+(s2) Tj
+1 0 0 1 289.439 435.12 Tm
+(test-file2) Tj
+1 0 0 1 361.679 435.12 Tm
+(expected-) Tj
+1 0 0 1 420.239 435.12 Tm
+(te) Tj
+1 0 0 1 433.439 435.12 Tm
+(st-) Tj
+1 0 0 1 453.119 435.12 Tm
+(fil) Tj
+1 0 0 1 472.799 435.12 Tm
+(e2) Tj
+/R108 11 Tf
+1 0 0 1 90 414.96 Tm
+(and) Tj
+1 0 0 1 108.48 414.96 Tm
+(will) Tj
+1 0 0 1 128.4 414.96 Tm
+(report) Tj
+1 0 0 1 157.2 414.96 Tm
+(which) Tj
+1 0 0 1 186.72 414.96 Tm
+(tests) Tj
+1 0 0 1 209.04 414.96 Tm
+(succeed) Tj
+1 0 0 1 246.48 414.96 Tm
+(and) Tj
+1 0 0 1 264.96 414.96 Tm
+(which) Tj
+1 0 0 1 294.48 414.96 Tm
+(fail.) Tj
+1 0 0 1 315.6 414.96 Tm
+(The) Tj
+1 0 0 1 335.52 414.96 Tm
+(script) Tj
+/R111 11 Tf
+1 0 0 1 362.639 414.96 Tm
+(test-edit) Tj
+/R108 11 Tf
+1 0 0 1 424.559 414.96 Tm
+(in) Tj
+1 0 0 1 435.599 414.96 Tm
+(this) Tj
+1 0 0 1 454.319 414.96 Tm
+(case) Tj
+1 0 0 1 475.919 414.96 Tm
+(could) Tj
+1 0 0 1 503.039 414.96 Tm
+(be) Tj
+/R111 11 Tf
+1 0 0 1 111.84 394.56 Tm
+(#!/bin/sh) Tj
+1 0 0 1 111.84 381.12 Tm
+(#) Tj
+1 0 0 1 125.04 381.12 Tm
+($1:) Tj
+1 0 0 1 151.2 381.12 Tm
+(command) Tj
+1 0 0 1 204 381.12 Tm
+(file.) Tj
+1 0 0 1 243.36 381.12 Tm
+($2:) Tj
+1 0 0 1 269.76 381.12 Tm
+(output) Tj
+1 0 0 1 315.599 381.12 Tm
+(file.) Tj
+1 0 0 1 111.84 367.68 Tm
+(#) Tj
+1 0 0 1 125.04 367.68 Tm
+($3:) Tj
+1 0 0 1 151.2 367.68 Tm
+(standard) Tj
+1 0 0 1 210.48 367.68 Tm
+(for) Tj
+1 0 0 1 236.88 367.68 Tm
+(the) Tj
+1 0 0 1 263.04 367.68 Tm
+(output) Tj
+1 0 0 1 309.119 367.68 Tm
+(file.) Tj
+1 0 0 1 111.84 354 Tm
+(rm) Tj
+1 0 0 1 131.52 354 Tm
+(-f) Tj
+1 0 0 1 151.2 354 Tm
+($2) Tj
+1 0 0 1 111.84 340.56 Tm
+(#) Tj
+1 0 0 1 125.04 340.56 Tm
+(The) Tj
+1 0 0 1 151.2 340.56 Tm
+(followin) Tj
+1 0 0 1 203.28 340.56 Tm
+(g) Tj
+1 0 0 1 216.96 340.56 Tm
+(command) Tj
+1 0 0 1 269.76 340.56 Tm
+(runs) Tj
+1 0 0 1 302.639 340.56 Tm
+(the) Tj
+1 0 0 1 328.799 340.56 Tm
+(editor) Tj
+1 0 0 1 374.879 340.56 Tm
+(and) Tj
+1 0 0 1 401.279 340.56 Tm
+(compares) Tj
+1 0 0 1 460.319 340.56 Tm
+(the) Tj
+1 0 0 1 486.719 340.56 Tm
+(output) Tj
+1 0 0 1 111.84 326.88 Tm
+(#) Tj
+1 0 0 1 125.04 326.88 Tm
+(against) Tj
+1 0 0 1 177.6 326.88 Tm
+(the) Tj
+1 0 0 1 204 326.88 Tm
+(standard.) Tj
+1 0 0 1 276.24 326.88 Tm
+(This) Tj
+1 0 0 1 309.119 326.88 Tm
+(script) Tj
+1 0 0 1 355.199 326.88 Tm
+(returns) Tj
+1 0 0 1 407.759 326.88 Tm
+(normally) Tj
+1 0 0 1 466.799 326.88 Tm
+(if) Tj
+1 0 0 1 486.719 326.88 Tm
+(the) Tj
+1 0 0 1 512.879 326.88 Tm
+(editor) Tj
+1 0 0 1 111.84 313.44 Tm
+(#) Tj
+1 0 0 1 125.04 313.44 Tm
+(returns) Tj
+1 0 0 1 177.6 313.44 Tm
+(normally) Tj
+1 0 0 1 236.88 313.44 Tm
+(and) Tj
+1 0 0 1 263.04 313.44 Tm
+(diff) Tj
+1 0 0 1 295.919 313.44 Tm
+(finds) Tj
+1 0 0 1 335.519 313.44 Tm
+(no) Tj
+1 0 0 1 355.199 313.44 Tm
+(difference) Tj
+1 0 0 1 420.239 313.44 Tm
+(s.) Tj
+1 0 0 1 111.84 299.76 Tm
+(./edit) Tj
+1 0 0 1 157.92 299.76 Tm
+(<) Tj
+1 0 0 1 171.12 299.76 Tm
+($1) Tj
+1 0 0 1 190.8 299.76 Tm
+(&&) Tj
+1 0 0 1 210.48 299.76 Tm
+(diff) Tj
+1 0 0 1 243.36 299.76 Tm
+($2) Tj
+1 0 0 1 263.04 299.76 Tm
+($3) Tj
+/R108 11 Tf
+1 0 0 1 90 279.6 Tm
+(Of) Tj
+1 0 0 1 104.4 279.6 Tm
+(course,) Tj
+1 0 0 1 138.48 279.6 Tm
+(doing) Tj
+1 0 0 1 166.32 279.6 Tm
+(things) Tj
+1 0 0 1 196.08 279.6 Tm
+(this) Tj
+1 0 0 1 214.8 279.6 Tm
+(fanc) Tj
+1 0 0 1 233.28 279.6 Tm
+(y) Tj
+1 0 0 1 241.68 279.6 Tm
+(requires) Tj
+1 0 0 1 279.84 279.6 Tm
+(that) Tj
+1 0 0 1 299.039 279.6 Tm
+(you) Tj
+1 0 0 1 318.239 279.6 Tm
+(learn) Tj
+1 0 0 1 343.199 279.6 Tm
+(a) Tj
+1 0 0 1 350.879 279.6 Tm
+(fair) Tj
+1 0 0 1 368.879 279.6 Tm
+(amount) Tj
+1 0 0 1 404.399 279.6 Tm
+(about) Tj
+1 0 0 1 431.759 279.6 Tm
+(the) Tj
+1 0 0 1 447.839 279.6 Tm
+(shell) Tj
+1 0 0 1 471.599 279.6 Tm
+(language) Tj
+1 0 0 1 513.839 279.6 Tm
+(\(the) Tj
+1 0 0 1 90 265.92 Tm
+(Bourne) Tj
+1 0 0 1 125.04 265.92 Tm
+(shell,) Tj
+1 0 0 1 151.2 265.92 Tm
+(in) Tj
+1 0 0 1 162.48 265.92 Tm
+(this) Tj
+1 0 0 1 180.96 265.92 Tm
+(case\).) Tj
+1 0 0 1 106.8 252.48 Tm
+(The) Tj
+1 0 0 1 127.2 252.48 Tm
+(de\256nition) Tj
+1 0 0 1 172.32 252.48 Tm
+(of) Tj
+1 0 0 1 184.56 252.48 Tm
+(the) Tj
+/R111 11 Tf
+1 0 0 1 201.36 252.48 Tm
+(test) Tj
+/R108 11 Tf
+1 0 0 1 230.88 252.48 Tm
+(tar) Tj
+1 0 0 1 242.16 252.48 Tm
+(get) Tj
+1 0 0 1 258.72 252.48 Tm
+(in) Tj
+1 0 0 1 270.48 252.48 Tm
+(Figure) Tj
+1 0 0 1 302.159 252.48 Tm
+(1) Tj
+1 0 0 1 311.039 252.48 Tm
+(illustrates) Tj
+1 0 0 1 356.879 252.48 Tm
+(the) Tj
+1 0 0 1 373.439 252.48 Tm
+(adv) Tj
+1 0 0 1 389.039 252.48 Tm
+(anced) Tj
+1 0 0 1 417.599 252.48 Tm
+(use) Tj
+1 0 0 1 435.599 252.48 Tm
+(of) Tj
+1 0 0 1 447.839 252.48 Tm
+(shell) Tj
+1 0 0 1 471.599 252.48 Tm
+(commands) Tj
+1 0 0 1 522.479 252.48 Tm
+(in) Tj
+1 0 0 1 90 238.8 Tm
+(a) Tj
+1 0 0 1 98.3999 238.8 Tm
+(make\256le.) Tj
+1 0 0 1 145.2 238.8 Tm
+(Because) Tj
+1 0 0 1 185.28 238.8 Tm
+(the) Tj
+1 0 0 1 202.32 238.8 Tm
+(action) Tj
+1 0 0 1 232.56 238.8 Tm
+(is) Tj
+1 0 0 1 243.6 238.8 Tm
+(a) Tj
+1 0 0 1 252 238.8 Tm
+(single) Tj
+1 0 0 1 281.76 238.8 Tm
+(\(compound\)) Tj
+1 0 0 1 338.879 238.8 Tm
+(shell) Tj
+1 0 0 1 363.119 238.8 Tm
+(command\320a) Tj
+1 0 0 1 425.759 238.8 Tm
+(loop\320you) Tj
+1 0 0 1 476.159 238.8 Tm
+(must) Tj
+1 0 0 1 501.119 238.8 Tm
+(inform) Tj
+/R111 11 Tf
+1 0 0 1 90 225.36 Tm
+(gmake) Tj
+/R108 11 Tf
+1 0 0 1 125.76 225.36 Tm
+(not) Tj
+1 0 0 1 142.8 225.36 Tm
+(to) Tj
+1 0 0 1 154.32 225.36 Tm
+(break) Tj
+1 0 0 1 181.68 225.36 Tm
+(it) Tj
+1 0 0 1 190.8 225.36 Tm
+(into) Tj
+1 0 0 1 210.72 225.36 Tm
+(7) Tj
+1 0 0 1 219.12 225.36 Tm
+(separate) Tj
+1 0 0 1 258 225.36 Tm
+(commands;) Tj
+1 0 0 1 311.76 225.36 Tm
+(that') Tj
+1 0 0 1 331.199 225.36 Tm
+(s) Tj
+1 0 0 1 338.399 225.36 Tm
+(the) Tj
+1 0 0 1 354.719 225.36 Tm
+(purpose) Tj
+1 0 0 1 392.399 225.36 Tm
+(of) Tj
+1 0 0 1 404.639 225.36 Tm
+(the) Tj
+1 0 0 1 420.959 225.36 Tm
+(backslashes) Tj
+1 0 0 1 475.679 225.36 Tm
+(at) Tj
+1 0 0 1 486.719 225.36 Tm
+(the) Tj
+1 0 0 1 503.039 225.36 Tm
+(end) Tj
+1 0 0 1 521.759 225.36 Tm
+(of) Tj
+1 0 0 1 90 211.92 Tm
+(each) Tj
+1 0 0 1 113.28 211.92 Tm
+(line.) Tj
+1 0 0 1 138.24 211.92 Tm
+(Also,) Tj
+1 0 0 1 165.36 211.92 Tm
+(in) Tj
+1 0 0 1 177.12 211.92 Tm
+(an) Tj
+1 0 0 1 190.8 211.92 Tm
+(ordinary) Tj
+1 0 0 1 231.36 211.92 Tm
+(shell) Tj
+1 0 0 1 255.36 211.92 Tm
+(script,) Tj
+1 0 0 1 286.08 211.92 Tm
+(I') Tj
+1 0 0 1 292.8 211.92 Tm
+(d) Tj
+1 0 0 1 301.68 211.92 Tm
+(write) Tj
+/R111 11 Tf
+1 0 0 1 327.599 211.92 Tm
+(${test}) Tj
+/R108 11 Tf
+1 0 0 1 376.799 211.92 Tm
+(rather) Tj
+1 0 0 1 405.839 211.92 Tm
+(than) Tj
+/R111 11 Tf
+1 0 0 1 427.919 211.92 Tm
+($${test}) Tj
+/R108 11 Tf
+1 0 0 1 479.999 211.92 Tm
+(.) Tj
+1 0 0 1 489.119 211.92 Tm
+(Ho) Tj
+1 0 0 1 502.319 211.92 Tm
+(we) Tj
+1 0 0 1 514.799 211.92 Tm
+(v) Tj
+1 0 0 1 520.079 211.92 Tm
+(er) Tj
+1 0 0 1 527.999 211.92 Tm
+(,) Tj
+/R111 11 Tf
+1 0 0 1 90 198.24 Tm
+(gmake) Tj
+/R108 11 Tf
+1 0 0 1 126.24 198.24 Tm
+(treats) Tj
+/R111 11 Tf
+1 0 0 1 153.36 198.24 Tm
+($) Tj
+/R108 11 Tf
+1 0 0 1 163.2 198.24 Tm
+(as) Tj
+1 0 0 1 175.68 198.24 Tm
+(a) Tj
+1 0 0 1 184.08 198.24 Tm
+(special) Tj
+1 0 0 1 217.92 198.24 Tm
+(character;) Tj
+1 0 0 1 264.72 198.24 Tm
+(to) Tj
+1 0 0 1 276.719 198.24 Tm
+(a) Tj
+1 0 0 1 281.279 198.24 Tm
+(v) Tj
+1 0 0 1 286.559 198.24 Tm
+(oid) Tj
+1 0 0 1 304.079 198.24 Tm
+(confusion,) Tj
+/R111 11 Tf
+1 0 0 1 353.519 198.24 Tm
+(gmake) Tj
+/R108 11 Tf
+1 0 0 1 389.759 198.24 Tm
+(treats) Tj
+/R111 11 Tf
+1 0 0 1 416.879 198.24 Tm
+($$) Tj
+/R108 11 Tf
+1 0 0 1 433.439 198.24 Tm
+(as) Tj
+1 0 0 1 445.919 198.24 Tm
+(a) Tj
+1 0 0 1 454.079 198.24 Tm
+(single) Tj
+1 0 0 1 483.599 198.24 Tm
+(dollar) Tj
+1 0 0 1 512.639 198.24 Tm
+(sign) Tj
+1 0 0 1 90 184.8 Tm
+(that) Tj
+1 0 0 1 109.2 184.8 Tm
+(is) Tj
+1 0 0 1 119.28 184.8 Tm
+(supposed) Tj
+1 0 0 1 162.72 184.8 Tm
+(to) Tj
+1 0 0 1 174 184.8 Tm
+(be) Tj
+1 0 0 1 186.96 184.8 Tm
+(included) Tj
+1 0 0 1 227.52 184.8 Tm
+(in) Tj
+1 0 0 1 238.8 184.8 Tm
+(the) Tj
+1 0 0 1 254.88 184.8 Tm
+(command.) Tj
+ET
+endstream
+endobj
+113 0 obj
+15639
+endobj
+114 0 obj
+<< /Type /Font /Name /R114 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+115 0 obj
+<< /Length 116 0 R >>
+stream
+BT
+/R114 12 Tf
+1 0 0 1 90 155.28 Tm
+(5) Tj
+1 0 0 1 107.76 155.28 Tm
+(Details) Tj
+1 0 0 1 146.16 155.28 Tm
+(of) Tj
+1 0 0 1 158.88 155.28 Tm
+(actions) Tj
+/R108 11 Tf
+1 0 0 1 90 134.16 Tm
+(By) Tj
+1 0 0 1 106.56 134.16 Tm
+(default,) Tj
+1 0 0 1 143.52 134.16 Tm
+(each) Tj
+1 0 0 1 167.52 134.16 Tm
+(action) Tj
+1 0 0 1 198 134.16 Tm
+(line) Tj
+1 0 0 1 218.16 134.16 Tm
+(speci\256ed) Tj
+1 0 0 1 260.88 134.16 Tm
+(in) Tj
+1 0 0 1 273.12 134.16 Tm
+(a) Tj
+1 0 0 1 281.76 134.16 Tm
+(rule) Tj
+1 0 0 1 302.64 134.16 Tm
+(is) Tj
+1 0 0 1 313.68 134.16 Tm
+(e) Tj
+1 0 0 1 318.24 134.16 Tm
+(x) Tj
+1 0 0 1 323.519 134.16 Tm
+(ecuted) Tj
+1 0 0 1 356.159 134.16 Tm
+(by) Tj
+1 0 0 1 370.799 134.16 Tm
+(the) Tj
+1 0 0 1 387.839 134.16 Tm
+(Bourne) Tj
+1 0 0 1 423.839 134.16 Tm
+(shell) Tj
+1 0 0 1 448.319 134.16 Tm
+(\(as) Tj
+1 0 0 1 464.879 134.16 Tm
+(opposed) Tj
+1 0 0 1 505.199 134.16 Tm
+(to) Tj
+1 0 0 1 517.439 134.16 Tm
+(the) Tj
+1 0 0 1 90 120.72 Tm
+(C) Tj
+1 0 0 1 100.56 120.72 Tm
+(shell,) Tj
+1 0 0 1 127.2 120.72 Tm
+(which,) Tj
+1 0 0 1 160.08 120.72 Tm
+(most) Tj
+1 0 0 1 184.56 120.72 Tm
+(unfortunately) Tj
+1 0 0 1 243.12 120.72 Tm
+(,) Tj
+1 0 0 1 248.88 120.72 Tm
+(is) Tj
+1 0 0 1 259.44 120.72 Tm
+(more) Tj
+1 0 0 1 285.12 120.72 Tm
+(commonly) Tj
+1 0 0 1 335.279 120.72 Tm
+(used) Tj
+1 0 0 1 358.56 120.72 Tm
+(here\).) Tj
+1 0 0 1 389.279 120.72 Tm
+(F) Tj
+1 0 0 1 395.039 120.72 Tm
+(or) Tj
+1 0 0 1 407.519 120.72 Tm
+(the) Tj
+1 0 0 1 424.079 120.72 Tm
+(simple) Tj
+1 0 0 1 456.479 120.72 Tm
+(make\256les) Tj
+1 0 0 1 501.599 120.72 Tm
+(we) Tj
+1 0 0 1 517.439 120.72 Tm
+(are) Tj
+1 0 0 1 90 107.04 Tm
+(likely) Tj
+1 0 0 1 117.6 107.04 Tm
+(to) Tj
+1 0 0 1 128.88 107.04 Tm
+(use,) Tj
+1 0 0 1 148.8 107.04 Tm
+(this) Tj
+1 0 0 1 167.52 107.04 Tm
+(will) Tj
+1 0 0 1 187.2 107.04 Tm
+(make) Tj
+1 0 0 1 213.6 107.04 Tm
+(little) Tj
+1 0 0 1 236.4 107.04 Tm
+(dif) Tj
+1 0 0 1 248.4 107.04 Tm
+(ference,) Tj
+1 0 0 1 286.08 107.04 Tm
+(b) Tj
+1 0 0 1 291.36 107.04 Tm
+(ut) Tj
+1 0 0 1 302.64 107.04 Tm
+(be) Tj
+1 0 0 1 315.6 107.04 Tm
+(prepared) Tj
+1 0 0 1 356.879 107.04 Tm
+(for) Tj
+1 0 0 1 372.239 107.04 Tm
+(surprises) Tj
+1 0 0 1 413.999 107.04 Tm
+(if) Tj
+1 0 0 1 423.359 107.04 Tm
+(you) Tj
+1 0 0 1 442.559 107.04 Tm
+(get) Tj
+1 0 0 1 458.639 107.04 Tm
+(ambitious.) Tj
+ET
+Q
+endstream
+endobj
+116 0 obj
+2219
+endobj
+105 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R114 114 0 R
+/R111 111 0 R
+/R108 108 0 R
+>>
+>>
+/Contents [
+106 0 R
+109 0 R
+112 0 R
+115 0 R
+]
+>>
+endobj
+118 0 obj
+<< /Length 119 0 R >>
+stream
+q
+endstream
+endobj
+119 0 obj
+2
+endobj
+120 0 obj
+<< /Type /Font /Name /R120 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+121 0 obj
+<< /Length 122 0 R >>
+stream
+BT
+/R120 11 Tf
+1 0 0 1 84 708 Tm
+(46) Tj
+1 0 0.167 1 461.52 708 Tm
+(P) Tj
+1 0 0.167 1 466.32 708 Tm
+(.) Tj
+1 0 0.167 1 472.08 708 Tm
+(N.) Tj
+1 0 0.167 1 485.28 708 Tm
+(Hil\256nger) Tj
+1 0 0 1 100.8 672.24 Tm
+(The) Tj
+ET
+endstream
+endobj
+122 0 obj
+220
+endobj
+123 0 obj
+<< /Type /Font /Name /R123 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+124 0 obj
+<< /Length 125 0 R >>
+stream
+BT
+/R123 11 Tf
+1 0 0 1 120.96 672.24 Tm
+(gmake) Tj
+/R120 11 Tf
+1 0 0 1 156.72 672.24 Tm
+(program) Tj
+1 0 0 1 196.8 672.24 Tm
+(usually) Tj
+1 0 0 1 231.36 672.24 Tm
+(prints) Tj
+1 0 0 1 259.2 672.24 Tm
+(each) Tj
+1 0 0 1 282.24 672.24 Tm
+(action) Tj
+1 0 0 1 312 672.24 Tm
+(as) Tj
+1 0 0 1 324 672.24 Tm
+(it) Tj
+1 0 0 1 333.119 672.24 Tm
+(is) Tj
+1 0 0 1 343.199 672.24 Tm
+(e) Tj
+1 0 0 1 347.759 672.24 Tm
+(x) Tj
+1 0 0 1 353.039 672.24 Tm
+(ecuted,) Tj
+1 0 0 1 387.599 672.24 Tm
+(b) Tj
+1 0 0 1 392.879 672.24 Tm
+(ut) Tj
+1 0 0 1 404.399 672.24 Tm
+(there) Tj
+1 0 0 1 429.119 672.24 Tm
+(are) Tj
+1 0 0 1 445.439 672.24 Tm
+(times) Tj
+1 0 0 1 472.319 672.24 Tm
+(when) Tj
+1 0 0 1 498.959 672.24 Tm
+(this) Tj
+1 0 0 1 517.679 672.24 Tm
+(is) Tj
+1 0 0 1 84 658.56 Tm
+(not) Tj
+1 0 0 1 100.32 658.56 Tm
+(desirable.) Tj
+1 0 0 1 146.4 658.56 Tm
+(Therefore,) Tj
+1 0 0 1 194.88 658.56 Tm
+(a) Tj
+1 0 0 1 202.08 658.56 Tm
+(`@') Tj
+1 0 0 1 221.76 658.56 Tm
+(character) Tj
+1 0 0 1 264.479 658.56 Tm
+(at) Tj
+1 0 0 1 274.559 658.56 Tm
+(the) Tj
+1 0 0 1 290.399 658.56 Tm
+(be) Tj
+1 0 0 1 300.479 658.56 Tm
+(ginning) Tj
+1 0 0 1 336.479 658.56 Tm
+(of) Tj
+1 0 0 1 347.999 658.56 Tm
+(an) Tj
+1 0 0 1 360.719 658.56 Tm
+(action) Tj
+1 0 0 1 389.759 658.56 Tm
+(suppresses) Tj
+1 0 0 1 438.959 658.56 Tm
+(the) Tj
+1 0 0 1 454.799 658.56 Tm
+(default) Tj
+1 0 0 1 487.439 658.56 Tm
+(printing.) Tj
+1 0 0 1 84 645.12 Tm
+(Here) Tj
+1 0 0 1 108 645.12 Tm
+(is) Tj
+1 0 0 1 118.08 645.12 Tm
+(an) Tj
+1 0 0 1 131.04 645.12 Tm
+(e) Tj
+1 0 0 1 135.6 645.12 Tm
+(xample) Tj
+1 0 0 1 170.88 645.12 Tm
+(of) Tj
+1 0 0 1 182.64 645.12 Tm
+(a) Tj
+1 0 0 1 190.32 645.12 Tm
+(common) Tj
+1 0 0 1 231.36 645.12 Tm
+(use.) Tj
+/R123 11 Tf
+1 0 0 1 110.16 618.72 Tm
+(edit) Tj
+1 0 0 1 143.04 618.72 Tm
+(:) Tj
+1 0 0 1 156.24 618.72 Tm
+($\(OBJS\)) Tj
+1 0 0 1 162.96 605.28 Tm
+(@echo) Tj
+1 0 0 1 202.32 605.28 Tm
+(Linking) Tj
+1 0 0 1 254.88 605.28 Tm
+(edit) Tj
+1 0 0 1 287.76 605.28 Tm
+(...) Tj
+1 0 0 1 162.96 591.6 Tm
+(@g++) Tj
+1 0 0 1 195.84 591.6 Tm
+(-g) Tj
+1 0 0 1 215.52 591.6 Tm
+(-o) Tj
+1 0 0 1 235.2 591.6 Tm
+(edit) Tj
+1 0 0 1 268.08 591.6 Tm
+($\(OBJS\)) Tj
+1 0 0 1 162.96 578.16 Tm
+(@echo) Tj
+1 0 0 1 202.32 578.16 Tm
+(Done) Tj
+/R120 11 Tf
+1 0 0 1 84 552.48 Tm
+(The) Tj
+1 0 0 1 103.44 552.48 Tm
+(result) Tj
+1 0 0 1 130.56 552.48 Tm
+(of) Tj
+1 0 0 1 142.08 552.48 Tm
+(these) Tj
+1 0 0 1 167.28 552.48 Tm
+(actions) Tj
+1 0 0 1 200.88 552.48 Tm
+(is) Tj
+1 0 0 1 210.72 552.48 Tm
+(that) Tj
+1 0 0 1 229.68 552.48 Tm
+(when) Tj
+/R123 11 Tf
+1 0 0 1 255.84 552.48 Tm
+(gmake) Tj
+/R120 11 Tf
+1 0 0 1 291.359 552.48 Tm
+(e) Tj
+1 0 0 1 295.919 552.48 Tm
+(x) Tj
+1 0 0 1 301.199 552.48 Tm
+(ecutes) Tj
+1 0 0 1 331.439 552.48 Tm
+(this) Tj
+1 0 0 1 349.679 552.48 Tm
+(\256nal) Tj
+1 0 0 1 371.759 552.48 Tm
+(editing) Tj
+1 0 0 1 404.639 552.48 Tm
+(step) Tj
+1 0 0 1 425.039 552.48 Tm
+(for) Tj
+1 0 0 1 440.399 552.48 Tm
+(the) Tj
+/R123 11 Tf
+1 0 0 1 456.239 552.48 Tm
+(edit) Tj
+/R120 11 Tf
+1 0 0 1 485.039 552.48 Tm
+(program,) Tj
+1 0 0 1 84 539.04 Tm
+(the) Tj
+1 0 0 1 100.08 539.04 Tm
+(only) Tj
+1 0 0 1 122.16 539.04 Tm
+(thing) Tj
+1 0 0 1 147.36 539.04 Tm
+(you'll) Tj
+1 0 0 1 175.92 539.04 Tm
+(see) Tj
+1 0 0 1 192.48 539.04 Tm
+(printed) Tj
+1 0 0 1 226.32 539.04 Tm
+(is) Tj
+1 0 0 1 236.16 539.04 Tm
+(a) Tj
+1 0 0 1 243.6 539.04 Tm
+(line) Tj
+1 0 0 1 262.8 539.04 Tm
+(reading) Tj
+1 0 0 1 298.319 539.04 Tm
+(\252) Tj
+/R123 11 Tf
+1 0 0 1 303.119 539.04 Tm
+(Linking) Tj
+1 0 0 1 355.679 539.04 Tm
+(edit...) Tj
+/R120 11 Tf
+1 0 0 1 401.039 539.04 Tm
+(\272) Tj
+1 0 0 1 410.639 539.04 Tm
+(and,) Tj
+1 0 0 1 431.759 539.04 Tm
+(at) Tj
+1 0 0 1 442.319 539.04 Tm
+(the) Tj
+1 0 0 1 458.399 539.04 Tm
+(end) Tj
+1 0 0 1 476.879 539.04 Tm
+(of) Tj
+1 0 0 1 488.639 539.04 Tm
+(the) Tj
+1 0 0 1 504.479 539.04 Tm
+(step,) Tj
+1 0 0 1 84 525.36 Tm
+(a) Tj
+1 0 0 1 91.6799 525.36 Tm
+(line) Tj
+1 0 0 1 110.64 525.36 Tm
+(reading) Tj
+1 0 0 1 146.4 525.36 Tm
+(\252) Tj
+/R123 11 Tf
+1 0 0 1 151.2 525.36 Tm
+(Done) Tj
+/R120 11 Tf
+1 0 0 1 177.12 525.36 Tm
+(\272.) Tj
+1 0 0 1 100.8 511.2 Tm
+(When) Tj
+/R123 11 Tf
+1 0 0 1 130.56 511.2 Tm
+(gmake) Tj
+/R120 11 Tf
+1 0 0 1 166.8 511.2 Tm
+(encounters) Tj
+1 0 0 1 217.68 511.2 Tm
+(an) Tj
+1 0 0 1 231.6 511.2 Tm
+(action) Tj
+1 0 0 1 261.84 511.2 Tm
+(that) Tj
+1 0 0 1 281.52 511.2 Tm
+(returns) Tj
+1 0 0 1 315.6 511.2 Tm
+(a) Tj
+1 0 0 1 323.76 511.2 Tm
+(non-zero) Tj
+1 0 0 1 366.239 511.2 Tm
+(e) Tj
+1 0 0 1 370.799 511.2 Tm
+(xit) Tj
+1 0 0 1 385.919 511.2 Tm
+(code,) Tj
+1 0 0 1 413.039 511.2 Tm
+(the) Tj
+1 0 0 1 429.839 511.2 Tm
+(UNIX) Tj
+1 0 0 1 460.559 511.2 Tm
+(con) Tj
+1 0 0 1 475.919 511.2 Tm
+(v) Tj
+1 0 0 1 481.199 511.2 Tm
+(ention) Tj
+1 0 0 1 512.159 511.2 Tm
+(for) Tj
+1 0 0 1 84 497.52 Tm
+(indicating) Tj
+1 0 0 1 130.32 497.52 Tm
+(an) Tj
+1 0 0 1 143.28 497.52 Tm
+(error) Tj
+1 0 0 1 163.92 497.52 Tm
+(,) Tj
+1 0 0 1 169.2 497.52 Tm
+(its) Tj
+1 0 0 1 182.16 497.52 Tm
+(standard) Tj
+1 0 0 1 221.76 497.52 Tm
+(response) Tj
+1 0 0 1 262.8 497.52 Tm
+(is) Tj
+1 0 0 1 272.4 497.52 Tm
+(to) Tj
+1 0 0 1 283.439 497.52 Tm
+(end) Tj
+1 0 0 1 301.919 497.52 Tm
+(processing) Tj
+1 0 0 1 351.359 497.52 Tm
+(and) Tj
+1 0 0 1 369.599 497.52 Tm
+(e) Tj
+1 0 0 1 374.159 497.52 Tm
+(xit.) Tj
+1 0 0 1 392.399 497.52 Tm
+(The) Tj
+1 0 0 1 412.079 497.52 Tm
+(error) Tj
+1 0 0 1 435.839 497.52 Tm
+(codes) Tj
+1 0 0 1 463.199 497.52 Tm
+(of) Tj
+1 0 0 1 474.959 497.52 Tm
+(action) Tj
+1 0 0 1 504.239 497.52 Tm
+(lines) Tj
+1 0 0 1 84 484.08 Tm
+(that) Tj
+1 0 0 1 103.68 484.08 Tm
+(be) Tj
+1 0 0 1 113.76 484.08 Tm
+(gin) Tj
+1 0 0 1 131.04 484.08 Tm
+(with) Tj
+1 0 0 1 153.84 484.08 Tm
+(a) Tj
+1 0 0 1 161.76 484.08 Tm
+(`-') Tj
+1 0 0 1 176.16 484.08 Tm
+(sign) Tj
+1 0 0 1 197.52 484.08 Tm
+(\(possibly) Tj
+1 0 0 1 240.96 484.08 Tm
+(preceded) Tj
+1 0 0 1 283.68 484.08 Tm
+(by) Tj
+1 0 0 1 298.08 484.08 Tm
+(a) Tj
+1 0 0 1 306 484.08 Tm
+(`@'\)) Tj
+1 0 0 1 330.239 484.08 Tm
+(are) Tj
+1 0 0 1 347.039 484.08 Tm
+(ignored.) Tj
+1 0 0 1 388.559 484.08 Tm
+(Also,) Tj
+1 0 0 1 415.439 484.08 Tm
+(the) Tj
+/R123 11 Tf
+1 0 0 1 431.999 484.08 Tm
+(-k) Tj
+/R120 11 Tf
+1 0 0 1 448.559 484.08 Tm
+(switch) Tj
+1 0 0 1 480.239 484.08 Tm
+(to) Tj
+/R123 11 Tf
+1 0 0 1 491.999 484.08 Tm
+(gmake) Tj
+/R120 11 Tf
+1 0 0 1 84 470.4 Tm
+(will) Tj
+1 0 0 1 104.16 470.4 Tm
+(cause) Tj
+1 0 0 1 131.52 470.4 Tm
+(it) Tj
+1 0 0 1 140.88 470.4 Tm
+(to) Tj
+1 0 0 1 152.4 470.4 Tm
+(abandon) Tj
+1 0 0 1 192.72 470.4 Tm
+(processing) Tj
+1 0 0 1 242.64 470.4 Tm
+(only) Tj
+1 0 0 1 265.2 470.4 Tm
+(of) Tj
+1 0 0 1 277.44 470.4 Tm
+(the) Tj
+1 0 0 1 294 470.4 Tm
+(current) Tj
+1 0 0 1 328.08 470.4 Tm
+(rule) Tj
+1 0 0 1 348.239 470.4 Tm
+(\(and) Tj
+1 0 0 1 370.799 470.4 Tm
+(an) Tj
+1 0 0 1 380.879 470.4 Tm
+(y) Tj
+1 0 0 1 389.759 470.4 Tm
+(that) Tj
+1 0 0 1 409.199 470.4 Tm
+(depend) Tj
+1 0 0 1 443.999 470.4 Tm
+(on) Tj
+1 0 0 1 458.159 470.4 Tm
+(its) Tj
+1 0 0 1 471.599 470.4 Tm
+(tar) Tj
+1 0 0 1 482.879 470.4 Tm
+(get\)) Tj
+1 0 0 1 503.039 470.4 Tm
+(upon) Tj
+1 0 0 1 84 456.96 Tm
+(encountering) Tj
+1 0 0 1 144 456.96 Tm
+(an) Tj
+1 0 0 1 156.96 456.96 Tm
+(error) Tj
+1 0 0 1 177.6 456.96 Tm
+(,) Tj
+1 0 0 1 183.36 456.96 Tm
+(allo) Tj
+1 0 0 1 199.68 456.96 Tm
+(wing) Tj
+1 0 0 1 224.16 456.96 Tm
+(processing) Tj
+1 0 0 1 273.84 456.96 Tm
+(of) Tj
+1 0 0 1 285.6 456.96 Tm
+(\252sibling\272) Tj
+1 0 0 1 327.839 456.96 Tm
+(rules) Tj
+1 0 0 1 352.079 456.96 Tm
+(to) Tj
+1 0 0 1 363.359 456.96 Tm
+(proceed.) Tj
+ET
+endstream
+endobj
+125 0 obj
+7182
+endobj
+126 0 obj
+<< /Type /Font /Name /R126 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+127 0 obj
+<< /Length 128 0 R >>
+stream
+BT
+/R126 12 Tf
+1 0 0 1 84 422.4 Tm
+(6) Tj
+1 0 0 1 102 422.4 Tm
+(Cr) Tj
+1 0 0 1 115.68 422.4 Tm
+(eating) Tj
+1 0 0 1 149.76 422.4 Tm
+(make\256les) Tj
+/R120 11 Tf
+1 0 0 1 84 399.84 Tm
+(A) Tj
+1 0 0 1 95.5199 399.84 Tm
+(good) Tj
+1 0 0 1 120.96 399.84 Tm
+(way) Tj
+1 0 0 1 142.8 399.84 Tm
+(to) Tj
+1 0 0 1 155.04 399.84 Tm
+(create) Tj
+1 0 0 1 184.8 399.84 Tm
+(make\256les) Tj
+1 0 0 1 230.16 399.84 Tm
+(is) Tj
+1 0 0 1 241.2 399.84 Tm
+(to) Tj
+1 0 0 1 253.44 399.84 Tm
+(ha) Tj
+1 0 0 1 263.52 399.84 Tm
+(v) Tj
+1 0 0 1 268.8 399.84 Tm
+(e) Tj
+1 0 0 1 277.199 399.84 Tm
+(a) Tj
+1 0 0 1 285.839 399.84 Tm
+(template) Tj
+1 0 0 1 327.119 399.84 Tm
+(that) Tj
+1 0 0 1 347.279 399.84 Tm
+(you) Tj
+1 0 0 1 367.199 399.84 Tm
+(include) Tj
+1 0 0 1 403.199 399.84 Tm
+(in) Tj
+1 0 0 1 415.199 399.84 Tm
+(your) Tj
+1 0 0 1 438.959 399.84 Tm
+(particular) Tj
+1 0 0 1 484.559 399.84 Tm
+(make\256le.) Tj
+1 0 0 1 84 386.4 Tm
+(Something) Tj
+1 0 0 1 134.16 386.4 Tm
+(like) Tj
+1 0 0 1 152.88 386.4 Tm
+(the) Tj
+1 0 0 1 168.96 386.4 Tm
+(e) Tj
+1 0 0 1 173.52 386.4 Tm
+(xample) Tj
+1 0 0 1 208.56 386.4 Tm
+(in) Tj
+1 0 0 1 219.6 386.4 Tm
+(Figure) Tj
+1 0 0 1 250.8 386.4 Tm
+(1,) Tj
+1 0 0 1 261.84 386.4 Tm
+(for) Tj
+1 0 0 1 277.199 386.4 Tm
+(e) Tj
+1 0 0 1 281.759 386.4 Tm
+(xample.) Tj
+1 0 0 1 320.879 386.4 Tm
+(Y) Tj
+1 0 0 1 327.599 386.4 Tm
+(ou) Tj
+1 0 0 1 341.039 386.4 Tm
+(ha) Tj
+1 0 0 1 351.119 386.4 Tm
+(v) Tj
+1 0 0 1 356.399 386.4 Tm
+(e) Tj
+1 0 0 1 363.839 386.4 Tm
+(one) Tj
+1 0 0 1 382.319 386.4 Tm
+(or) Tj
+1 0 0 1 394.079 386.4 Tm
+(more) Tj
+1 0 0 1 419.279 386.4 Tm
+(of) Tj
+1 0 0 1 431.039 386.4 Tm
+(these) Tj
+1 0 0 1 455.999 386.4 Tm
+(for) Tj
+1 0 0 1 471.599 386.4 Tm
+(v) Tj
+1 0 0 1 476.879 386.4 Tm
+(arious) Tj
+1 0 0 1 506.159 386.4 Tm
+(uses) Tj
+1 0 0 1 84 372.72 Tm
+(\(C++) Tj
+1 0 0 1 109.92 372.72 Tm
+(programs,) Tj
+1 0 0 1 156.72 372.72 Tm
+(Ja) Tj
+1 0 0 1 165.6 372.72 Tm
+(v) Tj
+1 0 0 1 170.88 372.72 Tm
+(a) Tj
+1 0 0 1 178.32 372.72 Tm
+(programs,) Tj
+1 0 0 1 225.12 372.72 Tm
+(etc.\).) Tj
+1 0 0 1 250.8 372.72 Tm
+(F) Tj
+1 0 0 1 256.56 372.72 Tm
+(or) Tj
+1 0 0 1 268.559 372.72 Tm
+(an) Tj
+1 0 0 1 278.639 372.72 Tm
+(y) Tj
+1 0 0 1 286.799 372.72 Tm
+(particular) Tj
+1 0 0 1 331.439 372.72 Tm
+(program,) Tj
+1 0 0 1 373.919 372.72 Tm
+(your) Tj
+1 0 0 1 396.719 372.72 Tm
+(make\256le) Tj
+1 0 0 1 436.799 372.72 Tm
+(might) Tj
+1 0 0 1 465.119 372.72 Tm
+(then) Tj
+1 0 0 1 486.479 372.72 Tm
+(look) Tj
+1 0 0 1 508.559 372.72 Tm
+(like) Tj
+1 0 0 1 84 359.28 Tm
+(the) Tj
+1 0 0 1 100.08 359.28 Tm
+(follo) Tj
+1 0 0 1 120.72 359.28 Tm
+(wing) Tj
+1 0 0 1 145.2 359.28 Tm
+(e) Tj
+1 0 0 1 149.76 359.28 Tm
+(xample:) Tj
+/R123 11 Tf
+1 0 0 1 105.84 333.6 Tm
+(PROGRAM) Tj
+1 0 0 1 158.4 333.6 Tm
+(=) Tj
+1 0 0 1 171.6 333.6 Tm
+(edit) Tj
+1 0 0 1 105.84 306.48 Tm
+(CXX_SRCS) Tj
+1 0 0 1 165.12 306.48 Tm
+(=) Tj
+1 0 0 1 178.32 306.48 Tm
+(edit.cc) Tj
+1 0 0 1 230.88 306.48 Tm
+(kbd.cc) Tj
+1 0 0 1 276.719 306.48 Tm
+(commands) Tj
+1 0 0 1 328.799 306.48 Tm
+(.cc) Tj
+1 0 0 1 355.679 306.48 Tm
+(display.c) Tj
+1 0 0 1 414.239 306.48 Tm
+(c) Tj
+1 0 0 1 428.159 306.48 Tm
+(\\) Tj
+1 0 0 1 178.32 293.04 Tm
+(insert.cc) Tj
+1 0 0 1 243.84 293.04 Tm
+(search.c) Tj
+1 0 0 1 295.92 293.04 Tm
+(c) Tj
+1 0 0 1 309.6 293.04 Tm
+(files.cc) Tj
+1 0 0 1 368.879 293.04 Tm
+(utils.cc) Tj
+1 0 0 1 105.84 265.92 Tm
+(include) Tj
+1 0 0 1 158.4 265.92 Tm
+($\(HOME\)/l) Tj
+1 0 0 1 216.96 265.92 Tm
+(ib) Tj
+1 0 0 1 230.16 265.92 Tm
+(/Ma) Tj
+1 0 0 1 249.84 265.92 Tm
+(ke) Tj
+1 0 0 1 263.039 265.92 Tm
+(fil) Tj
+1 0 0 1 282.719 265.92 Tm
+(e.) Tj
+1 0 0 1 295.919 265.92 Tm
+(std) Tj
+/R120 11 Tf
+1 0 0 1 84 240.24 Tm
+(W) Tj
+1 0 0 1 93.36 240.24 Tm
+(e) Tj
+1 0 0 1 101.28 240.24 Tm
+(will) Tj
+1 0 0 1 121.2 240.24 Tm
+(maintain) Tj
+1 0 0 1 162.48 240.24 Tm
+(a) Tj
+1 0 0 1 170.16 240.24 Tm
+(template) Tj
+1 0 0 1 210.96 240.24 Tm
+(like) Tj
+1 0 0 1 230.16 240.24 Tm
+(this) Tj
+1 0 0 1 248.88 240.24 Tm
+(in) Tj
+/R123 11 Tf
+1 0 0 1 260.4 240.24 Tm
+($MASTERDIR) Tj
+1 0 0 1 325.439 240.24 Tm
+(/l) Tj
+1 0 0 1 338.639 240.24 Tm
+(ib/) Tj
+1 0 0 1 358.319 240.24 Tm
+(Ma) Tj
+1 0 0 1 371.519 240.24 Tm
+(kef) Tj
+1 0 0 1 391.199 240.24 Tm
+(il) Tj
+1 0 0 1 404.399 240.24 Tm
+(e.s) Tj
+1 0 0 1 424.079 240.24 Tm
+(td) Tj
+/R120 11 Tf
+1 0 0 1 437.279 240.24 Tm
+(,) Tj
+1 0 0 1 443.519 240.24 Tm
+(which) Tj
+1 0 0 1 473.279 240.24 Tm
+(you) Tj
+1 0 0 1 492.719 240.24 Tm
+(include) Tj
+1 0 0 1 84 226.8 Tm
+(with) Tj
+/R123 11 Tf
+1 0 0 1 105.84 201.12 Tm
+(include) Tj
+1 0 0 1 158.4 201.12 Tm
+($\(MASTERD) Tj
+1 0 0 1 216.96 201.12 Tm
+(IR) Tj
+1 0 0 1 230.16 201.12 Tm
+(\)/l) Tj
+1 0 0 1 249.84 201.12 Tm
+(ib) Tj
+1 0 0 1 263.039 201.12 Tm
+(/Ma) Tj
+1 0 0 1 282.719 201.12 Tm
+(ke) Tj
+1 0 0 1 295.919 201.12 Tm
+(fil) Tj
+1 0 0 1 315.599 201.12 Tm
+(e.) Tj
+1 0 0 1 328.799 201.12 Tm
+(std) Tj
+/R120 11 Tf
+1 0 0 1 84 175.68 Tm
+(\(always) Tj
+1 0 0 1 122.16 175.68 Tm
+(assuming,) Tj
+1 0 0 1 170.88 175.68 Tm
+(that) Tj
+1 0 0 1 191.76 175.68 Tm
+(is,) Tj
+1 0 0 1 206.4 175.68 Tm
+(that) Tj
+1 0 0 1 227.28 175.68 Tm
+(you) Tj
+1 0 0 1 247.92 175.68 Tm
+(use) Tj
+1 0 0 1 266.88 175.68 Tm
+(the) Tj
+1 0 0 1 284.64 175.68 Tm
+(standard) Tj
+1 0 0 1 325.92 175.68 Tm
+(class) Tj
+1 0 0 1 351.6 175.68 Tm
+(setup) Tj
+1 0 0 1 378.96 175.68 Tm
+(\256les,) Tj
+1 0 0 1 404.639 175.68 Tm
+(which) Tj
+1 0 0 1 435.839 175.68 Tm
+(set) Tj
+1 0 0 1 452.399 175.68 Tm
+(the) Tj
+1 0 0 1 469.919 175.68 Tm
+(en) Tj
+1 0 0 1 479.759 175.68 Tm
+(vironment) Tj
+1 0 0 1 84 162 Tm
+(v) Tj
+1 0 0 1 89.28 162 Tm
+(ariables) Tj
+1 0 0 1 126 162 Tm
+(MASTER) Tj
+1 0 0 1 173.28 162 Tm
+(and) Tj
+1 0 0 1 191.76 162 Tm
+(MASTERDIR) Tj
+1 0 0 1 257.76 162 Tm
+(to) Tj
+1 0 0 1 269.04 162 Tm
+(the) Tj
+1 0 0 1 285.12 162 Tm
+(CS61B) Tj
+1 0 0 1 319.68 162 Tm
+(home) Tj
+1 0 0 1 346.799 162 Tm
+(directory) Tj
+1 0 0 1 385.679 162 Tm
+(.\)) Tj
+1 0 0 1 100.8 147.84 Tm
+(As) Tj
+1 0 0 1 115.68 147.84 Tm
+(a) Tj
+1 0 0 1 123.36 147.84 Tm
+(\256nal) Tj
+1 0 0 1 145.44 147.84 Tm
+(con) Tj
+1 0 0 1 160.8 147.84 Tm
+(v) Tj
+1 0 0 1 166.08 147.84 Tm
+(enience,) Tj
+1 0 0 1 205.2 147.84 Tm
+(the) Tj
+/R123 11 Tf
+1 0 0 1 221.28 147.84 Tm
+(-MM) Tj
+/R120 11 Tf
+1 0 0 1 243.84 147.84 Tm
+(option) Tj
+1 0 0 1 274.56 147.84 Tm
+(to) Tj
+/R123 11 Tf
+1 0 0 1 285.6 147.84 Tm
+(gcc) Tj
+/R120 11 Tf
+1 0 0 1 308.159 147.84 Tm
+(creates) Tj
+1 0 0 1 341.279 147.84 Tm
+(dependenc) Tj
+1 0 0 1 387.839 147.84 Tm
+(y) Tj
+1 0 0 1 396.239 147.84 Tm
+(lines) Tj
+1 0 0 1 419.519 147.84 Tm
+(for) Tj
+1 0 0 1 435.119 147.84 Tm
+(C) Tj
+1 0 0 1 444.959 147.84 Tm
+(and) Tj
+1 0 0 1 463.679 147.84 Tm
+(C++) Tj
+1 0 0 1 485.999 147.84 Tm
+(automat-) Tj
+1 0 0 1 84 134.16 Tm
+(ically) Tj
+1 0 0 1 107.76 134.16 Tm
+(.) Tj
+1 0 0 1 117.36 134.16 Tm
+(The) Tj
+1 0 0 1 138 134.16 Tm
+(template) Tj
+1 0 0 1 179.52 134.16 Tm
+(sho) Tj
+1 0 0 1 194.64 134.16 Tm
+(wn) Tj
+1 0 0 1 211.44 134.16 Tm
+(in) Tj
+1 0 0 1 223.92 134.16 Tm
+(Figure) Tj
+1 0 0 1 256.08 134.16 Tm
+(1) Tj
+1 0 0 1 265.44 134.16 Tm
+(uses) Tj
+1 0 0 1 288 134.16 Tm
+(this) Tj
+1 0 0 1 307.44 134.16 Tm
+(to) Tj
+1 0 0 1 319.68 134.16 Tm
+(automatically) Tj
+1 0 0 1 383.039 134.16 Tm
+(generate) Tj
+1 0 0 1 424.079 134.16 Tm
+(a) Tj
+1 0 0 1 432.479 134.16 Tm
+(\256le) Tj
+1 0 0 1 450.239 134.16 Tm
+(of) Tj
+1 0 0 1 463.199 134.16 Tm
+(dependencies.) Tj
+1 0 0 1 84 120.72 Tm
+(modi\256ed) Tj
+1 0 0 1 127.68 120.72 Tm
+(make\256le.) Tj
+1 0 0 1 177.6 120.72 Tm
+(The) Tj
+/R123 11 Tf
+1 0 0 1 199.44 120.72 Tm
+(depend) Tj
+/R120 11 Tf
+1 0 0 1 243.6 120.72 Tm
+(special) Tj
+1 0 0 1 278.64 120.72 Tm
+(tar) Tj
+1 0 0 1 289.919 120.72 Tm
+(get) Tj
+1 0 0 1 308.159 120.72 Tm
+(in) Tj
+1 0 0 1 321.359 120.72 Tm
+(in) Tj
+1 0 0 1 334.559 120.72 Tm
+(that) Tj
+1 0 0 1 355.679 120.72 Tm
+(\256le) Tj
+1 0 0 1 374.159 120.72 Tm
+(allo) Tj
+1 0 0 1 390.479 120.72 Tm
+(ws) Tj
+1 0 0 1 407.279 120.72 Tm
+(you) Tj
+1 0 0 1 428.399 120.72 Tm
+(to) Tj
+1 0 0 1 441.599 120.72 Tm
+(recreate) Tj
+1 0 0 1 480.959 120.72 Tm
+(the) Tj
+1 0 0 1 498.959 120.72 Tm
+(set) Tj
+1 0 0 1 515.759 120.72 Tm
+(of) Tj
+1 0 0 1 84 107.04 Tm
+(dependencies) Tj
+1 0 0 1 145.68 107.04 Tm
+(when) Tj
+1 0 0 1 172.32 107.04 Tm
+(needed) Tj
+1 0 0 1 205.92 107.04 Tm
+(by) Tj
+1 0 0 1 219.6 107.04 Tm
+(typing) Tj
+1 0 0 1 250.32 107.04 Tm
+(`) Tj
+/R123 11 Tf
+1 0 0 1 253.92 107.04 Tm
+(gmake) Tj
+1 0 0 1 293.52 107.04 Tm
+(depend) Tj
+/R120 11 Tf
+1 0 0 1 332.399 107.04 Tm
+('.) Tj
+ET
+Q
+endstream
+endobj
+128 0 obj
+8054
+endobj
+117 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R126 126 0 R
+/R123 123 0 R
+/R120 120 0 R
+>>
+>>
+/Contents [
+118 0 R
+121 0 R
+124 0 R
+127 0 R
+]
+>>
+endobj
+130 0 obj
+<< /Length 131 0 R >>
+stream
+q
+endstream
+endobj
+131 0 obj
+2
+endobj
+132 0 obj
+<< /Type /Font /Name /R132 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+133 0 obj
+<< /Length 134 0 R >>
+stream
+BT
+/R132 11 Tf
+1 0 0.167 1 90 708 Tm
+(Basic) Tj
+1 0 0.167 1 117.12 708 Tm
+(Compilation) Tj
+1 0 0.167 1 174.48 708 Tm
+(Control) Tj
+1 0 0.167 1 210.72 708 Tm
+(with) Tj
+ET
+endstream
+endobj
+134 0 obj
+169
+endobj
+135 0 obj
+<< /Type /Font /Name /R135 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+136 0 obj
+<< /Length 137 0 R >>
+stream
+BT
+/R135 11 Tf
+1 0 0 1 233.04 708 Tm
+(Gmake) Tj
+/R132 11 Tf
+1 0 0 1 520.08 708 Tm
+(47) Tj
+/R135 9 Tf
+1 0 0 1 107.76 670.56 Tm
+(#) Tj
+1 0 0 1 118.56 670.56 Tm
+(Standard) Tj
+1 0 0 1 167.04 670.56 Tm
+(definitio) Tj
+1 0 0 1 214.8 670.56 Tm
+(ns) Tj
+1 0 0 1 231.6 670.56 Tm
+(for) Tj
+1 0 0 1 253.199 670.56 Tm
+(make) Tj
+1 0 0 1 280.079 670.56 Tm
+(utility:) Tj
+1 0 0 1 328.319 670.56 Tm
+(C++) Tj
+1 0 0 1 349.919 670.56 Tm
+(version.) Tj
+1 0 0 1 107.76 648.72 Tm
+(#) Tj
+1 0 0 1 118.56 648.72 Tm
+(Assumes) Tj
+1 0 0 1 161.76 648.72 Tm
+(that) Tj
+1 0 0 1 188.64 648.72 Tm
+(this) Tj
+1 0 0 1 215.52 648.72 Tm
+(file) Tj
+1 0 0 1 242.399 648.72 Tm
+(is) Tj
+1 0 0 1 258.479 648.72 Tm
+(included) Tj
+1 0 0 1 306.959 648.72 Tm
+(from) Tj
+1 0 0 1 333.839 648.72 Tm
+(a) Tj
+1 0 0 1 344.639 648.72 Tm
+(Makefile) Tj
+1 0 0 1 392.879 648.72 Tm
+(that) Tj
+1 0 0 1 419.999 648.72 Tm
+(defines) Tj
+1 0 0 1 107.76 637.68 Tm
+(#) Tj
+1 0 0 1 118.56 637.68 Tm
+(PROGRAM) Tj
+1 0 0 1 161.76 637.68 Tm
+(to) Tj
+1 0 0 1 177.84 637.68 Tm
+(be) Tj
+1 0 0 1 193.92 637.68 Tm
+(the) Tj
+1 0 0 1 215.52 637.68 Tm
+(name) Tj
+1 0 0 1 242.399 637.68 Tm
+(of) Tj
+1 0 0 1 258.479 637.68 Tm
+(the) Tj
+1 0 0 1 280.079 637.68 Tm
+(program) Tj
+1 0 0 1 323.039 637.68 Tm
+(to) Tj
+1 0 0 1 339.119 637.68 Tm
+(be) Tj
+1 0 0 1 355.439 637.68 Tm
+(created) Tj
+1 0 0 1 398.399 637.68 Tm
+(and) Tj
+1 0 0 1 419.999 637.68 Tm
+(CXX_SRCS) Tj
+1 0 0 1 107.76 626.64 Tm
+(#) Tj
+1 0 0 1 118.56 626.64 Tm
+(to) Tj
+1 0 0 1 134.88 626.64 Tm
+(the) Tj
+1 0 0 1 156.24 626.64 Tm
+(list) Tj
+1 0 0 1 183.12 626.64 Tm
+(of) Tj
+1 0 0 1 199.44 626.64 Tm
+(C++) Tj
+1 0 0 1 220.8 626.64 Tm
+(source) Tj
+1 0 0 1 258.479 626.64 Tm
+(files) Tj
+1 0 0 1 290.879 626.64 Tm
+(that) Tj
+1 0 0 1 317.759 626.64 Tm
+(go) Tj
+1 0 0 1 333.839 626.64 Tm
+(into) Tj
+1 0 0 1 360.719 626.64 Tm
+(it.) Tj
+1 0 0 1 107.76 615.84 Tm
+(#) Tj
+1 0 0 1 118.56 615.84 Tm
+(The) Tj
+1 0 0 1 140.16 615.84 Tm
+(including) Tj
+1 0 0 1 193.92 615.84 Tm
+(Makefile) Tj
+1 0 0 1 242.399 615.84 Tm
+(may) Tj
+1 0 0 1 263.999 615.84 Tm
+(subsequent) Tj
+1 0 0 1 317.039 615.84 Tm
+(ly) Tj
+1 0 0 1 333.839 615.84 Tm
+(override) Tj
+1 0 0 1 382.319 615.84 Tm
+(CXXFLAGS) Tj
+1 0 0 1 430.559 615.84 Tm
+(\(flags) Tj
+1 0 0 1 468.239 615.84 Tm
+(to) Tj
+1 0 0 1 107.76 604.8 Tm
+(#) Tj
+1 0 0 1 118.56 604.8 Tm
+(the) Tj
+1 0 0 1 140.16 604.8 Tm
+(C++) Tj
+1 0 0 1 161.76 604.8 Tm
+(compiler\),) Tj
+1 0 0 1 220.8 604.8 Tm
+(LOADLIBE) Tj
+1 0 0 1 263.279 604.8 Tm
+(S) Tj
+1 0 0 1 274.559 604.8 Tm
+(\(-l) Tj
+1 0 0 1 296.159 604.8 Tm
+(options) Tj
+1 0 0 1 339.119 604.8 Tm
+(for) Tj
+1 0 0 1 360.719 604.8 Tm
+(the) Tj
+1 0 0 1 382.319 604.8 Tm
+(linker\),) Tj
+1 0 0 1 430.559 604.8 Tm
+(LDFLAGS) Tj
+1 0 0 1 107.76 593.76 Tm
+(#) Tj
+1 0 0 1 118.56 593.76 Tm
+(\(flags) Tj
+1 0 0 1 156.24 593.76 Tm
+(to) Tj
+1 0 0 1 172.32 593.76 Tm
+(the) Tj
+1 0 0 1 193.92 593.76 Tm
+(linker\),) Tj
+1 0 0 1 242.399 593.76 Tm
+(and) Tj
+1 0 0 1 263.999 593.76 Tm
+(CXX) Tj
+1 0 0 1 285.359 593.76 Tm
+(\(the) Tj
+1 0 0 1 312.239 593.76 Tm
+(C++) Tj
+1 0 0 1 333.839 593.76 Tm
+(compiler\)) Tj
+1 0 0 1 381.599 593.76 Tm
+(.) Tj
+1 0 0 1 107.76 571.92 Tm
+(#) Tj
+1 0 0 1 118.56 571.92 Tm
+(Targets) Tj
+1 0 0 1 161.76 571.92 Tm
+(defined:) Tj
+1 0 0 1 107.76 560.88 Tm
+(#) Tj
+1 0 0 1 134.88 560.88 Tm
+(all:) Tj
+1 0 0 1 177.84 560.88 Tm
+(Default) Tj
+1 0 0 1 220.8 560.88 Tm
+(entry.) Tj
+1 0 0 1 264 560.88 Tm
+(Compiles) Tj
+1 0 0 1 312.239 560.88 Tm
+(the) Tj
+1 0 0 1 333.839 560.88 Tm
+(program) Tj
+1 0 0 1 107.76 550.08 Tm
+(#) Tj
+1 0 0 1 134.88 550.08 Tm
+(depend:) Tj
+1 0 0 1 177.84 550.08 Tm
+(Recompute) Tj
+1 0 0 1 225.6 550.08 Tm
+(s) Tj
+1 0 0 1 236.88 550.08 Tm
+(dependen) Tj
+1 0 0 1 279.359 550.08 Tm
+(ci) Tj
+1 0 0 1 290.159 550.08 Tm
+(es) Tj
+1 0 0 1 306.959 550.08 Tm
+(on) Tj
+1 0 0 1 323.039 550.08 Tm
+(.h) Tj
+1 0 0 1 339.119 550.08 Tm
+(files.) Tj
+1 0 0 1 107.76 539.04 Tm
+(#) Tj
+1 0 0 1 134.88 539.04 Tm
+(clean:) Tj
+1 0 0 1 177.84 539.04 Tm
+(Remove) Tj
+1 0 0 1 215.52 539.04 Tm
+(back-up) Tj
+1 0 0 1 258.479 539.04 Tm
+(files) Tj
+1 0 0 1 290.879 539.04 Tm
+(and) Tj
+1 0 0 1 312.239 539.04 Tm
+(files) Tj
+1 0 0 1 344.639 539.04 Tm
+(that) Tj
+1 0 0 1 371.519 539.04 Tm
+(make) Tj
+1 0 0 1 398.399 539.04 Tm
+(can) Tj
+1 0 0 1 419.999 539.04 Tm
+(reconstruc) Tj
+1 0 0 1 473.039 539.04 Tm
+(t.) Tj
+1 0 0 1 107.76 528 Tm
+(#) Tj
+1 0 0 1 134.88 528 Tm
+(test:) Tj
+1 0 0 1 177.84 528 Tm
+(Run) Tj
+1 0 0 1 199.44 528 Tm
+(the) Tj
+1 0 0 1 220.8 528 Tm
+(testing) Tj
+1 0 0 1 263.999 528 Tm
+(command) Tj
+1 0 0 1 306.959 528 Tm
+(in) Tj
+1 0 0 1 323.039 528 Tm
+(variable) Tj
+1 0 0 1 371.519 528 Tm
+(TESTPROGR) Tj
+1 0 0 1 419.279 528 Tm
+(AM) Tj
+1 0 0 1 436.079 528 Tm
+(for) Tj
+1 0 0 1 457.439 528 Tm
+(each) Tj
+1 0 0 1 107.76 517.2 Tm
+(#) Tj
+1 0 0 1 177.84 517.2 Tm
+(of) Tj
+1 0 0 1 193.92 517.2 Tm
+(the) Tj
+1 0 0 1 215.52 517.2 Tm
+(arguments) Tj
+1 0 0 1 269.28 517.2 Tm
+(given) Tj
+1 0 0 1 301.439 517.2 Tm
+(in) Tj
+1 0 0 1 317.759 517.2 Tm
+(the) Tj
+1 0 0 1 339.119 517.2 Tm
+(variable) Tj
+1 0 0 1 387.599 517.2 Tm
+(TESTS.) Tj
+1 0 0 1 107.76 495.12 Tm
+(LOADLIBE) Tj
+1 0 0 1 150.24 495.12 Tm
+(S) Tj
+1 0 0 1 161.76 495.12 Tm
+(=) Tj
+1 0 0 1 172.32 495.12 Tm
+(-lm) Tj
+1 0 0 1 107.76 473.28 Tm
+(LDFLAGS) Tj
+1 0 0 1 150.96 473.28 Tm
+(=) Tj
+1 0 0 1 161.76 473.28 Tm
+(-g) Tj
+1 0 0 1 107.76 451.44 Tm
+(CXX) Tj
+1 0 0 1 129.36 451.44 Tm
+(=) Tj
+1 0 0 1 140.16 451.44 Tm
+(g++) Tj
+1 0 0 1 107.76 429.36 Tm
+(CXXFLAGS) Tj
+1 0 0 1 156.24 429.36 Tm
+(=) Tj
+1 0 0 1 167.04 429.36 Tm
+(-g) Tj
+1 0 0 1 183.12 429.36 Tm
+(-Wall) Tj
+1 0 0 1 107.76 407.52 Tm
+(OBJS) Tj
+1 0 0 1 134.88 407.52 Tm
+(=) Tj
+1 0 0 1 145.44 407.52 Tm
+($\(CXX_SR) Tj
+1 0 0 1 187.92 407.52 Tm
+(CS) Tj
+1 0 0 1 198.72 407.52 Tm
+(:.c) Tj
+1 0 0 1 214.8 407.52 Tm
+(c=) Tj
+1 0 0 1 225.599 407.52 Tm
+(.o\)) Tj
+1 0 0 1 107.76 385.68 Tm
+(#) Tj
+1 0 0 1 118.56 385.68 Tm
+(Default) Tj
+1 0 0 1 161.76 385.68 Tm
+(entry) Tj
+1 0 0 1 107.76 374.64 Tm
+(all:) Tj
+1 0 0 1 134.88 374.64 Tm
+($\(PROGRAM\)) Tj
+1 0 0 1 107.76 352.8 Tm
+($\(PROGRA) Tj
+1 0 0 1 150.24 352.8 Tm
+(M\)) Tj
+1 0 0 1 167.04 352.8 Tm
+(:) Tj
+1 0 0 1 177.84 352.8 Tm
+($\(OBJS\)) Tj
+1 0 0 1 150.96 341.76 Tm
+($\(CXX\)) Tj
+1 0 0 1 188.64 341.76 Tm
+($\(LDFLAGS\)) Tj
+1 0 0 1 247.68 341.76 Tm
+($\(OBJS\)) Tj
+1 0 0 1 290.879 341.76 Tm
+($\(LOADLIBE) Tj
+1 0 0 1 343.919 341.76 Tm
+(S\)) Tj
+1 0 0 1 360.719 341.76 Tm
+(-o) Tj
+1 0 0 1 376.799 341.76 Tm
+($\(PROGRA) Tj
+1 0 0 1 419.279 341.76 Tm
+(M\)) Tj
+1 0 0 1 107.76 319.92 Tm
+(clean:) Tj
+1 0 0 1 150.96 308.88 Tm
+(/bin/rm) Tj
+1 0 0 1 193.92 308.88 Tm
+(-f) Tj
+1 0 0 1 210 308.88 Tm
+($\(OBJS\)) Tj
+1 0 0 1 253.2 308.88 Tm
+($\(PROGRAM\)) Tj
+1 0 0 1 312.239 308.88 Tm
+(*\304) Tj
+1 0 0 1 107.76 287.04 Tm
+(test:) Tj
+1 0 0 1 145.44 287.04 Tm
+($\(PROGRA) Tj
+1 0 0 1 187.92 287.04 Tm
+(M\)) Tj
+1 0 0 1 150.96 276 Tm
+(for) Tj
+1 0 0 1 172.32 276 Tm
+(test) Tj
+1 0 0 1 199.44 276 Tm
+(in) Tj
+1 0 0 1 215.52 276 Tm
+($\(TESTS\);) Tj
+1 0 0 1 269.28 276 Tm
+(do) Tj
+1 0 0 1 285.36 276 Tm
+(\\) Tj
+1 0 0 1 172.32 265.2 Tm
+(echo) Tj
+1 0 0 1 199.44 265.2 Tm
+("Running) Tj
+1 0 0 1 247.68 265.2 Tm
+($\(TESTPR) Tj
+1 0 0 1 290.159 265.2 Tm
+(OGR) Tj
+1 0 0 1 306.239 265.2 Tm
+(AM) Tj
+1 0 0 1 317.039 265.2 Tm
+(\)) Tj
+1 0 0 1 328.319 265.2 Tm
+($${test}) Tj
+1 0 0 1 376.799 265.2 Tm
+(...") Tj
+1 0 0 1 403.679 265.2 Tm
+(;) Tj
+1 0 0 1 414.479 265.2 Tm
+(\\) Tj
+1 0 0 1 172.32 254.16 Tm
+(if) Tj
+1 0 0 1 188.64 254.16 Tm
+($\(TESTPROG) Tj
+1 0 0 1 241.68 254.16 Tm
+(RA) Tj
+1 0 0 1 252.48 254.16 Tm
+(M\)) Tj
+1 0 0 1 269.28 254.16 Tm
+($${test};) Tj
+1 0 0 1 323.039 254.16 Tm
+(then) Tj
+1 0 0 1 349.919 254.16 Tm
+(\\) Tj
+1 0 0 1 193.92 243.12 Tm
+(echo) Tj
+1 0 0 1 220.8 243.12 Tm
+("Test) Tj
+1 0 0 1 253.2 243.12 Tm
+(succeeds.") Tj
+1 0 0 1 306.24 243.12 Tm
+(;) Tj
+1 0 0 1 317.759 243.12 Tm
+(\\) Tj
+1 0 0 1 172.32 232.32 Tm
+(else) Tj
+1 0 0 1 199.44 232.32 Tm
+(echo) Tj
+1 0 0 1 226.32 232.32 Tm
+("Test) Tj
+1 0 0 1 258.48 232.32 Tm
+(failed.";) Tj
+1 0 0 1 312.239 232.32 Tm
+(\\) Tj
+1 0 0 1 172.32 221.28 Tm
+(fi;) Tj
+1 0 0 1 193.92 221.28 Tm
+(\\) Tj
+1 0 0 1 150.96 210.24 Tm
+(done) Tj
+1 0 0 1 107.76 188.4 Tm
+(make.dep) Tj
+1 0 0 1 150.24 188.4 Tm
+(en) Tj
+1 0 0 1 161.04 188.4 Tm
+(d:) Tj
+1 0 0 1 150.96 177.36 Tm
+(rm) Tj
+1 0 0 1 167.04 177.36 Tm
+(-f) Tj
+1 0 0 1 183.12 177.36 Tm
+(make.dep) Tj
+1 0 0 1 225.6 177.36 Tm
+(end) Tj
+1 0 0 1 150.96 166.56 Tm
+($\(CXX\)) Tj
+1 0 0 1 188.64 166.56 Tm
+(-MM) Tj
+1 0 0 1 210 166.56 Tm
+($\(CXX_SR) Tj
+1 0 0 1 252.48 166.56 Tm
+(CS) Tj
+1 0 0 1 263.28 166.56 Tm
+(\)) Tj
+1 0 0 1 274.559 166.56 Tm
+(>) Tj
+1 0 0 1 285.359 166.56 Tm
+(make.depe) Tj
+1 0 0 1 333.119 166.56 Tm
+(nd) Tj
+1 0 0 1 107.76 144.48 Tm
+(depend:) Tj
+1 0 0 1 150.96 133.68 Tm
+($\(CXX\)) Tj
+1 0 0 1 188.64 133.68 Tm
+(-MM) Tj
+1 0 0 1 210 133.68 Tm
+($\(CXX_SR) Tj
+1 0 0 1 252.48 133.68 Tm
+(CS) Tj
+1 0 0 1 263.28 133.68 Tm
+(\)) Tj
+1 0 0 1 274.559 133.68 Tm
+(>) Tj
+1 0 0 1 285.359 133.68 Tm
+(make.depe) Tj
+1 0 0 1 333.119 133.68 Tm
+(nd) Tj
+1 0 0 1 107.76 111.6 Tm
+(#) Tj
+1 0 0 1 118.56 111.6 Tm
+(If) Tj
+1 0 0 1 134.88 111.6 Tm
+(the) Tj
+1 0 0 1 156.24 111.6 Tm
+(make.dep) Tj
+1 0 0 1 198.72 111.6 Tm
+(end) Tj
+1 0 0 1 220.8 111.6 Tm
+(file) Tj
+1 0 0 1 247.679 111.6 Tm
+(does) Tj
+1 0 0 1 274.559 111.6 Tm
+(not) Tj
+1 0 0 1 296.159 111.6 Tm
+(exist,) Tj
+1 0 0 1 333.839 111.6 Tm
+(gmake) Tj
+1 0 0 1 365.999 111.6 Tm
+(will) Tj
+1 0 0 1 392.879 111.6 Tm
+(use) Tj
+1 0 0 1 414.479 111.6 Tm
+(the) Tj
+1 0 0 1 436.079 111.6 Tm
+(rule) Tj
+1 0 0 1 107.76 100.8 Tm
+(#) Tj
+1 0 0 1 118.56 100.8 Tm
+(for) Tj
+1 0 0 1 140.16 100.8 Tm
+(make.depe) Tj
+1 0 0 1 187.92 100.8 Tm
+(nd) Tj
+1 0 0 1 204.72 100.8 Tm
+(above) Tj
+1 0 0 1 236.879 100.8 Tm
+(to) Tj
+1 0 0 1 253.199 100.8 Tm
+(create) Tj
+1 0 0 1 290.879 100.8 Tm
+(it.) Tj
+1 0 0 1 107.76 89.76 Tm
+(include) Tj
+1 0 0 1 150.96 89.76 Tm
+(make.depe) Tj
+1 0 0 1 198.72 89.76 Tm
+(nd) Tj
+/R132 11 Tf
+1 0 0 1 90 59.28 Tm
+(Figure) Tj
+1 0 0 1 120.96 59.28 Tm
+(1:) Tj
+1 0 0 1 133.44 59.28 Tm
+(An) Tj
+1 0 0 1 149.28 59.28 Tm
+(e) Tj
+1 0 0 1 153.84 59.28 Tm
+(xample) Tj
+1 0 0 1 188.88 59.28 Tm
+(of) Tj
+1 0 0 1 200.4 59.28 Tm
+(a) Tj
+1 0 0 1 207.84 59.28 Tm
+(standard) Tj
+1 0 0 1 247.44 59.28 Tm
+(make\256le) Tj
+1 0 0 1 287.52 59.28 Tm
+(de\256nitions) Tj
+1 0 0 1 336.479 59.28 Tm
+(that) Tj
+1 0 0 1 355.199 59.28 Tm
+(can) Tj
+1 0 0 1 372.959 59.28 Tm
+(be) Tj
+1 0 0 1 385.919 59.28 Tm
+(included) Tj
+1 0 0 1 426.239 59.28 Tm
+(from) Tj
+1 0 0 1 449.999 59.28 Tm
+(a) Tj
+1 0 0 1 457.199 59.28 Tm
+(speci\256c) Tj
+1 0 0 1 493.199 59.28 Tm
+(make\256le) Tj
+1 0 0 1 90 45.6 Tm
+(to) Tj
+1 0 0 1 101.28 45.6 Tm
+(compile) Tj
+1 0 0 1 139.2 45.6 Tm
+(man) Tj
+1 0 0 1 157.92 45.6 Tm
+(y) Tj
+1 0 0 1 166.08 45.6 Tm
+(simple) Tj
+1 0 0 1 198.24 45.6 Tm
+(collections) Tj
+1 0 0 1 248.4 45.6 Tm
+(of) Tj
+1 0 0 1 260.16 45.6 Tm
+(C++) Tj
+1 0 0 1 282.72 45.6 Tm
+(programs.) Tj
+ET
+Q
+endstream
+endobj
+137 0 obj
+10463
+endobj
+129 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R135 135 0 R
+/R132 132 0 R
+>>
+>>
+/Contents [
+130 0 R
+133 0 R
+136 0 R
+]
+>>
+endobj
+139 0 obj
+<< /Length 140 0 R >>
+stream
+q
+endstream
+endobj
+140 0 obj
+2
+endobj
+141 0 obj
+<< /Type /Font /Name /R141 /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+142 0 obj
+<< /Length 143 0 R >>
+stream
+BT
+/R141 11 Tf
+1 0 0 1 84 708 Tm
+(48) Tj
+1 0 0.167 1 461.52 708 Tm
+(P) Tj
+1 0 0.167 1 466.32 708 Tm
+(.) Tj
+1 0 0.167 1 472.08 708 Tm
+(N.) Tj
+1 0 0.167 1 485.28 708 Tm
+(Hil\256nger) Tj
+ET
+endstream
+endobj
+143 0 obj
+187
+endobj
+144 0 obj
+<< /Type /Font /Name /R144 /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+145 0 obj
+<< /Length 146 0 R >>
+stream
+BT
+/R144 12 Tf
+1 0 0 1 84 672.24 Tm
+(7) Tj
+1 0 0 1 102 672.24 Tm
+(Make\256les) Tj
+1 0 0 1 153.84 672.24 Tm
+(with) Tj
+1 0 0 1 179.52 672.24 Tm
+(J) Tj
+1 0 0 1 185.28 672.24 Tm
+(a) Tj
+1 0 0 1 191.04 672.24 Tm
+(va) Tj
+/R141 11 Tf
+1 0 0 1 84 651.12 Tm
+(T) Tj
+1 0 0 1 89.76 651.12 Tm
+(o) Tj
+1 0 0 1 97.6799 651.12 Tm
+(be) Tj
+1 0 0 1 110.64 651.12 Tm
+(honest,) Tj
+1 0 0 1 144.72 651.12 Tm
+(Ja) Tj
+1 0 0 1 153.6 651.12 Tm
+(v) Tj
+1 0 0 1 158.88 651.12 Tm
+(a) Tj
+1 0 0 1 166.08 651.12 Tm
+(does) Tj
+1 0 0 1 188.64 651.12 Tm
+(not) Tj
+1 0 0 1 205.2 651.12 Tm
+(sho) Tj
+1 0 0 1 220.32 651.12 Tm
+(w) Tj
+1 0 0 1 230.64 651.12 Tm
+(the) Tj
+ET
+endstream
+endobj
+146 0 obj
+624
+endobj
+147 0 obj
+<< /Type /Font /Name /R147 /Subtype /Type1 /BaseFont /Courier >>
+endobj
+148 0 obj
+<< /Length 149 0 R >>
+stream
+BT
+/R147 11 Tf
+1 0 0 1 246.72 651.12 Tm
+(make) Tj
+/R141 11 Tf
+1 0 0 1 275.52 651.12 Tm
+(utility) Tj
+1 0 0 1 304.319 651.12 Tm
+(at) Tj
+1 0 0 1 314.639 651.12 Tm
+(its) Tj
+1 0 0 1 327.599 651.12 Tm
+(best.) Tj
+1 0 0 1 351.839 651.12 Tm
+(The) Tj
+1 0 0 1 371.519 651.12 Tm
+(problem) Tj
+1 0 0 1 410.399 651.12 Tm
+(is) Tj
+1 0 0 1 420.239 651.12 Tm
+(that) Tj
+1 0 0 1 439.199 651.12 Tm
+(Ja) Tj
+1 0 0 1 448.079 651.12 Tm
+(v) Tj
+1 0 0 1 453.359 651.12 Tm
+(a) Tj
+1 0 0 1 460.799 651.12 Tm
+(does) Tj
+1 0 0 1 483.359 651.12 Tm
+(not) Tj
+1 0 0 1 499.919 651.12 Tm
+(really) Tj
+1 0 0 1 84 637.68 Tm
+(allo) Tj
+1 0 0 1 100.32 637.68 Tm
+(w) Tj
+1 0 0 1 111.36 637.68 Tm
+(the) Tj
+1 0 0 1 128.16 637.68 Tm
+(separation) Tj
+1 0 0 1 176.64 637.68 Tm
+(of) Tj
+1 0 0 1 189.36 637.68 Tm
+(header) Tj
+1 0 0 1 222 637.68 Tm
+(\256les) Tj
+1 0 0 1 243.6 637.68 Tm
+(from) Tj
+1 0 0 1 268.32 637.68 Tm
+(implementation) Tj
+1 0 0 1 340.559 637.68 Tm
+(\256les.) Tj
+1 0 0 1 367.679 637.68 Tm
+(F) Tj
+1 0 0 1 373.439 637.68 Tm
+(or) Tj
+1 0 0 1 386.159 637.68 Tm
+(e) Tj
+1 0 0 1 390.719 637.68 Tm
+(xample,) Tj
+1 0 0 1 429.359 637.68 Tm
+(suppose) Tj
+1 0 0 1 467.999 637.68 Tm
+(\256le) Tj
+/R147 11 Tf
+1 0 0 1 485.519 637.68 Tm
+(B.java) Tj
+/R141 11 Tf
+1 0 0 1 84 624.24 Tm
+(contains) Tj
+1 0 0 1 123.84 624.24 Tm
+(uses) Tj
+1 0 0 1 146.16 624.24 Tm
+(of) Tj
+1 0 0 1 158.64 624.24 Tm
+(methods) Tj
+1 0 0 1 199.2 624.24 Tm
+(or) Tj
+1 0 0 1 211.92 624.24 Tm
+(classes) Tj
+1 0 0 1 245.76 624.24 Tm
+(from) Tj
+/R147 11 Tf
+1 0 0 1 270.48 624.24 Tm
+(A.java) Tj
+/R141 11 Tf
+1 0 0 1 309.359 624.24 Tm
+(.) Tj
+1 0 0 1 318.719 624.24 Tm
+(From) Tj
+/R147 11 Tf
+1 0 0 1 345.839 624.24 Tm
+(make) Tj
+/R141 11 Tf
+1 0 0 1 371.759 624.24 Tm
+(') Tj
+1 0 0 1 374.639 624.24 Tm
+(s) Tj
+1 0 0 1 382.799 624.24 Tm
+(perspecti) Tj
+1 0 0 1 422.159 624.24 Tm
+(v) Tj
+1 0 0 1 427.439 624.24 Tm
+(e,) Tj
+1 0 0 1 438.719 624.24 Tm
+(we) Tj
+1 0 0 1 454.799 624.24 Tm
+(ha) Tj
+1 0 0 1 464.879 624.24 Tm
+(v) Tj
+1 0 0 1 470.159 624.24 Tm
+(e) Tj
+1 0 0 1 478.559 624.24 Tm
+(to) Tj
+1 0 0 1 490.559 624.24 Tm
+(say) Tj
+1 0 0 1 508.559 624.24 Tm
+(that) Tj
+/R147 11 Tf
+1 0 0 1 84 610.56 Tm
+(B.class) Tj
+/R141 11 Tf
+1 0 0 1 133.2 610.56 Tm
+(depends) Tj
+1 0 0 1 172.32 610.56 Tm
+(on) Tj
+/R147 11 Tf
+1 0 0 1 186.48 610.56 Tm
+(A.java) Tj
+/R141 11 Tf
+1 0 0 1 225.36 610.56 Tm
+(.) Tj
+1 0 0 1 234 610.56 Tm
+(Thus,) Tj
+1 0 0 1 261.84 610.56 Tm
+(whene) Tj
+1 0 0 1 290.16 610.56 Tm
+(v) Tj
+1 0 0 1 295.44 610.56 Tm
+(er) Tj
+1 0 0 1 307.199 610.56 Tm
+(a) Tj
+1 0 0 1 315.359 610.56 Tm
+(method) Tj
+1 0 0 1 351.359 610.56 Tm
+(in) Tj
+/R147 11 Tf
+1 0 0 1 363.119 610.56 Tm
+(A.java) Tj
+/R141 11 Tf
+1 0 0 1 405.599 610.56 Tm
+(is) Tj
+1 0 0 1 416.159 610.56 Tm
+(changed,) Tj
+1 0 0 1 458.879 610.56 Tm
+(as) Tj
+1 0 0 1 471.119 610.56 Tm
+(far) Tj
+1 0 0 1 486.239 610.56 Tm
+(as) Tj
+/R147 11 Tf
+1 0 0 1 498.719 610.56 Tm
+(make) Tj
+/R141 11 Tf
+1 0 0 1 84 597.12 Tm
+(kno) Tj
+1 0 0 1 100.32 597.12 Tm
+(ws,) Tj
+/R147 11 Tf
+1 0 0 1 119.52 597.12 Tm
+(B.java) Tj
+/R141 11 Tf
+1 0 0 1 163.2 597.12 Tm
+(must) Tj
+1 0 0 1 188.64 597.12 Tm
+(be) Tj
+1 0 0 1 203.04 597.12 Tm
+(recompiled\320e) Tj
+1 0 0 1 268.08 597.12 Tm
+(v) Tj
+1 0 0 1 273.36 597.12 Tm
+(en) Tj
+1 0 0 1 287.76 597.12 Tm
+(if) Tj
+1 0 0 1 298.56 597.12 Tm
+(the) Tj
+1 0 0 1 316.079 597.12 Tm
+(signatures) Tj
+1 0 0 1 364.559 597.12 Tm
+(and) Tj
+1 0 0 1 384.479 597.12 Tm
+(names) Tj
+1 0 0 1 416.639 597.12 Tm
+(of) Tj
+1 0 0 1 429.839 597.12 Tm
+(the) Tj
+1 0 0 1 447.359 597.12 Tm
+(classes,) Tj
+1 0 0 1 485.039 597.12 Tm
+(methods,) Tj
+1 0 0 1 84 583.44 Tm
+(\256elds) Tj
+1 0 0 1 110.88 583.44 Tm
+(in) Tj
+/R147 11 Tf
+1 0 0 1 122.64 583.44 Tm
+(A.java) Tj
+/R141 11 Tf
+1 0 0 1 165.36 583.44 Tm
+(ha) Tj
+1 0 0 1 175.44 583.44 Tm
+(v) Tj
+1 0 0 1 180.72 583.44 Tm
+(e) Tj
+1 0 0 1 188.88 583.44 Tm
+(not) Tj
+1 0 0 1 206.16 583.44 Tm
+(changed.) Tj
+1 0 0 1 250.8 583.44 Tm
+(There) Tj
+1 0 0 1 279.36 583.44 Tm
+(is) Tj
+1 0 0 1 289.92 583.44 Tm
+(often) Tj
+1 0 0 1 315.6 583.44 Tm
+(nothing) Tj
+1 0 0 1 352.319 583.44 Tm
+(for) Tj
+1 0 0 1 368.399 583.44 Tm
+(it) Tj
+1 0 0 1 377.759 583.44 Tm
+(at) Tj
+1 0 0 1 388.799 583.44 Tm
+(the) Tj
+1 0 0 1 405.359 583.44 Tm
+(moment) Tj
+1 0 0 1 444.479 583.44 Tm
+(b) Tj
+1 0 0 1 449.759 583.44 Tm
+(ut) Tj
+1 0 0 1 461.519 583.44 Tm
+(to) Tj
+1 0 0 1 473.279 583.44 Tm
+(write) Tj
+1 0 0 1 498.959 583.44 Tm
+(tri) Tj
+1 0 0 1 508.559 583.44 Tm
+(vial) Tj
+1 0 0 1 84 570 Tm
+(sets) Tj
+1 0 0 1 103.68 570 Tm
+(of) Tj
+1 0 0 1 115.92 570 Tm
+(dependenc) Tj
+1 0 0 1 162.48 570 Tm
+(y) Tj
+1 0 0 1 171.36 570 Tm
+(rules) Tj
+1 0 0 1 196.08 570 Tm
+(in) Tj
+1 0 0 1 207.84 570 Tm
+(which) Tj
+1 0 0 1 237.84 570 Tm
+(e) Tj
+1 0 0 1 242.4 570 Tm
+(v) Tj
+1 0 0 1 247.68 570 Tm
+(ery) Tj
+/R147 11 Tf
+1 0 0 1 264.96 570 Tm
+(.class) Tj
+/R141 11 Tf
+1 0 0 1 307.68 570 Tm
+(\256le) Tj
+1 0 0 1 324.959 570 Tm
+(depends) Tj
+1 0 0 1 364.079 570 Tm
+(on) Tj
+1 0 0 1 378.239 570 Tm
+(e) Tj
+1 0 0 1 382.799 570 Tm
+(v) Tj
+1 0 0 1 388.079 570 Tm
+(ery) Tj
+/R147 11 Tf
+1 0 0 1 405.359 570 Tm
+(.java) Tj
+/R141 11 Tf
+1 0 0 1 441.599 570 Tm
+(\256le.) Tj
+1 0 0 1 463.679 570 Tm
+(Still,) Tj
+/R147 11 Tf
+1 0 0 1 488.159 570 Tm
+(make) Tj
+/R141 11 Tf
+1 0 0 1 517.679 570 Tm
+(is) Tj
+1 0 0 1 84 556.32 Tm
+(useful) Tj
+1 0 0 1 113.28 556.32 Tm
+(for) Tj
+1 0 0 1 128.64 556.32 Tm
+(making) Tj
+1 0 0 1 164.16 556.32 Tm
+(the) Tj
+1 0 0 1 180 556.32 Tm
+(compilation) Tj
+1 0 0 1 234.96 556.32 Tm
+(process) Tj
+1 0 0 1 270.48 556.32 Tm
+(easy:) Tj
+1 0 0 1 296.88 556.32 Tm
+(you) Tj
+1 0 0 1 315.84 556.32 Tm
+(can) Tj
+1 0 0 1 333.599 556.32 Tm
+(still) Tj
+1 0 0 1 352.559 556.32 Tm
+(arrange) Tj
+1 0 0 1 388.079 556.32 Tm
+(for) Tj
+1 0 0 1 403.199 556.32 Tm
+(a) Tj
+1 0 0 1 410.639 556.32 Tm
+(plain) Tj
+/R147 11 Tf
+1 0 0 1 435.119 556.32 Tm
+(gmake) Tj
+/R141 11 Tf
+1 0 0 1 470.639 556.32 Tm
+(command) Tj
+1 0 0 1 516.479 556.32 Tm
+(to) Tj
+1 0 0 1 84 542.88 Tm
+(compile) Tj
+1 0 0 1 121.92 542.88 Tm
+(e) Tj
+1 0 0 1 126.48 542.88 Tm
+(v) Tj
+1 0 0 1 131.76 542.88 Tm
+(erything) Tj
+1 0 0 1 171.12 542.88 Tm
+(that) Tj
+1 0 0 1 190.08 542.88 Tm
+(needs) Tj
+1 0 0 1 217.68 542.88 Tm
+(to) Tj
+1 0 0 1 228.96 542.88 Tm
+(be) Tj
+1 0 0 1 241.92 542.88 Tm
+(compiled.) Tj
+1 0 0 1 289.44 542.88 Tm
+(Thus,) Tj
+1 0 0 1 316.8 542.88 Tm
+(a) Tj
+1 0 0 1 324.24 542.88 Tm
+(Ja) Tj
+1 0 0 1 333.12 542.88 Tm
+(v) Tj
+1 0 0 1 338.4 542.88 Tm
+(a) Tj
+1 0 0 1 345.84 542.88 Tm
+(program) Tj
+1 0 0 1 385.679 542.88 Tm
+(contained) Tj
+1 0 0 1 431.039 542.88 Tm
+(in) Tj
+1 0 0 1 442.079 542.88 Tm
+(\256les) Tj
+/R147 11 Tf
+1 0 0 1 462.959 542.88 Tm
+(Main.jav) Tj
+1 0 0 1 515.039 542.88 Tm
+(a) Tj
+/R141 11 Tf
+1 0 0 1 521.519 542.88 Tm
+(,) Tj
+/R147 11 Tf
+1 0 0 1 84 529.2 Tm
+(Car.java) Tj
+/R141 11 Tf
+1 0 0 1 135.84 529.2 Tm
+(,) Tj
+/R147 11 Tf
+1 0 0 1 142.08 529.2 Tm
+(Truck.java) Tj
+/R141 11 Tf
+1 0 0 1 207.12 529.2 Tm
+(,) Tj
+1 0 0 1 213.36 529.2 Tm
+(and) Tj
+/R147 11 Tf
+1 0 0 1 231.839 529.2 Tm
+(Drive.jav) Tj
+1 0 0 1 290.399 529.2 Tm
+(a) Tj
+/R141 11 Tf
+1 0 0 1 300.239 529.2 Tm
+(might) Tj
+1 0 0 1 328.559 529.2 Tm
+(use) Tj
+1 0 0 1 346.079 529.2 Tm
+(make\256le) Tj
+1 0 0 1 386.399 529.2 Tm
+(rules) Tj
+1 0 0 1 410.399 529.2 Tm
+(like) Tj
+1 0 0 1 429.359 529.2 Tm
+(this:) Tj
+/R147 11 Tf
+1 0 0 1 105.84 506.88 Tm
+(PROGRAM) Tj
+1 0 0 1 158.4 506.88 Tm
+(=) Tj
+1 0 0 1 171.6 506.88 Tm
+(Main.clas) Tj
+1 0 0 1 230.16 506.88 Tm
+(s) Tj
+1 0 0 1 105.84 479.76 Tm
+(JAVA_SRC) Tj
+1 0 0 1 165.12 479.76 Tm
+(=) Tj
+1 0 0 1 184.8 479.76 Tm
+(Main.java) Tj
+1 0 0 1 250.56 479.76 Tm
+(Car.java) Tj
+1 0 0 1 309.599 479.76 Tm
+(Truck.ja) Tj
+1 0 0 1 361.679 479.76 Tm
+(va) Tj
+1 0 0 1 382.079 479.76 Tm
+(Drive.java) Tj
+1 0 0 1 105.84 452.64 Tm
+(JFLAGS) Tj
+1 0 0 1 151.92 452.64 Tm
+(=) Tj
+1 0 0 1 165.12 452.64 Tm
+(-g) Tj
+1 0 0 1 105.84 425.52 Tm
+(#) Tj
+1 0 0 1 119.04 425.52 Tm
+(This) Tj
+1 0 0 1 151.92 425.52 Tm
+(defines) Tj
+1 0 0 1 204.48 425.52 Tm
+(a) Tj
+1 0 0 1 217.68 425.52 Tm
+(new) Tj
+1 0 0 1 243.84 425.52 Tm
+(implicit) Tj
+1 0 0 1 303.119 425.52 Tm
+(rule) Tj
+1 0 0 1 335.999 425.52 Tm
+(for) Tj
+1 0 0 1 362.399 425.52 Tm
+(getting) Tj
+1 0 0 1 414.959 425.52 Tm
+(.class) Tj
+1 0 0 1 461.039 425.52 Tm
+(files) Tj
+1 0 0 1 500.399 425.52 Tm
+(out) Tj
+1 0 0 1 526.799 425.52 Tm
+(of) Tj
+1 0 0 1 105.84 411.84 Tm
+(#) Tj
+1 0 0 1 119.04 411.84 Tm
+(.java) Tj
+1 0 0 1 158.4 411.84 Tm
+(files.) Tj
+1 0 0 1 204.48 411.84 Tm
+(This) Tj
+1 0 0 1 237.36 411.84 Tm
+(rule) Tj
+1 0 0 1 270.24 411.84 Tm
+(says:) Tj
+1 0 0 1 309.599 411.84 Tm
+(To) Tj
+1 0 0 1 329.519 411.84 Tm
+(make) Tj
+1 0 0 1 362.399 411.84 Tm
+(foo.class) Tj
+1 0 0 1 428.159 411.84 Tm
+(from) Tj
+1 0 0 1 461.039 411.84 Tm
+(foo.java,) Tj
+1 0 0 1 105.84 398.4 Tm
+(#) Tj
+1 0 0 1 119.04 398.4 Tm
+(send) Tj
+1 0 0 1 151.92 398.4 Tm
+(all) Tj
+1 0 0 1 178.32 398.4 Tm
+(files) Tj
+1 0 0 1 217.68 398.4 Tm
+(that) Tj
+1 0 0 1 250.56 398.4 Tm
+(foo.class) Tj
+1 0 0 1 316.319 398.4 Tm
+(depends) Tj
+1 0 0 1 368.879 398.4 Tm
+(on) Tj
+1 0 0 1 388.559 398.4 Tm
+(\($\303\)) Tj
+1 0 0 1 421.439 398.4 Tm
+(to) Tj
+1 0 0 1 441.119 398.4 Tm
+(javac.) Tj
+1 0 0 1 105.84 384.72 Tm
+(%.class:) Tj
+1 0 0 1 165.12 384.72 Tm
+(%.java) Tj
+1 0 0 1 158.4 371.28 Tm
+(javac) Tj
+1 0 0 1 198 371.28 Tm
+($\(JFLAGS\)) Tj
+1 0 0 1 263.76 371.28 Tm
+($\303) Tj
+1 0 0 1 105.84 344.16 Tm
+(CLASSES) Tj
+1 0 0 1 158.4 344.16 Tm
+(=) Tj
+1 0 0 1 171.6 344.16 Tm
+($\(JAVA_SR) Tj
+1 0 0 1 230.16 344.16 Tm
+(C:.) Tj
+1 0 0 1 249.84 344.16 Tm
+(ja) Tj
+1 0 0 1 263.039 344.16 Tm
+(va=) Tj
+1 0 0 1 282.719 344.16 Tm
+(.c) Tj
+1 0 0 1 295.919 344.16 Tm
+(las) Tj
+1 0 0 1 315.599 344.16 Tm
+(s\)) Tj
+1 0 0 1 105.84 317.04 Tm
+(all:) Tj
+1 0 0 1 138.72 317.04 Tm
+($\(CLASSES) Tj
+1 0 0 1 197.28 317.04 Tm
+(\)) Tj
+1 0 0 1 105.84 289.92 Tm
+($\(CLASSES) Tj
+1 0 0 1 164.4 289.92 Tm
+(\):) Tj
+1 0 0 1 184.8 289.92 Tm
+($\(JAVA_SRC) Tj
+1 0 0 1 249.84 289.92 Tm
+(\)) Tj
+ET
+Q
+endstream
+endobj
+149 0 obj
+9496
+endobj
+138 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 612 792]
+/Parent 2 0 R
+/Resources << /ProcSet [/PDF /Text]
+/Font <<
+/R147 147 0 R
+/R144 144 0 R
+/R141 141 0 R
+>>
+>>
+/Contents [
+139 0 R
+142 0 R
+145 0 R
+148 0 R
+]
+>>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [
+3 0 R
+18 0 R
+30 0 R
+46 0 R
+70 0 R
+90 0 R
+105 0 R
+117 0 R
+129 0 R
+138 0 R
+] /Count 10
+>>
+endobj
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R
+>>
+endobj
+150 0 obj
+<< /CreationDate (D:19980129110329)
+/Producer (Aladdin Ghostscript 5.01)
+>>
+endobj
+xref
+0 151
+0000000000 65535 f 
+0000156020 00000 n 
+0000155893 00000 n 
+0000015227 00000 n 
+0000000015 00000 n 
+0000000069 00000 n 
+0000000086 00000 n 
+0000000168 00000 n 
+0000000759 00000 n 
+0000000778 00000 n 
+0000000859 00000 n 
+0000001324 00000 n 
+0000001344 00000 n 
+0000001424 00000 n 
+0000006257 00000 n 
+0000006278 00000 n 
+0000006363 00000 n 
+0000015206 00000 n 
+0000034636 00000 n 
+0000015448 00000 n 
+0000015504 00000 n 
+0000015522 00000 n 
+0000015606 00000 n 
+0000015846 00000 n 
+0000015866 00000 n 
+0000015946 00000 n 
+0000019951 00000 n 
+0000019972 00000 n 
+0000020057 00000 n 
+0000034614 00000 n 
+0000052472 00000 n 
+0000034837 00000 n 
+0000034893 00000 n 
+0000034911 00000 n 
+0000034995 00000 n 
+0000035217 00000 n 
+0000035237 00000 n 
+0000035317 00000 n 
+0000039634 00000 n 
+0000039655 00000 n 
+0000039914 00000 n 
+0000039933 00000 n 
+0000041879 00000 n 
+0000041900 00000 n 
+0000041985 00000 n 
+0000052450 00000 n 
+0000068552 00000 n 
+0000052715 00000 n 
+0000052771 00000 n 
+0000052789 00000 n 
+0000052873 00000 n 
+0000054355 00000 n 
+0000054376 00000 n 
+0000054456 00000 n 
+0000055266 00000 n 
+0000055286 00000 n 
+0000055369 00000 n 
+0000055843 00000 n 
+0000055863 00000 n 
+0000056222 00000 n 
+0000056242 00000 n 
+0000059297 00000 n 
+0000059318 00000 n 
+0000059639 00000 n 
+0000059658 00000 n 
+0000059794 00000 n 
+0000059813 00000 n 
+0000060135 00000 n 
+0000060154 00000 n 
+0000068531 00000 n 
+0000083867 00000 n 
+0000068833 00000 n 
+0000068889 00000 n 
+0000068907 00000 n 
+0000068991 00000 n 
+0000069213 00000 n 
+0000069233 00000 n 
+0000069313 00000 n 
+0000072759 00000 n 
+0000072780 00000 n 
+0000072863 00000 n 
+0000073214 00000 n 
+0000073234 00000 n 
+0000073593 00000 n 
+0000073613 00000 n 
+0000076677 00000 n 
+0000076698 00000 n 
+0000077017 00000 n 
+0000077036 00000 n 
+0000083846 00000 n 
+0000098331 00000 n 
+0000084129 00000 n 
+0000084185 00000 n 
+0000084203 00000 n 
+0000084287 00000 n 
+0000084527 00000 n 
+0000084547 00000 n 
+0000084627 00000 n 
+0000089459 00000 n 
+0000089480 00000 n 
+0000089563 00000 n 
+0000095520 00000 n 
+0000095542 00000 n 
+0000095629 00000 n 
+0000098309 00000 n 
+0000117146 00000 n 
+0000098555 00000 n 
+0000098613 00000 n 
+0000098632 00000 n 
+0000098718 00000 n 
+0000098943 00000 n 
+0000098964 00000 n 
+0000099046 00000 n 
+0000114741 00000 n 
+0000114764 00000 n 
+0000114849 00000 n 
+0000117124 00000 n 
+0000133377 00000 n 
+0000117358 00000 n 
+0000117416 00000 n 
+0000117435 00000 n 
+0000117521 00000 n 
+0000117797 00000 n 
+0000117818 00000 n 
+0000117900 00000 n 
+0000125138 00000 n 
+0000125160 00000 n 
+0000125245 00000 n 
+0000133355 00000 n 
+0000144622 00000 n 
+0000133589 00000 n 
+0000133647 00000 n 
+0000133666 00000 n 
+0000133752 00000 n 
+0000133977 00000 n 
+0000133998 00000 n 
+0000134080 00000 n 
+0000144599 00000 n 
+0000155681 00000 n 
+0000144812 00000 n 
+0000144870 00000 n 
+0000144889 00000 n 
+0000144975 00000 n 
+0000145218 00000 n 
+0000145239 00000 n 
+0000145324 00000 n 
+0000146004 00000 n 
+0000146025 00000 n 
+0000146107 00000 n 
+0000155659 00000 n 
+0000156069 00000 n 
+trailer
+<< /Size 151 /Root 1 0 R /Info 150 0 R
+>>
+startxref
+156162
+%%EOF
