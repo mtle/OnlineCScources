@@ -55,7 +55,7 @@ public class PixImage {
       for (int y=0; y<imgHeight; y++)
           for (int x=0; x<imgWidth; x++)
               Image[y][x] = img.Image[y][x];
-      System.out.print("\nCopy constructor image." + Image);
+      //System.out.print("\nCopy constructor image." + img);
   }
 
   /**
@@ -212,12 +212,8 @@ public class PixImage {
       if( numIterations < 1 ) {
           return this;
       } else {
-          newImg[0] = new PixImage(this.getWidth(), this.getHeight());
-          for(int y=0; y<this.getHeight(); y++)
-              for(int x=0; x<this.getWidth(); x++)
-                  newImg[0].setPixelRGB(x,y,this.getPixelRGB(x,y));
-          System.out.print("\nOriginal Image:" + newImg[0]);
-          for (int i=1; i<=numIterations; i++) { // loop through the number of iterations
+          newImg[0] = new PixImage(this);
+          for (int i=1; i<=numIterations; ++i) { // loop through the number of iterations
               int w = newImg[i-1].getWidth();
               int h = newImg[i-1].getHeight();
               newImg[i] = new PixImage(w, h);
@@ -228,45 +224,15 @@ public class PixImage {
                           x2 = y2 = 2;
                           x1 = (x==0)?x:(x-1);
                           y1 = (y==0)?y:(y-1);
-                          /*if( x==0 ) {
-                              x1 = x;
-                              if( y==0 )
-                                  y1 = y;
-                              else
-                                  y1 = y - 1;
-                          } else if ( x==(w-1) ) {
-                              x1 = x - 1;
-                              if ( y==0 )
-                                  y1 = y;
-                              else
-                                  y1 = y - 1;*/
+                        //System.out.println("Corner pixel: (x,y,x1,y1,x2,y2) = ("
+                        //                                   + x  +", " + y  + ", "
+                        //                                   + x1 +", " + y1 + ", "
+                        //                                   + x2 +", " + y2 + ")");
                       } else if ( newImg[i-1].isEdge(x,y,w,h) ) {
-                          /*x1 = (x==0)?x:(x-1);
+                          x1 = (x==0)?x:(x-1);
                           y1 = (y==0)?y:(y-1);
                           x2 = (x==0 || x==(w-1))?2:3;
-                          y2 = (y==0 || y==(h-1))?2:3;*/
-
-                          if( x==0 ) {
-                              x1 = x;
-                              x2 = 2;
-                              y1 = y - 1;
-                              y2 = 3;
-                          } else if ( x==w-1 ) {
-                              x1 = x - 1;
-                              x2 = 2;
-                              y1 = y - 1;
-                              y2 = 3;
-                          } else if ( y==0 ) {
-                              x1 = x - 1;
-                              x2 = 3;
-                              y1 = y;
-                              y2 = 2;
-                          } else {
-                              x1 = x - 1;
-                              x2 = 3;
-                              y1 = y - 1;
-                              y2 = 2;
-                          }
+                          y2 = (y==0 || y==(h-1))?2:3;
                       } else { // 9 neighbor cases
                           x1 = x - 1;
                           y1 = y - 1;
@@ -277,8 +243,6 @@ public class PixImage {
               } // for y
           } // for i
       } // outer most if-else
-      //System.out.print("\nOriginalImage:" + newImg[0]);
-      //System.out.print("\nBlurred Image:" + newImg[numIterations]);
       return newImg[numIterations];
   }
 
@@ -300,11 +264,8 @@ public class PixImage {
                           int x1, int y1, int ix, int iy) {
       int rgb = 0;
 
-      //System.out.println();
-      //System.out.println("(x,y,x1,y1,ix,iy) = (" + x +" "+y+" " + x1+" "+y1+" "+ix+" "+iy+")");
-      //System.out.print("in blurPixel function" + img);
       for (int j=0; j<iy; j++)
-          for( int i=x1; i<ix; i++) {
+          for( int i=0; i<ix; i++) {
               rgb += img.getPixelRGB(i+x1,j+y1);
           }
       short nPixel= (short)(ix*iy);
@@ -444,11 +405,16 @@ public class PixImage {
     PixImage image1 = array2PixImage(new int[][] { { 0, 10, 240 },
                                                    { 30, 120, 250 },
                                                    { 80, 250, 255 } });
-    System.out.println("Testing getWidth/getHeight on a 3x3 image.  " +
-                       "Input image:");
+    //System.out.println("Testing getWidth/getHeight on a 3x3 image.  " + "Input image:");
     System.out.print(image1);
-    doTest(image1.getWidth() == 3 && image1.getHeight() == 3,
-           "Incorrect image width and height.");
+    PixImage clone = new PixImage(image1);
+
+    /*System.out.println("Clone image - deep copy:");
+    System.out.print(clone);
+    System.out.println("End of Clone image - deep copy:");
+    */
+    //doTest(image1.getWidth() == 3 && image1.getHeight() == 3,
+    //       "Incorrect image width and height.");
 
     System.out.println("Testing blurring on a 3x3 image.");
     doTest(image1.boxBlur(1).equals(
