@@ -23,12 +23,65 @@
 
 import java.util.Iterator;
 
+class PixelNode {
+    private int red, green, blue;
+    private int width, height, runLength;
+    private PixelDList next;
+    private PixelDList prev;
+
+    public PixelNode( int r, int g, int b,
+                      int w, int h,
+                      PixelNode prv,
+                      PixelNode nxt) {
+        red = r;
+        green = g;
+        blue = b;
+        width = w;
+        height = h;
+        runLength = r;
+        prev = prv;
+        next = nxt;
+    }
+}
+
+class PixelDList {
+
+    public PixelDList () {
+        red = green = blue = width = height = runLength = 0;
+        next = prev = null;
+    }
+    public PixelDList ( int r, int g, int b,
+                        int w, int h,
+                        PixelDList prv) {
+        red = r;
+        green = g;
+        blue = b;
+        width = w;
+        height = h;
+        runLength = r;
+        prev = prv;
+        next = null;
+    }
+    public int getRed()   { return red; }
+    public int getGreen() { return green; }
+    public int getBlue()  { return blue; }
+    public void  setRed(int r)    { red   = r; }
+    public void  setGreen(int g)  { green = g; }
+    public void  setBlue(int b)   { blue  = b; }
+}
+
+
 public class RunLengthEncoding implements Iterable {
 
   /**
    *  Define any variables associated with a RunLengthEncoding object here.
    *  These variables MUST be private.
    */
+    private int rlWidth;
+    private int rlHeight;
+    private int[][] rlImage;
+    //private PixImage rlImage;
+    private PixelDList rlEncoding;
 
 
 
@@ -48,8 +101,22 @@ public class RunLengthEncoding implements Iterable {
 
   public RunLengthEncoding(int width, int height) {
     // Your solution here.
+    assert( width>0 || height>0 ):"Image width and height should be > 0";
+    //rlImage = new PixImage(width, height);
+    rlWidth = width;
+    rlHeight = height;
+    rlImage = new int[height][width];
+    for (int j=0; j<height; ++j)
+        for (int i=0; i<width; ++i)
+            rlImage[j][i] = 0;
   }
 
+  public void setPixelRGB(int x, int y, int v) {
+    assert( x>0 || y>0 ):"Image width and height should be > 0";
+    assert( v>0 || v<255 ):"Intensity should be 0..255";
+      //Image.setPixelRGB(x, y, v);
+
+  }
   /**
    *  RunLengthEncoding() (with six parameters) constructs a run-length
    *  encoding of a PixImage of the specified width and height.  The runs of
@@ -74,6 +141,8 @@ public class RunLengthEncoding implements Iterable {
   public RunLengthEncoding(int width, int height, int[] red, int[] green,
                            int[] blue, int[] runLengths) {
     // Your solution here.
+    assert( width>0 || height>0 ):"Image width and height should be > 0";
+    rlEncoding = new PixelDList;
   }
 
   /**
@@ -85,7 +154,8 @@ public class RunLengthEncoding implements Iterable {
 
   public int getWidth() {
     // Replace the following line with your solution.
-    return 1;
+    return this.rlWidth;
+    //return rlImage.getWidth();
   }
 
   /**
@@ -96,7 +166,8 @@ public class RunLengthEncoding implements Iterable {
    */
   public int getHeight() {
     // Replace the following line with your solution.
-    return 1;
+    return this.rlHeight;
+    //return rlImage.getHeight();
   }
 
   /**
@@ -146,7 +217,7 @@ public class RunLengthEncoding implements Iterable {
   /**
    *  RunLengthEncoding() (with one parameter) is a constructor that creates
    *  a run-length encoding of a specified PixImage.
-   * 
+   *
    *  Note that you must encode the image in row-major format, i.e., the second
    *  pixel should be (1, 0) and not (0, 1).
    *
