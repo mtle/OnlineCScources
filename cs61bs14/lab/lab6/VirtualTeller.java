@@ -36,12 +36,11 @@ public class VirtualTeller {
    *  @param acct is an account number.
    *  @param amount an amount of money.
    */
-  public void withdraw(int acct, int amount) {
+  public void withdraw(int acct, int amount) throws BadTransactionException {
     AccountData account = findAccount(acct);
 
     if (account == null) {   // Didn't find the account.
-      System.out.println("Error:  Couldn't find account number `" +
-                         acct + "'" );
+        throw new BadTransactionException(acct);
     } else {
       account.withdraw(amount);
     }
@@ -54,12 +53,12 @@ public class VirtualTeller {
    *  @param acct is an account number.
    *  @param amount an amount of money.
    */
-  public void deposit(int acct, int amount) {
+  public void deposit(int acct, int amount) throws BadAccountException{
     AccountData account = findAccount(acct);
 
-    if (account == null) { 
-      System.out.println("Error:  Couldn't find account number `" +
-                         acct + "'");
+    if (account == null) {
+        throw new BadAccountException(acct);
+      //System.out.println("Error:  Couldn't find account number `" + acct + "'");
     } else {
       account.deposit(amount);
     }

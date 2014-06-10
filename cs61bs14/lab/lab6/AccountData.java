@@ -26,7 +26,7 @@ public class AccountData implements Keyable {
    **/
   public boolean lessThan(Keyable x) {
     return number < ((AccountData) x).number;
-  }  
+  }
 
   /**
    *  getOwner() returns the name of this account's owner.
@@ -42,7 +42,7 @@ public class AccountData implements Keyable {
     return "" + number;
   }
 
-    
+
   /**
    *  getBalance() returns the balance of this account.
    **/
@@ -50,10 +50,11 @@ public class AccountData implements Keyable {
     return balance;
   }
 
-  /** 
+  /**
    *  withdraw() reduces the balance by the withdrawal amount "amt".
    **/
   public void withdraw(int amt) {
+    assert( amt>=0 ):"Withdraw a negative amount";
     if (amt <= balance) {
       balance = balance - amt;
     } else {
