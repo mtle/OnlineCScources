@@ -24,13 +24,26 @@
 import java.util.Iterator;
 
 class PixelNode {
-    private int red, green, blue;
-    private int width, height, runLength;
-    private PixelDList next;
-    private PixelDList prev;
+    protected int red, green, blue;
+    protected int width, height, runLength;
+    protected PixelNode next;
+    protected PixelNode prev;
 
+    public PixelNode() {
+        red = green = blue = width = height = runLength = 0;
+        this.prev = null;
+        this.next = null;
+    }
+    public PixelNode(int w, int h) {
+        red = green = blue = 0;
+        width = w;
+        height = h;
+        runLength = 0;
+        this.prev = null;
+        this.next = null;
+    }
     public PixelNode( int r, int g, int b,
-                      int w, int h,
+                      int w, int h, int rl,
                       PixelNode prv,
                       PixelNode nxt) {
         red = r;
@@ -38,36 +51,37 @@ class PixelNode {
         blue = b;
         width = w;
         height = h;
-        runLength = r;
-        prev = prv;
-        next = nxt;
+        runLength = rl;
+        this.prev = prv;
+        this.next = nxt;
     }
 }
 
 class PixelDList {
 
+    protected PixelNode head;
+    private int size;
+
     public PixelDList () {
-        red = green = blue = width = height = runLength = 0;
-        next = prev = null;
+        head = new PixelNode();
+        size = 0;
+    }
+    public PixelDList (int w, int h) {
+        head = new PixelNode(w, h);
+        size = 0;
     }
     public PixelDList ( int r, int g, int b,
-                        int w, int h,
-                        PixelDList prv) {
-        red = r;
-        green = g;
-        blue = b;
-        width = w;
-        height = h;
-        runLength = r;
-        prev = prv;
-        next = null;
+                        int w, int h, int rl,
+                        PixelNode prv,
+                        PixelNode nxt) {
+        PixelNode head = new PixelNode(r, g, b, w, h, rl, prv, nxt);
     }
-    public int getRed()   { return red; }
-    public int getGreen() { return green; }
-    public int getBlue()  { return blue; }
-    public void  setRed(int r)    { red   = r; }
-    public void  setGreen(int g)  { green = g; }
-    public void  setBlue(int b)   { blue  = b; }
+    //public int getRed()   { return red; }
+    //public int getGreen() { return green; }
+    //public int getBlue()  { return blue; }
+    //public void  setRed(int r)    { red   = r; }
+    //public void  setGreen(int g)  { green = g; }
+    //public void  setBlue(int b)   { blue  = b; }
 }
 
 
@@ -81,7 +95,7 @@ public class RunLengthEncoding implements Iterable {
     private int rlHeight;
     private int[][] rlImage;
     //private PixImage rlImage;
-    private PixelDList rlEncoding;
+    private PixelDList rleHead;
 
 
 
@@ -142,7 +156,14 @@ public class RunLengthEncoding implements Iterable {
                            int[] blue, int[] runLengths) {
     // Your solution here.
     assert( width>0 || height>0 ):"Image width and height should be > 0";
-    rlEncoding = new PixelDList;
+    rleHead = new PixelDList();
+    int i = 0;
+    while ( i<width*height ) {
+        PixelNode node = new PixelNode(red[i], green[i], blue[i],
+                                        runLength[i],rleHead.prev,
+                                        rleHead.next);
+
+    }
   }
 
   /**

@@ -52,19 +52,22 @@ public class DList {
    */
   public DList() {
     //  Your solution here.
+    head = newNode(0,null,null);
+    head.next = head.prev = head;
+    size = 0;
   }
 
   /**
    *  isEmpty() returns true if this DList is empty, false otherwise.
-   *  @return true if this DList is empty, false otherwise. 
+   *  @return true if this DList is empty, false otherwise.
    *  Performance:  runs in O(1) time.
    */
   public boolean isEmpty() {
     return size == 0;
   }
 
-  /** 
-   *  length() returns the length of this DList. 
+  /**
+   *  length() returns the length of this DList.
    *  @return the length of this DList.
    *  Performance:  runs in O(1) time.
    */
@@ -79,6 +82,12 @@ public class DList {
    */
   public void insertFront(Object item) {
     // Your solution here.
+      if( head!=null ) {
+          DListNode node = newNode( item, head, head.next);
+          head.next.prev = node;
+          head.next = node;
+          ++size;
+      }
   }
 
   /**
@@ -88,6 +97,12 @@ public class DList {
    */
   public void insertBack(Object item) {
     // Your solution here.
+      if( head!=null ) {
+          DListNode node = newNode( item, head.prev, head);
+          head.prev.next = node;
+          head.prev = node;
+          ++size;
+      }
   }
 
   /**
@@ -101,6 +116,8 @@ public class DList {
    */
   public DListNode front() {
     // Your solution here.
+    if( head.next == head ) return null;
+    return head.next;
   }
 
   /**
@@ -114,6 +131,8 @@ public class DList {
    */
   public DListNode back() {
     // Your solution here.
+    if( head.prev == head ) return null;
+    return head.prev;
   }
 
   /**
@@ -127,7 +146,8 @@ public class DList {
    *  Performance:  runs in O(1) time.
    */
   public DListNode next(DListNode node) {
-    // Your solution here.
+    if( node == null || node.next==head ) return null;
+    return node.next;
   }
 
   /**
@@ -141,7 +161,8 @@ public class DList {
    *  Performance:  runs in O(1) time.
    */
   public DListNode prev(DListNode node) {
-    // Your solution here.
+    if( node == null || node.prev==head ) return null;
+    return node.prev;
   }
 
   /**
@@ -153,6 +174,15 @@ public class DList {
    */
   public void insertAfter(Object item, DListNode node) {
     // Your solution here.
+    if( node==null || node.prev==null | node.next==null ) {
+    } else {
+        DListNode t1 = this.next(node);
+        DListNode t2;
+        t2 = newNode(item, node, t1);
+        t1.prev = t2;
+        node.next = t2;
+        ++size;
+    }
   }
 
   /**
@@ -164,6 +194,15 @@ public class DList {
    */
   public void insertBefore(Object item, DListNode node) {
     // Your solution here.
+    if( node==null || node.prev==null | node.next==null ) {
+    } else {
+        DListNode t1 = this.prev(node);
+        DListNode t2;
+        t2 = newNode(item, t1, node);
+        t1.next = t2;
+        node.prev = t2;
+        ++size;
+    }
   }
 
   /**
@@ -171,7 +210,15 @@ public class DList {
    *  Performance:  runs in O(1) time.
    */
   public void remove(DListNode node) {
-    // Your solution here.
+    if ( node.next==null || node.prev==null || node==null ) {
+    } else {
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+        node.prev = null;
+        node.next = null;
+        node.item = null;
+        --size;
+    }
   }
 
   /**
@@ -191,4 +238,69 @@ public class DList {
     }
     return result + "]";
   }
+
+  /** Test code
+   */
+  public static void main(String[] args) {
+      DList t;
+      t = new DList();
+      TestInsert(t);
+  }
+  public static void TestInsert(DList l) {
+
+      Integer i;
+      System.out.println("### TESTING insertFront ###\nEmpty list is " + l);
+
+      i = 9;
+      l.insertFront(i);
+      System.out.println("\nInserting 9 at front.\nList with 9 is " + l);
+      if (l.head.next.item != (Integer) 9) {
+          System.out.println("head.next.item is wrong.");
+      }
+      if (l.head.next.prev != l.head) {
+          System.out.println("head.next.prev is wrong.");
+      }
+      if (l.head.prev.item != (Integer) 9) {
+          System.out.println("head.prev.item is wrong.");
+      }
+      if (l.head.prev.next != l.head) {
+          System.out.println("head.prev.next is wrong.");
+      }
+      if (l.size != 1) {
+          System.out.println("size is wrong.");
+      }
+
+      i = 8;
+      l.insertFront(i);
+      System.out.println("\nInserting 8 at front.\nList with 8 and 9 is " + l);
+      if (l.head.next.item != (Integer) 8) {
+          System.out.println("head.next.item is wrong.");
+      }
+      if (l.head.next.prev != l.head) {
+          System.out.println("head.next.prev is wrong.");
+      }
+      if (l.head.prev.item != (Integer) 9) {
+          System.out.println("head.prev.item is wrong.");
+      }
+      if (l.head.prev.next != l.head) {
+          System.out.println("head.prev.next is wrong.");
+      }
+      if (l.head.next.next != l.head.prev) {
+          System.out.println("l.head.next.next != l.head.prev.");
+      }
+      if (l.head.prev.prev != l.head.next) {
+          System.out.println("l.head.prev.prev != l.head.next.");
+      }
+      if (l.size != 2) {
+          System.out.println("size is wrong.");
+      }
+
+      l.insertBack(10);
+      l.insertBack(11);
+      System.out.println("\nList with 10 and 11 is " + l);
+      //l.insertBefore(l.prev(8),20);
+      //l.insertBack(11);
+      //System.out.println("\nList with 10 and 11 is " + l);
+  }
+
 }

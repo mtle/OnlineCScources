@@ -59,6 +59,12 @@ public class DList extends List {
   public DList() {
     // Your solution here.  Similar to Homework 4, but now you need to specify
     //   the `list' field (second parameter) as well.
+      if( head==null ) {
+          head = new DListNode(null, null, null, null);
+          head.prev = head;
+          head.next = head;
+          size = 0;
+      }
   }
 
   /**
@@ -71,6 +77,12 @@ public class DList extends List {
   public void insertFront(Object item) {
     // Your solution here.  Similar to Homework 4, but now you need to specify
     //   the `list' field (second parameter) as well.
+      if( head!=null) {
+          DListNode node = newNode(item, this, head, head.next);
+          head.next = node;
+          node.next.prev = node;
+          ++size;
+      }
   }
 
   /**
@@ -83,6 +95,12 @@ public class DList extends List {
   public void insertBack(Object item) {
     // Your solution here.  Similar to Homework 4, but now you need to specify
     //   the `list' field (second parameter) as well.
+      if( head!=null) {
+          DListNode node = newNode(item, this, head.prev, head);
+          head.prev = node;
+          node.prev.next = node;
+          ++size;
+      }
   }
 
   /**
@@ -232,18 +250,18 @@ public class DList extends List {
       System.out.println("Removing middle element (8) of l: " + n.item());
       n.remove();
       System.out.println("l is now: " + l);
-      testInvalidNode(n);    
+      testInvalidNode(n);
       n = l.back();
       System.out.println("Removing end element (12) of l: " + n.item());
       n.remove();
       System.out.println("l is now: " + l);
-      testInvalidNode(n);    
+      testInvalidNode(n);
 
       n = l.front();
       System.out.println("Removing first element (4) of l: " + n.item());
       n.remove();
       System.out.println("l is now: " + l);
-      testInvalidNode(n);    
+      testInvalidNode(n);
     } catch (InvalidNodeException lbe) {
       System.err.println ("Caught InvalidNodeException that should not happen."
                           );
